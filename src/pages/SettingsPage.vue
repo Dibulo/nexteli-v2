@@ -107,5 +107,17 @@ function handleClearAll() {
         </button>
       </div>
     </div>
+
+    <p class="mt-10 text-center text-xs opacity-50">
+      Made in Switzerland by
+      <a
+        href="https://dibulo.com?ref=nexteli"
+        target="_blank"
+        rel="noopener"
+        class="link link-hover"
+      >
+        dibulo.com
+      </a>
+    </p>
   </div>
 </template>
