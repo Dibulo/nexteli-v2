@@ -146,3 +146,16 @@ body {
   font-size: 0.875rem;
   opacity: 0.6;
 }
+
+.route-drag-handle {
+  cursor: grab;
+  touch-action: none;
+}
+
+.route-drag-handle:active {
+  cursor: grabbing;
+}
+
+.route-card-ghost {
+  opacity: 0.5;
+}

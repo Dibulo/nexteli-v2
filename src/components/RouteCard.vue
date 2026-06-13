@@ -4,6 +4,7 @@ import { useI18n } from 'vue-i18n'
 import {
   ArrowRight,
   ArrowLeftRight,
+  GripVertical,
   MoreVertical,
   RefreshCw,
   Trash2,
@@ -75,7 +76,14 @@ function scrollRight() {
     class="surface-card surface-card-interactive"
   >
     <!-- Header -->
-    <div class="flex items-center gap-3 px-5 pt-5 sm:px-6">
+    <div class="flex items-center gap-2 px-5 pt-5 sm:gap-3 sm:px-6">
+      <button
+        type="button"
+        class="route-drag-handle btn btn-ghost btn-sm btn-circle shrink-0 opacity-40 hover:opacity-100"
+        :aria-label="t('routes.reorder')"
+      >
+        <GripVertical class="size-4" />
+      </button>
       <div class="flex min-w-0 flex-1 items-center gap-2">
         <span class="truncate text-base font-semibold tracking-tight sm:text-lg">
           {{ route.departure.name }}

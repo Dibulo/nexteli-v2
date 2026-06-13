@@ -28,7 +28,8 @@
     "remove": "Supprimer le trajet",
     "removeConfirm": "Voulez-vous vraiment supprimer ce trajet ?",
     "refresh": "Actualiser",
-    "addReverse": "Ajouter le trajet retour"
+    "addReverse": "Ajouter le trajet retour",
+    "reorder": "Réorganiser le trajet"
   },
   "connection": {
     "now": "maint.",

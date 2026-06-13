@@ -28,7 +28,8 @@
     "remove": "Remove route",
     "removeConfirm": "Do you really want to remove this route?",
     "refresh": "Refresh",
-    "addReverse": "Add reverse route"
+    "addReverse": "Add reverse route",
+    "reorder": "Reorder route"
   },
   "connection": {
     "now": "now",

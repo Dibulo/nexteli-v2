@@ -28,7 +28,8 @@
     "remove": "Rimuovi percorso",
     "removeConfirm": "Vuoi davvero rimuovere questo percorso?",
     "refresh": "Aggiorna",
-    "addReverse": "Aggiungi percorso di ritorno"
+    "addReverse": "Aggiungi percorso di ritorno",
+    "reorder": "Riordina percorso"
   },
   "connection": {
     "now": "ora",

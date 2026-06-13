@@ -28,7 +28,8 @@
     "remove": "Route lösche",
     "removeConfirm": "Wotsch die Route würkli lösche?",
     "refresh": "Aktualisiere",
-    "addReverse": "Gegereoute dezuetue"
+    "addReverse": "Gegereoute dezuetue",
+    "reorder": "Route verschiebe"
   },
   "connection": {
     "now": "jetzt",

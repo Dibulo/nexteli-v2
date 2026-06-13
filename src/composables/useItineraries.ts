@@ -1,10 +1,12 @@
 import { computed } from 'vue'
+import { storeToRefs } from 'pinia'
 import { useItinerariesStore } from '@/stores/itineraries'
-import type { RouteWithConnections } from '@/types/itinerary'
+import type { RouteWithConnections, SavedRoute } from '@/types/itinerary'
 import type { SavedStation } from '@/types/itinerary'
 
 export function useItineraries() {
   const store = useItinerariesStore()
+  const { routes: savedRoutes } = storeToRefs(store)
 
   const routes = computed<RouteWithConnections[]>(() =>
     store.sortedRoutes.map((r) => {
@@ -52,12 +54,18 @@ export function useItineraries() {
     store.refreshAll()
   }
 
+  function setRouteOrder(orderedRoutes: SavedRoute[]) {
+    store.setRouteOrder(orderedRoutes)
+  }
+
   return {
     routes,
+    savedRoutes,
     hasRoutes,
     addRoute,
     removeRoute,
     refreshRoute,
     refreshAll,
+    setRouteOrder,
   }
 }

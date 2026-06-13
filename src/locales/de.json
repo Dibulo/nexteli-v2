@@ -28,7 +28,8 @@
     "remove": "Route entfernen",
     "removeConfirm": "Möchtest du diese Route wirklich entfernen?",
     "refresh": "Aktualisieren",
-    "addReverse": "Gegenroute hinzufügen"
+    "addReverse": "Gegenroute hinzufügen",
+    "reorder": "Route verschieben"
   },
   "connection": {
     "now": "jetzt",

@@ -16,9 +16,7 @@ export const useItinerariesStore = defineStore('itineraries', () => {
 
   const hasRoutes = computed(() => routes.value.length > 0)
 
-  const sortedRoutes = computed(() =>
-    [...routes.value].sort((a, b) => a.createdAt - b.createdAt)
-  )
+  const sortedRoutes = computed(() => routes.value)
 
   function routeById(id: string): SavedRoute | undefined {
     return routes.value.find((r) => r.id === id)
@@ -33,7 +31,15 @@ export const useItinerariesStore = defineStore('itineraries', () => {
   }
 
   function hydrate() {
-    routes.value = loadRoutes()
+    routes.value = loadRoutes().sort(
+      (a, b) => (a.createdAt ?? 0) - (b.createdAt ?? 0)
+    )
+    saveRoutes(routes.value)
+  }
+
+  function setRouteOrder(orderedRoutes: SavedRoute[]) {
+    routes.value = orderedRoutes
+    saveRoutes(routes.value)
   }
 
   function addRoute(departure: Station, destination: Station): boolean {
@@ -121,6 +127,7 @@ export const useItinerariesStore = defineStore('itineraries', () => {
     routeById,
     connectionsForRoute,
     hydrate,
+    setRouteOrder,
     addRoute,
     removeRoute,
     clearAll,
