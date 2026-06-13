@@ -1,11 +1,12 @@
 import type { SavedRoute } from '@/types/itinerary'
 import type { AppSettings } from '@/types/itinerary'
+import { getBrowserLocale } from '@/utils/locale'
 
 const ROUTES_KEY = 'nexteli:routes'
 const SETTINGS_KEY = 'nexteli:settings'
 
 const DEFAULT_SETTINGS: AppSettings = {
-  locale: 'de',
+  locale: getBrowserLocale(),
   theme: 'nexteli',
 }
 

@@ -14,14 +14,16 @@ import fr from './locales/fr.json'
 import it from './locales/it.json'
 import gsw from './locales/gsw.json'
 
+import { getBrowserLocale } from './utils/locale'
+
 import './app.css'
 
 const pinia = createPinia()
 
 const i18n = createI18n({
   legacy: false,
-  locale: 'de',
-  fallbackLocale: 'de',
+  locale: getBrowserLocale(),
+  fallbackLocale: 'en',
   messages: { de, en, fr, it, gsw },
 })
 

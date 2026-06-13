@@ -2,9 +2,10 @@ import { defineStore } from 'pinia'
 import { ref } from 'vue'
 import type { LocaleId, ThemeId } from '@/types/itinerary'
 import { loadSettings, saveSettings, clearAllData } from '@/utils/storage'
+import { getBrowserLocale } from '@/utils/locale'
 
 export const useSettingsStore = defineStore('settings', () => {
-  const locale = ref<LocaleId>('de')
+  const locale = ref<LocaleId>(getBrowserLocale())
   const theme = ref<ThemeId>('nexteli')
 
   function hydrate() {
@@ -31,9 +32,10 @@ export const useSettingsStore = defineStore('settings', () => {
 
   function clearAllData_() {
     clearAllData()
-    locale.value = 'de'
+    const browserLocale = getBrowserLocale()
+    locale.value = browserLocale
     theme.value = 'nexteli'
-    document.documentElement.lang = 'de'
+    document.documentElement.lang = browserLocale
     document.documentElement.setAttribute('data-theme', 'nexteli')
   }
 
