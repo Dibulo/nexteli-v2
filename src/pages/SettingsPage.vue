@@ -2,7 +2,8 @@
 import { ref } from 'vue'
 import { useRouter } from 'vue-router'
 import { useI18n } from 'vue-i18n'
-import { ExternalLink, Trash2 } from 'lucide-vue-next'
+import { Trash2, ExternalLink } from 'lucide-vue-next'
+import AboutCard from '@/components/AboutCard.vue'
 import LanguageSwitcher from '@/components/LanguageSwitcher.vue'
 import ThemeToggle from '@/components/ThemeToggle.vue'
 import { useSettingsStore } from '@/stores/settings'
@@ -45,23 +46,7 @@ function handleClearAll() {
     </div>
 
     <div class="flex flex-col gap-5">
-      <!-- About -->
-      <div class="surface-card p-5 sm:p-6">
-        <h2 class="text-base font-semibold tracking-tight">{{ t('settings.about') }}</h2>
-        <p class="mt-2 text-sm leading-relaxed opacity-75">
-          {{ t('about.description') }}
-        </p>
-        <p class="mt-2 text-xs opacity-50">{{ t('about.privacy') }}</p>
-        <a
-          href="https://transport.opendata.ch"
-          target="_blank"
-          rel="noopener"
-          class="link link-primary mt-3 inline-flex items-center gap-1.5 text-sm font-medium"
-        >
-          transport.opendata.ch
-          <ExternalLink class="size-3.5" />
-        </a>
-      </div>
+      <AboutCard />
 
       <!-- Language -->
       <div class="surface-card p-5 sm:p-6">
@@ -106,6 +91,14 @@ function handleClearAll() {
           {{ t('settings.clearAll') }}
         </button>
       </div>
+    </div>
+
+    <div class="mt-4 text-center text-sm opacity-50">
+      Swiss public transportation data provided by:
+      <a href="https://transport.opendata.ch" target="_blank" rel="noopener" class="link link-primary inline-flex items-center gap-1.5 text-sm font-medium">
+        transport.opendata.ch
+        <ExternalLink class="size-3.5" />
+      </a>
     </div>
 
     <p class="mt-10 text-center text-xs opacity-50">

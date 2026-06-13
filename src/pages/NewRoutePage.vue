@@ -2,7 +2,7 @@
 import { ref, computed } from 'vue'
 import { useRouter } from 'vue-router'
 import { useI18n } from 'vue-i18n'
-import { Info } from 'lucide-vue-next'
+import AboutCard from '@/components/AboutCard.vue'
 import StationSearch from '@/components/StationSearch.vue'
 import { useItineraries } from '@/composables/useItineraries'
 import type { SavedStation } from '@/types/itinerary'
@@ -39,27 +39,11 @@ function handleSubmit() {
 
 <template>
   <div class="page-container">
-    <!-- About section -->
-    <div
+    <AboutCard
       v-motion-fade
       v-if="!hasRoutes"
-      class="surface-muted mb-8 p-6"
-    >
-      <div class="flex items-start gap-4">
-        <span
-          class="flex size-10 shrink-0 items-center justify-center rounded-xl bg-primary/10 text-primary"
-        >
-          <Info class="size-5" />
-        </span>
-        <div>
-          <h1 class="page-title">{{ t('about.title') }}</h1>
-          <p class="mt-2 text-sm leading-relaxed opacity-75">
-            {{ t('about.description') }}
-          </p>
-          <p class="mt-2 text-xs opacity-50">{{ t('about.privacy') }}</p>
-        </div>
-      </div>
-    </div>
+      class="mb-8"
+    />
 
     <!-- Route form -->
     <div class="surface-card p-6 sm:p-8">
