@@ -27,7 +27,8 @@
     "empty": "Kei Verbindige gfunde",
     "remove": "Route lösche",
     "removeConfirm": "Wotsch die Route würkli lösche?",
-    "refresh": "Aktualisiere"
+    "refresh": "Aktualisiere",
+    "addReverse": "Gegereoute dezuetue"
   },
   "connection": {
     "now": "jetzt",

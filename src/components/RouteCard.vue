@@ -1,8 +1,9 @@
 <script setup lang="ts">
-import { ref, onMounted, onUnmounted } from 'vue'
+import { ref, computed, onMounted, onUnmounted } from 'vue'
 import { useI18n } from 'vue-i18n'
 import {
   ArrowRight,
+  ArrowLeftRight,
   MoreVertical,
   RefreshCw,
   Trash2,
@@ -22,7 +23,14 @@ const emit = defineEmits<{
 }>()
 
 const { t } = useI18n()
-const { refreshRoute } = useItineraries()
+const { refreshRoute, addRoute, routes } = useItineraries()
+
+const reverseRouteId = computed(
+  () => `${props.route.destination.id}::${props.route.departure.id}`
+)
+const hasReverseRoute = computed(() =>
+  routes.value.some((r) => r.id === reverseRouteId.value)
+)
 
 const menuOpen = ref(false)
 const scrollContainer = ref<HTMLElement | null>(null)
@@ -45,6 +53,11 @@ function handleRemove() {
   if (confirm(t('routes.removeConfirm'))) {
     emit('remove', props.route.id)
   }
+}
+
+function handleAddReverseRoute() {
+  menuOpen.value = false
+  addRoute(props.route.destination, props.route.departure)
 }
 
 function scrollLeft() {
@@ -93,6 +106,12 @@ function scrollRight() {
             <button @click="refreshRoute(route.id); menuOpen = false">
               <RefreshCw class="size-4" />
               {{ t('routes.refresh') }}
+            </button>
+          </li>
+          <li v-if="!hasReverseRoute">
+            <button @click="handleAddReverseRoute">
+              <ArrowLeftRight class="size-4" />
+              {{ t('routes.addReverse') }}
             </button>
           </li>
           <li>

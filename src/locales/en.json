@@ -27,7 +27,8 @@
     "empty": "No connections found",
     "remove": "Remove route",
     "removeConfirm": "Do you really want to remove this route?",
-    "refresh": "Refresh"
+    "refresh": "Refresh",
+    "addReverse": "Add reverse route"
   },
   "connection": {
     "now": "now",

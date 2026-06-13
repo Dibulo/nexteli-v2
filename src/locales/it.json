@@ -27,7 +27,8 @@
     "empty": "Nessun collegamento trovato",
     "remove": "Rimuovi percorso",
     "removeConfirm": "Vuoi davvero rimuovere questo percorso?",
-    "refresh": "Aggiorna"
+    "refresh": "Aggiorna",
+    "addReverse": "Aggiungi percorso di ritorno"
   },
   "connection": {
     "now": "ora",

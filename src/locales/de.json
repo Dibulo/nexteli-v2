@@ -27,7 +27,8 @@
     "empty": "Keine Verbindungen gefunden",
     "remove": "Route entfernen",
     "removeConfirm": "Möchtest du diese Route wirklich entfernen?",
-    "refresh": "Aktualisieren"
+    "refresh": "Aktualisieren",
+    "addReverse": "Gegenroute hinzufügen"
   },
   "connection": {
     "now": "jetzt",
