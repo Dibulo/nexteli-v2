@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { useI18n } from 'vue-i18n'
+import { Globe } from 'lucide-vue-next'
 import { useSettingsStore } from '@/stores/settings'
 import type { LocaleId } from '@/types/itinerary'
 
@@ -22,17 +23,22 @@ function onChange(e: Event) {
 </script>
 
 <template>
-  <select
-    class="select select-bordered w-full max-w-xs"
-    :value="settings.locale"
-    @change="onChange"
-  >
-    <option
-      v-for="lang in languages"
-      :key="lang.id"
-      :value="lang.id"
+  <div class="relative">
+    <Globe
+      class="pointer-events-none absolute left-3.5 top-1/2 size-4 -translate-y-1/2 text-base-content/35"
+    />
+    <select
+      class="select select-bordered h-12 w-full max-w-sm rounded-xl pl-10 transition-shadow focus:shadow-sm"
+      :value="settings.locale"
+      @change="onChange"
     >
-      {{ lang.label }}
-    </option>
-  </select>
+      <option
+        v-for="lang in languages"
+        :key="lang.id"
+        :value="lang.id"
+      >
+        {{ lang.label }}
+      </option>
+    </select>
+  </div>
 </template>

@@ -74,39 +74,51 @@ function handleDelete() {
 </script>
 
 <template>
-  <div class="mx-auto max-w-2xl px-4 py-6">
-    <h1 class="mb-4 text-2xl font-bold">{{ t('route.edit') }}</h1>
+  <div class="page-container">
+    <div class="mb-8">
+      <h1 class="page-title">{{ t('route.edit') }}</h1>
+      <p class="page-subtitle">
+        {{ t('route.departure') }} → {{ t('route.destination') }}
+      </p>
+    </div>
 
-    <div class="card bg-base-100 shadow-md">
-      <div class="card-body">
-        <div class="flex flex-col gap-4">
-          <StationSearch
-            v-model="departure"
-            :label="t('route.departure')"
-            :placeholder="t('route.departure')"
-          />
-          <StationSearch
-            v-model="destination"
-            :label="t('route.destination')"
-            :placeholder="t('route.destination')"
-          />
+    <div class="surface-card p-6 sm:p-8">
+      <div class="flex flex-col gap-5">
+        <StationSearch
+          v-model="departure"
+          :label="t('route.departure')"
+          :placeholder="t('route.departure')"
+        />
+        <StationSearch
+          v-model="destination"
+          :label="t('route.destination')"
+          :placeholder="t('route.destination')"
+        />
 
-          <div v-if="errorMsg" class="alert alert-warning text-sm">
-            {{ errorMsg }}
-          </div>
-
-          <button class="btn btn-primary w-full" @click="handleSave">
-            {{ t('common.save') }}
-          </button>
-          <button class="btn btn-error btn-outline w-full" @click="handleDelete">
-            {{ t('common.delete') }}
-          </button>
+        <div v-if="errorMsg" class="alert alert-warning text-sm">
+          {{ errorMsg }}
         </div>
+
+        <button
+          class="btn btn-primary mt-1 w-full rounded-xl"
+          @click="handleSave"
+        >
+          {{ t('common.save') }}
+        </button>
+        <button
+          class="btn btn-error btn-outline w-full rounded-xl"
+          @click="handleDelete"
+        >
+          {{ t('common.delete') }}
+        </button>
       </div>
     </div>
 
-    <div class="mt-4 text-center">
-      <router-link to="/routes" class="link link-primary text-sm">
+    <div class="mt-6 text-center">
+      <router-link
+        to="/routes"
+        class="link link-primary text-sm font-medium opacity-80 hover:opacity-100"
+      >
         {{ t('nav.back') }}
       </router-link>
     </div>

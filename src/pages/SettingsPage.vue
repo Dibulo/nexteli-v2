@@ -39,68 +39,73 @@ function handleClearAll() {
 </script>
 
 <template>
-  <div class="mx-auto max-w-2xl px-4 py-6">
-    <h1 class="mb-6 text-2xl font-bold">{{ t('settings.title') }}</h1>
+  <div class="page-container">
+    <div class="mb-8">
+      <h1 class="page-title">{{ t('settings.title') }}</h1>
+      <p class="page-subtitle">{{ t('about.privacy') }}</p>
+    </div>
 
-    <div class="flex flex-col gap-4">
+    <div class="flex flex-col gap-5">
       <!-- About -->
-      <div class="card bg-base-200">
-        <div class="card-body">
-          <h2 class="card-title text-lg">{{ t('settings.about') }}</h2>
-          <p class="text-sm opacity-80">{{ t('about.description') }}</p>
-          <p class="mt-1 text-xs opacity-60">{{ t('about.privacy') }}</p>
-          <a
-            href="https://transport.opendata.ch"
-            target="_blank"
-            rel="noopener"
-            class="link link-primary mt-2 inline-flex items-center gap-1 text-sm"
-          >
-            transport.opendata.ch
-            <ExternalLink class="size-3" />
-          </a>
-        </div>
+      <div class="surface-card p-5 sm:p-6">
+        <h2 class="text-base font-semibold tracking-tight">{{ t('settings.about') }}</h2>
+        <p class="mt-2 text-sm leading-relaxed opacity-75">
+          {{ t('about.description') }}
+        </p>
+        <p class="mt-2 text-xs opacity-50">{{ t('about.privacy') }}</p>
+        <a
+          href="https://transport.opendata.ch"
+          target="_blank"
+          rel="noopener"
+          class="link link-primary mt-3 inline-flex items-center gap-1.5 text-sm font-medium"
+        >
+          transport.opendata.ch
+          <ExternalLink class="size-3.5" />
+        </a>
       </div>
 
       <!-- Language -->
-      <div class="card bg-base-200">
-        <div class="card-body">
-          <h2 class="card-title text-lg">{{ t('settings.language') }}</h2>
+      <div class="surface-card p-5 sm:p-6">
+        <h2 class="text-base font-semibold tracking-tight">{{ t('settings.language') }}</h2>
+        <div class="mt-4">
           <LanguageSwitcher />
         </div>
       </div>
 
       <!-- Theme -->
-      <div class="card bg-base-200">
-        <div class="card-body">
-          <h2 class="card-title text-lg">{{ t('settings.theme') }}</h2>
+      <div class="surface-card p-5 sm:p-6">
+        <h2 class="text-base font-semibold tracking-tight">{{ t('settings.theme') }}</h2>
+        <div class="mt-4">
           <ThemeToggle />
         </div>
       </div>
 
       <!-- Install PWA -->
-      <div v-if="showInstall" class="card bg-base-200">
-        <div class="card-body">
-          <h2 class="card-title text-lg">{{ t('settings.install') }}</h2>
-          <button class="btn btn-primary btn-sm" @click="installPwa">
-            {{ t('settings.installButton') }}
-          </button>
-        </div>
+      <div v-if="showInstall" class="surface-card p-5 sm:p-6">
+        <h2 class="text-base font-semibold tracking-tight">{{ t('settings.install') }}</h2>
+        <button
+          class="btn btn-primary btn-sm mt-4 rounded-full px-5"
+          @click="installPwa"
+        >
+          {{ t('settings.installButton') }}
+        </button>
       </div>
 
       <!-- Danger zone -->
-      <div class="card border border-error bg-base-200">
-        <div class="card-body">
-          <h2 class="card-title text-lg text-error">
-            {{ t('settings.dangerZone') }}
-          </h2>
-          <button
-            class="btn btn-error btn-outline btn-sm mt-2"
-            @click="handleClearAll"
-          >
-            <Trash2 class="size-4" />
-            {{ t('settings.clearAll') }}
-          </button>
-        </div>
+      <div
+        class="rounded-2xl border border-error/30 bg-error/5 p-5 sm:p-6"
+      >
+        <h2 class="text-base font-semibold tracking-tight text-error">
+          {{ t('settings.dangerZone') }}
+        </h2>
+        <p class="mt-1 text-sm opacity-60">{{ t('settings.clearAllConfirm') }}</p>
+        <button
+          class="btn btn-error btn-outline btn-sm mt-4 rounded-xl"
+          @click="handleClearAll"
+        >
+          <Trash2 class="size-4" />
+          {{ t('settings.clearAll') }}
+        </button>
       </div>
     </div>
   </div>

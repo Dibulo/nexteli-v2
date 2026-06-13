@@ -57,28 +57,37 @@ function scrollRight() {
 </script>
 
 <template>
-  <div v-motion-slide-visible-bottom class="card bg-base-100 shadow-md">
+  <div
+    v-motion-slide-visible-bottom
+    class="surface-card surface-card-interactive overflow-hidden"
+  >
     <!-- Header -->
-    <div class="flex items-center gap-2 px-4 pt-4">
-      <div class="flex-1">
-        <div class="flex items-center gap-2 text-lg font-semibold">
-          <span>{{ route.departure.name }}</span>
-          <ArrowRight class="size-4 opacity-50" />
-          <span>{{ route.destination.name }}</span>
-        </div>
+    <div class="flex items-center gap-3 px-5 pt-5 sm:px-6">
+      <div class="flex min-w-0 flex-1 items-center gap-2">
+        <span class="truncate text-base font-semibold tracking-tight sm:text-lg">
+          {{ route.departure.name }}
+        </span>
+        <span
+          class="flex size-7 shrink-0 items-center justify-center rounded-full bg-base-200 text-base-content/50"
+        >
+          <ArrowRight class="size-3.5" />
+        </span>
+        <span class="truncate text-base font-semibold tracking-tight sm:text-lg">
+          {{ route.destination.name }}
+        </span>
       </div>
 
       <!-- Menu -->
       <div class="dropdown dropdown-end">
         <button
-          class="btn btn-ghost btn-sm btn-square"
+          class="btn btn-ghost btn-sm btn-circle opacity-60 hover:opacity-100"
           @click="menuOpen = !menuOpen"
         >
           <MoreVertical class="size-4" />
         </button>
         <ul
           v-if="menuOpen"
-          class="menu dropdown-content z-10 w-48 rounded-box bg-base-100 p-2 shadow-lg"
+          class="menu dropdown-content z-10 w-48 rounded-xl border border-base-300/40 bg-base-100 p-2 shadow-lg"
         >
           <li>
             <button @click="refreshRoute(route.id); menuOpen = false">
@@ -97,7 +106,7 @@ function scrollRight() {
     </div>
 
     <!-- Connections -->
-    <div class="relative px-4 pb-4 pt-2">
+    <div class="relative px-5 pb-5 pt-4 sm:px-6">
       <!-- Loading -->
       <div
         v-if="route.loading && route.connections.length === 0"
@@ -106,14 +115,14 @@ function scrollRight() {
         <div
           v-for="i in 3"
           :key="i"
-          class="skeleton h-24 min-w-[180px] rounded-xl"
+          class="skeleton h-28 min-w-[200px] rounded-xl"
         />
       </div>
 
       <!-- Error -->
       <div
         v-else-if="route.error"
-        class="alert alert-error flex items-center gap-2 text-sm"
+        class="alert alert-error flex items-center gap-2 rounded-xl text-sm"
       >
         <span>{{ t(route.error) }}</span>
         <button
@@ -127,7 +136,7 @@ function scrollRight() {
       <!-- Connection slots -->
       <div v-else class="flex items-center gap-1">
         <button
-          class="btn btn-ghost btn-xs btn-circle hidden sm:flex"
+          class="btn btn-ghost btn-xs btn-circle hidden opacity-50 hover:opacity-100 sm:flex"
           @click="scrollLeft"
         >
           <ChevronLeft class="size-4" />
@@ -145,14 +154,14 @@ function scrollRight() {
           />
           <div
             v-if="route.connections.length === 0"
-            class="py-4 text-center text-sm opacity-50"
+            class="w-full py-6 text-center text-sm opacity-50"
           >
             {{ t('routes.empty') }}
           </div>
         </div>
 
         <button
-          class="btn btn-ghost btn-xs btn-circle hidden sm:flex"
+          class="btn btn-ghost btn-xs btn-circle hidden opacity-50 hover:opacity-100 sm:flex"
           @click="scrollRight"
         >
           <ChevronRight class="size-4" />

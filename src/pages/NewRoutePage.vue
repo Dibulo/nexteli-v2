@@ -38,59 +38,69 @@ function handleSubmit() {
 </script>
 
 <template>
-  <div class="mx-auto max-w-2xl px-4 py-6">
+  <div class="page-container">
     <!-- About section -->
     <div
       v-motion-fade
       :class="[
-        'card bg-base-200 mb-6',
-        hasRoutes ? 'p-4' : 'p-6',
+        'surface-muted mb-8',
+        hasRoutes ? 'p-5' : 'p-6',
       ]"
     >
-      <div class="flex items-start gap-3">
-        <Info class="mt-1 size-5 shrink-0 text-primary" />
+      <div class="flex items-start gap-4">
+        <span
+          class="flex size-10 shrink-0 items-center justify-center rounded-xl bg-primary/10 text-primary"
+        >
+          <Info class="size-5" />
+        </span>
         <div>
-          <h1 class="text-xl font-bold">{{ t('about.title') }}</h1>
-          <p class="mt-1 text-sm opacity-80">{{ t('about.description') }}</p>
-          <p class="mt-2 text-xs opacity-60">{{ t('about.privacy') }}</p>
+          <h1 class="page-title">{{ t('about.title') }}</h1>
+          <p class="mt-2 text-sm leading-relaxed opacity-75">
+            {{ t('about.description') }}
+          </p>
+          <p class="mt-2 text-xs opacity-50">{{ t('about.privacy') }}</p>
         </div>
       </div>
     </div>
 
     <!-- Route form -->
-    <div class="card bg-base-100 shadow-md">
-      <div class="card-body">
-        <h2 class="card-title text-lg">{{ t('nav.addRoute') }}</h2>
+    <div class="surface-card p-6 sm:p-8">
+      <h2 class="text-lg font-semibold tracking-tight">{{ t('nav.addRoute') }}</h2>
+      <p class="mt-1 text-sm opacity-60">
+        {{ t('route.departure') }} → {{ t('route.destination') }}
+      </p>
 
-        <div class="mt-4 flex flex-col gap-4">
-          <StationSearch
-            v-model="departure"
-            :label="t('route.departure')"
-            :placeholder="t('route.departure')"
-          />
-          <StationSearch
-            v-model="destination"
-            :label="t('route.destination')"
-            :placeholder="t('route.destination')"
-          />
+      <div class="mt-6 flex flex-col gap-5">
+        <StationSearch
+          v-model="departure"
+          :label="t('route.departure')"
+          :placeholder="t('route.departure')"
+        />
+        <StationSearch
+          v-model="destination"
+          :label="t('route.destination')"
+          :placeholder="t('route.destination')"
+        />
 
-          <div v-if="errorMsg" class="alert alert-warning text-sm">
-            {{ errorMsg }}
-          </div>
-
-          <button
-            class="btn btn-primary w-full"
-            :disabled="!canSubmit"
-            @click="handleSubmit"
-          >
-            {{ t('route.submit') }}
-          </button>
+        <div v-if="errorMsg" class="alert alert-warning text-sm">
+          {{ errorMsg }}
         </div>
+
+        <button
+          class="btn btn-primary mt-1 w-full rounded-xl"
+          :disabled="!canSubmit"
+          @click="handleSubmit"
+        >
+          {{ t('route.submit') }}
+        </button>
       </div>
     </div>
 
-    <div v-if="hasRoutes" class="mt-4 text-center">
-      <router-link to="/routes" class="link link-primary text-sm">
+    <div v-if="hasRoutes" class="mt-6 text-center">
+      <router-link
+        to="/routes"
+        class="link link-primary text-sm font-medium opacity-80 hover:opacity-100"
+      >
         {{ t('nav.back') }}
       </router-link>
     </div>

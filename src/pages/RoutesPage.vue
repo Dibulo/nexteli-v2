@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { onMounted, onUnmounted, computed } from 'vue'
+import { onMounted, onUnmounted } from 'vue'
 import { useRouter } from 'vue-router'
 import { useI18n } from 'vue-i18n'
 import RouteCard from '@/components/RouteCard.vue'
@@ -29,9 +29,11 @@ function handleRemove(id: string) {
 </script>
 
 <template>
-  <div class="mx-auto max-w-2xl px-4 py-6">
-    <h1 class="mb-4 text-2xl font-bold">{{ t('routes.title') }}</h1>
-    <div class="flex flex-col gap-4">
+  <div class="page-container">
+    <div class="mb-8">
+      <h1 class="page-title">{{ t('routes.title') }}</h1>
+    </div>
+    <div class="flex flex-col gap-5">
       <RouteCard
         v-for="route in routes"
         :key="route.id"

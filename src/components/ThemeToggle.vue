@@ -19,26 +19,40 @@ function setDark() {
 </script>
 
 <template>
-  <div class="flex items-center gap-1">
+  <div
+    class="inline-flex rounded-xl border border-base-300/50 bg-base-200/60 p-1"
+    role="group"
+    :aria-label="t('settings.theme')"
+  >
     <button
       type="button"
-      class="btn btn-ghost btn-sm btn-square"
-      :class="!isDark ? 'text-warning' : 'opacity-40'"
+      class="flex items-center gap-2 rounded-lg px-3 py-2 text-sm font-medium transition-all"
+      :class="
+        !isDark
+          ? 'bg-base-100 text-warning shadow-sm'
+          : 'text-base-content/50 hover:text-base-content/70'
+      "
       :aria-label="t('settings.themeLight')"
       :aria-pressed="!isDark"
       @click="setLight"
     >
-      <Sun class="size-5" />
+      <Sun class="size-4" />
+      <span class="hidden sm:inline">{{ t('settings.themeLight') }}</span>
     </button>
     <button
       type="button"
-      class="btn btn-ghost btn-sm btn-square"
-      :class="isDark ? 'text-primary' : 'opacity-40'"
+      class="flex items-center gap-2 rounded-lg px-3 py-2 text-sm font-medium transition-all"
+      :class="
+        isDark
+          ? 'bg-base-100 text-primary shadow-sm'
+          : 'text-base-content/50 hover:text-base-content/70'
+      "
       :aria-label="t('settings.themeDark')"
       :aria-pressed="isDark"
       @click="setDark"
     >
-      <Moon class="size-5" />
+      <Moon class="size-4" />
+      <span class="hidden sm:inline">{{ t('settings.themeDark') }}</span>
     </button>
   </div>
 </template>

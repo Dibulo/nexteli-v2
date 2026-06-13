@@ -28,37 +28,44 @@ const depTime = formatTime(props.connection.departure.iso)
 const arrTime = formatTime(props.connection.arrival.iso)
 const durationStr = formatDurationMinutes(props.connection.durationSeconds)
 const transportIcon = computed(() => getTransportIcon(props.connection.mode))
+const isNow = computed(() => countdownLabel.value === 'now')
 </script>
 
 <template>
   <div
     v-motion-fade
-    class="card card-compact min-w-[180px] snap-start bg-base-200 p-3"
+    class="group min-w-[200px] snap-start rounded-xl border border-base-300/50 bg-base-200/60 p-4 transition-all hover:border-base-300 hover:bg-base-200"
   >
     <!-- Countdown badge -->
-    <div class="mb-2 flex items-center justify-between">
-      <span class="flex items-center gap-1.5 text-xs font-semibold opacity-70">
+    <div class="mb-3 flex items-center justify-between gap-2">
+      <span
+        class="flex min-w-0 items-center gap-1.5 text-xs font-semibold text-base-content/70"
+      >
         <component :is="transportIcon" class="size-3.5 shrink-0" />
-        {{ connection.line }}
+        <span class="truncate">{{ connection.line }}</span>
       </span>
       <span
-        class="badge badge-lg font-bold tabular-nums"
-        :class="countdownLabel === 'now' ? 'badge-primary' : 'badge-ghost'"
+        class="shrink-0 rounded-full px-2.5 py-1 text-xs font-bold tabular-nums"
+        :class="
+          isNow
+            ? 'bg-primary text-primary-content'
+            : 'bg-base-300/50 text-base-content/80'
+        "
       >
-        {{ countdownLabel === 'now' ? t('connection.now') : countdownLabel }}
+        {{ isNow ? t('connection.now') : countdownLabel }}
       </span>
     </div>
 
     <!-- Times -->
     <div class="flex items-center gap-2 text-sm tabular-nums">
-      <Clock class="size-3.5 opacity-50" />
-      <span class="font-medium">{{ depTime }}</span>
-      <ArrowRight class="size-3 opacity-40" />
-      <span>{{ arrTime }}</span>
+      <Clock class="size-3.5 text-base-content/40" />
+      <span class="font-semibold">{{ depTime }}</span>
+      <ArrowRight class="size-3 text-base-content/30" />
+      <span class="text-base-content/80">{{ arrTime }}</span>
     </div>
 
     <!-- Duration + Platform -->
-    <div class="mt-1 flex items-center gap-3 text-xs opacity-60">
+    <div class="mt-2 flex flex-wrap items-center gap-x-3 gap-y-1 text-xs text-base-content/50">
       <span>{{ durationStr }}</span>
       <span v-if="connection.transfers > 0">
         {{ connection.transfers }}x

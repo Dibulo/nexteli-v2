@@ -13,23 +13,31 @@ const logoTarget = computed(() =>
 </script>
 
 <template>
-  <header class="navbar bg-base-100 shadow-sm">
-    <div class="mx-auto flex w-full max-w-2xl items-center px-2">
+  <header
+    class="sticky top-0 z-30 border-b border-base-300/40 bg-base-100/70 backdrop-blur-md"
+  >
+    <div class="mx-auto flex w-full  items-center px-4 py-3 sm:px-6">
       <div class="flex-1">
         <router-link
           :to="logoTarget"
-          class="btn btn-ghost gap-2 text-xl font-bold text-primary"
+          class="inline-flex items-center gap-2.5 rounded-xl px-1 py-1 transition-colors hover:bg-base-200/60"
         >
-          <TrainFront class="size-6" />
-          Nexteli
+          <span
+            class="flex size-9 items-center justify-center rounded-xl bg-primary/10 text-primary"
+          >
+            <TrainFront class="size-5" />
+          </span>
+          <span class="text-xl font-bold tracking-tight text-base-content">
+            Nexteli
+          </span>
         </router-link>
       </div>
 
-      <div class="flex items-center gap-1">
+      <div class="flex items-center gap-2">
         <router-link
           v-if="store.hasRoutes"
           to="/route/new"
-          class="btn btn-primary btn-sm gap-1"
+          class="btn btn-primary btn-sm gap-1.5 rounded-full px-4"
         >
           <Plus class="size-4" />
           <span class="hidden sm:inline">{{ t('nav.addRoute') }}</span>
@@ -37,7 +45,7 @@ const logoTarget = computed(() =>
 
         <router-link
           to="/settings"
-          class="btn btn-ghost btn-sm"
+          class="btn btn-ghost btn-sm btn-circle"
           :aria-label="t('nav.settings')"
         >
           <Settings class="size-5" />

@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { ref, watch } from 'vue'
 import { useI18n } from 'vue-i18n'
-import { Train, TramFront, Bus, MapPin } from 'lucide-vue-next'
+import { Train, TramFront, Bus, MapPin, Search } from 'lucide-vue-next'
 import { useTransportApi } from '@/composables/useTransportApi'
 import type { Station } from '@/types/transport'
 import type { SavedStation } from '@/types/itinerary'
@@ -83,14 +83,17 @@ function onBlur() {
 
 <template>
   <div class="form-control relative w-full">
-    <label class="label">
-      <span class="label-text font-medium">{{ label }}</span>
+    <label class="label pb-2">
+      <span class="label-text text-sm font-medium opacity-80">{{ label }}</span>
     </label>
     <div class="relative">
+      <Search
+        class="pointer-events-none absolute left-3.5 top-1/2 size-4 -translate-y-1/2 text-base-content/35"
+      />
       <input
         v-model="query"
         type="text"
-        class="input input-bordered w-full pr-10"
+        class="input input-bordered h-12 w-full rounded-xl pl-10 pr-10 transition-shadow focus:shadow-sm"
         :placeholder="placeholder"
         :disabled="disabled"
         @input="onInput"
@@ -99,21 +102,24 @@ function onBlur() {
       />
       <span
         v-if="loading"
-        class="loading loading-spinner loading-sm absolute right-3 top-1/2 -translate-y-1/2"
+        class="loading loading-spinner loading-sm absolute right-3.5 top-1/2 -translate-y-1/2"
       />
     </div>
 
     <!-- Dropdown -->
     <ul
       v-if="showDropdown && candidates.length > 0"
-      class="menu dropdown-content z-10 mt-1 max-h-60 w-full overflow-y-auto rounded-box bg-base-100 p-2 shadow-lg"
+      class="menu dropdown-content z-10 mt-2 max-h-60 w-full overflow-y-auto rounded-xl border border-base-300/40 bg-base-100 p-1.5 shadow-lg"
     >
       <li v-for="station in candidates" :key="station.id">
         <button
-          class="flex items-center gap-2 text-left"
+          class="flex items-center gap-2.5 rounded-lg text-left"
           @mousedown.prevent="selectStation(station)"
         >
-          <component :is="getIcon(station.icon)" class="size-4 shrink-0 opacity-60" />
+          <component
+            :is="getIcon(station.icon)"
+            class="size-4 shrink-0 opacity-50"
+          />
           <span>{{ station.name }}</span>
         </button>
       </li>
@@ -121,12 +127,12 @@ function onBlur() {
 
     <div
       v-if="showDropdown && candidates.length === 0 && !loading && query.trim().length >= 2"
-      class="alert alert-warning mt-1 py-2 text-sm"
+      class="alert alert-warning mt-2 rounded-xl py-2 text-sm"
     >
       {{ t('stations.noResults') }}
     </div>
 
-    <div v-if="error" class="alert alert-error mt-1 py-2 text-sm">
+    <div v-if="error" class="alert alert-error mt-2 rounded-xl py-2 text-sm">
       {{ t(error) }}
     </div>
   </div>
