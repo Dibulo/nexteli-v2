@@ -42,10 +42,8 @@ function handleSubmit() {
     <!-- About section -->
     <div
       v-motion-fade
-      :class="[
-        'surface-muted mb-8',
-        hasRoutes ? 'p-5' : 'p-6',
-      ]"
+      v-if="!hasRoutes"
+      class="surface-muted mb-8 p-6"
     >
       <div class="flex items-start gap-4">
         <span
