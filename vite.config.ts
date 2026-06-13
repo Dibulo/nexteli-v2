@@ -5,6 +5,7 @@ import { VitePWA } from 'vite-plugin-pwa'
 import { fileURLToPath, URL } from 'node:url'
 
 export default defineConfig({
+  base: process.env.GITHUB_PAGES ? '/nexteli-v2/' : '/',
   plugins: [
     vue(),
     tailwindcss(),
