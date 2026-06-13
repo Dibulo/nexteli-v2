@@ -42,7 +42,6 @@ function handleClearAll() {
   <div class="page-container">
     <div class="mb-8">
       <h1 class="page-title">{{ t('settings.title') }}</h1>
-      <p class="page-subtitle">{{ t('about.privacy') }}</p>
     </div>
 
     <div class="flex flex-col gap-5">
