@@ -1,0 +1,68 @@
+{
+  "app": {
+    "name": "Nexteli",
+    "tagline": "Tu próxima salida de un vistazo"
+  },
+  "nav": {
+    "routes": "Rutas",
+    "settings": "Ajustes",
+    "addRoute": "Añadir ruta",
+    "back": "Volver al resumen"
+  },
+  "about": {
+    "title": "Bienvenido a Nexteli",
+    "description": "Guarda tus rutas diarias en el transporte público suizo y consulta las próximas salidas de tren, tranvía y autobús — sin cuenta, sin seguimiento.",
+    "privacy": "Todos los datos permanecen en tu dispositivo. Sin analíticas, sin seguimiento."
+  },
+  "route": {
+    "departure": "Salida",
+    "destination": "Destino",
+    "submit": "Guardar ruta",
+    "duplicate": "Esta ruta ya existe.",
+    "sameStation": "La salida y el destino no pueden ser iguales.",
+    "edit": "Editar ruta"
+  },
+  "routes": {
+    "title": "Mis rutas",
+    "empty": "No se encontraron conexiones",
+    "remove": "Eliminar ruta",
+    "removeConfirm": "¿Seguro que quieres eliminar esta ruta?",
+    "refresh": "Actualizar",
+    "addReverse": "Añadir ruta inversa",
+    "reorder": "Reordenar ruta"
+  },
+  "connection": {
+    "now": "ahora",
+    "next": "Siguiente",
+    "platform": "Andén",
+    "duration": "Duración",
+    "departure": "Salida"
+  },
+  "stations": {
+    "noResults": "No se encontraron estaciones",
+    "searching": "Buscando…"
+  },
+  "settings": {
+    "title": "Ajustes",
+    "about": "Acerca de Nexteli",
+    "language": "Idioma",
+    "theme": "Apariencia",
+    "themeLight": "Tema claro",
+    "themeDark": "Tema oscuro",
+    "dangerZone": "Zona de peligro",
+    "clearAll": "Eliminar todos los datos",
+    "clearAllConfirm": "Se eliminarán todas las rutas y ajustes guardados. ¿Continuar?",
+    "install": "Instalar en el teléfono",
+    "installButton": "Instalar app"
+  },
+  "errors": {
+    "apiUnavailable": "No se pudieron cargar los horarios. Inténtalo de nuevo más tarde.",
+    "routeNotFound": "Ruta no encontrada"
+  },
+  "common": {
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "save": "Guardar",
+    "delete": "Eliminar"
+  }
+}

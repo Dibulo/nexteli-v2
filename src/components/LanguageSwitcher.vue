@@ -10,6 +10,7 @@ const settings = useSettingsStore()
 const languages: { id: LocaleId; label: string }[] = [
   { id: 'de', label: 'Deutsch' },
   { id: 'en', label: 'English' },
+  { id: 'es', label: 'Español' },
   { id: 'fr', label: 'Français' },
   { id: 'it', label: 'Italiano' },
   { id: 'gsw', label: 'Schwiizerdütsch' },

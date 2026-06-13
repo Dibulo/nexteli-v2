@@ -1,6 +1,6 @@
 import type { LocaleId } from '@/types/itinerary'
 
-const SUPPORTED_LOCALES = new Set<LocaleId>(['de', 'en', 'fr', 'it', 'gsw'])
+const SUPPORTED_LOCALES = new Set<LocaleId>(['de', 'en', 'es', 'fr', 'it', 'gsw'])
 
 function resolveLocaleTag(tag: string): LocaleId | null {
   const normalized = tag.toLowerCase()

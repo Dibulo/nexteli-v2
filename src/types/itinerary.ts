@@ -40,7 +40,7 @@ export interface RouteWithConnections extends SavedRoute {
 }
 
 export type ThemeId = 'nexteli' | 'nexteli-dark'
-export type LocaleId = 'de' | 'en' | 'fr' | 'it' | 'gsw'
+export type LocaleId = 'de' | 'en' | 'es' | 'fr' | 'it' | 'gsw'
 
 export interface AppSettings {
   locale: LocaleId
