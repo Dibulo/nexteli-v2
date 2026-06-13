@@ -9,6 +9,7 @@ import { useSettingsStore } from './stores/settings'
 import { useItinerariesStore } from './stores/itineraries'
 
 import de from './locales/de.json'
+import en from './locales/en.json'
 import fr from './locales/fr.json'
 import it from './locales/it.json'
 import gsw from './locales/gsw.json'
@@ -21,7 +22,7 @@ const i18n = createI18n({
   legacy: false,
   locale: 'de',
   fallbackLocale: 'de',
-  messages: { de, fr, it, gsw },
+  messages: { de, en, fr, it, gsw },
 })
 
 const app = createApp(App)

@@ -1,0 +1,65 @@
+{
+  "app": {
+    "name": "Nexteli",
+    "tagline": "Your next departure at a glance"
+  },
+  "nav": {
+    "routes": "Routes",
+    "settings": "Settings",
+    "addRoute": "Add route",
+    "back": "Back to overview"
+  },
+  "about": {
+    "title": "Welcome to Nexteli",
+    "description": "Save your daily commute routes and see upcoming train, tram, and bus departures at a glance — no account, no tracking.",
+    "privacy": "All data stays on your device. No analytics, no tracking."
+  },
+  "route": {
+    "departure": "Departure",
+    "destination": "Destination",
+    "submit": "Save route",
+    "duplicate": "This route already exists.",
+    "sameStation": "Departure and destination cannot be the same.",
+    "edit": "Edit route"
+  },
+  "routes": {
+    "title": "My routes",
+    "empty": "No connections found",
+    "remove": "Remove route",
+    "removeConfirm": "Do you really want to remove this route?",
+    "refresh": "Refresh"
+  },
+  "connection": {
+    "now": "now",
+    "platform": "Plat.",
+    "duration": "Duration",
+    "departure": "Departure"
+  },
+  "stations": {
+    "noResults": "No stations found",
+    "searching": "Searching…"
+  },
+  "settings": {
+    "title": "Settings",
+    "about": "About Nexteli",
+    "language": "Language",
+    "theme": "Appearance",
+    "themeLight": "Light theme",
+    "themeDark": "Dark theme",
+    "dangerZone": "Danger zone",
+    "clearAll": "Delete all data",
+    "clearAllConfirm": "All saved routes and settings will be deleted. Continue?",
+    "install": "Install on your phone",
+    "installButton": "Install app"
+  },
+  "errors": {
+    "apiUnavailable": "Could not load connection data. Please try again later.",
+    "routeNotFound": "Route not found"
+  },
+  "common": {
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save",
+    "delete": "Delete"
+  }
+}
