@@ -1,0 +1,56 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: nexteli --default, nexteli-dark --prefersdark;
+}
+
+@theme {
+  --font-sans: "Nunito", system-ui, -apple-system, sans-serif;
+}
+
+/* Custom DaisyUI theme: nexteli (light, SBB-inspired) */
+[data-theme="nexteli"] {
+  --color-base-100: oklch(0.98 0.002 250);
+  --color-base-200: oklch(0.95 0.004 250);
+  --color-base-300: oklch(0.90 0.006 250);
+  --color-base-content: oklch(0.25 0.01 250);
+  --color-primary: oklch(0.50 0.20 25);
+  --color-primary-content: oklch(0.98 0 0);
+  --color-secondary: oklch(0.55 0.15 250);
+  --color-secondary-content: oklch(0.98 0 0);
+  --color-accent: oklch(0.65 0.14 160);
+  --color-accent-content: oklch(0.15 0 0);
+  --color-neutral: oklch(0.35 0.01 250);
+  --color-neutral-content: oklch(0.95 0 0);
+  --color-info: oklch(0.62 0.14 250);
+  --color-info-content: oklch(0.98 0 0);
+  --color-success: oklch(0.62 0.16 150);
+  --color-success-content: oklch(0.98 0 0);
+  --color-warning: oklch(0.75 0.15 80);
+  --color-warning-content: oklch(0.20 0 0);
+  --color-error: oklch(0.55 0.20 25);
+  --color-error-content: oklch(0.98 0 0);
+}
+
+/* Custom DaisyUI theme: nexteli-dark */
+[data-theme="nexteli-dark"] {
+  --color-base-100: oklch(0.20 0.01 250);
+  --color-base-200: oklch(0.17 0.01 250);
+  --color-base-300: oklch(0.14 0.01 250);
+  --color-base-content: oklch(0.90 0.005 250);
+  --color-primary: oklch(0.60 0.20 25);
+  --color-primary-content: oklch(0.98 0 0);
+  --color-secondary: oklch(0.60 0.15 250);
+  --color-secondary-content: oklch(0.98 0 0);
+  --color-accent: oklch(0.70 0.14 160);
+  --color-accent-content: oklch(0.15 0 0);
+  --color-neutral: oklch(0.30 0.01 250);
+  --color-neutral-content: oklch(0.90 0 0);
+  --color-info: oklch(0.62 0.14 250);
+  --color-info-content: oklch(0.98 0 0);
+  --color-success: oklch(0.62 0.16 150);
+  --color-success-content: oklch(0.98 0 0);
+  --color-warning: oklch(0.75 0.15 80);
+  --color-warning-content: oklch(0.20 0 0);
+  --color-error: oklch(0.55 0.20 25);
+  --color-error-content: oklch(0.98 0 0);
+}

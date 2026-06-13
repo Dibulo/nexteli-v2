@@ -1,0 +1,65 @@
+{
+  "app": {
+    "name": "Nexteli",
+    "tagline": "Deine nächste Abfahrt im Blick"
+  },
+  "nav": {
+    "routes": "Routen",
+    "settings": "Einstellungen",
+    "addRoute": "Route hinzufügen",
+    "back": "Zurück zur Übersicht"
+  },
+  "about": {
+    "title": "Willkommen bei Nexteli",
+    "description": "Speichere deine täglichen Pendlerrouten und sieh auf einen Blick die nächsten Abfahrten von Zug, Tram und Bus — ohne Konto, ohne Tracking.",
+    "privacy": "Alle Daten bleiben lokal auf deinem Gerät. Keine Analyse, kein Tracking."
+  },
+  "route": {
+    "departure": "Abfahrt",
+    "destination": "Ziel",
+    "submit": "Route speichern",
+    "duplicate": "Diese Route existiert bereits.",
+    "sameStation": "Abfahrt und Ziel dürfen nicht identisch sein.",
+    "edit": "Route bearbeiten"
+  },
+  "routes": {
+    "title": "Meine Routen",
+    "empty": "Keine Verbindungen gefunden",
+    "remove": "Route entfernen",
+    "removeConfirm": "Möchtest du diese Route wirklich entfernen?",
+    "refresh": "Aktualisieren"
+  },
+  "connection": {
+    "now": "jetzt",
+    "platform": "Gl.",
+    "duration": "Dauer",
+    "departure": "Abfahrt"
+  },
+  "stations": {
+    "noResults": "Keine Stationen gefunden",
+    "searching": "Suche…"
+  },
+  "settings": {
+    "title": "Einstellungen",
+    "about": "Über Nexteli",
+    "language": "Sprache",
+    "theme": "Darstellung",
+    "themeLight": "Helles Design",
+    "themeDark": "Dunkles Design",
+    "dangerZone": "Gefahrenzone",
+    "clearAll": "Alle Daten löschen",
+    "clearAllConfirm": "Alle gespeicherten Routen und Einstellungen werden gelöscht. Fortfahren?",
+    "install": "Auf dem Handy installieren",
+    "installButton": "App installieren"
+  },
+  "errors": {
+    "apiUnavailable": "Verbindungsdaten konnten nicht geladen werden. Bitte versuche es später erneut.",
+    "routeNotFound": "Route nicht gefunden"
+  },
+  "common": {
+    "cancel": "Abbrechen",
+    "confirm": "Bestätigen",
+    "save": "Speichern",
+    "delete": "Löschen"
+  }
+}

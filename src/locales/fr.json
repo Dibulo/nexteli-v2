@@ -1,0 +1,65 @@
+{
+  "app": {
+    "name": "Nexteli",
+    "tagline": "Votre prochain départ en un coup d'œil"
+  },
+  "nav": {
+    "routes": "Trajets",
+    "settings": "Paramètres",
+    "addRoute": "Ajouter un trajet",
+    "back": "Retour au tableau de bord"
+  },
+  "about": {
+    "title": "Bienvenue sur Nexteli",
+    "description": "Enregistrez vos trajets quotidiens et consultez les prochains départs de train, tram et bus — sans compte, sans tracking.",
+    "privacy": "Toutes les données restent sur votre appareil. Aucune analyse, aucun tracking."
+  },
+  "route": {
+    "departure": "Départ",
+    "destination": "Destination",
+    "submit": "Enregistrer le trajet",
+    "duplicate": "Ce trajet existe déjà.",
+    "sameStation": "Le départ et la destination ne peuvent pas être identiques.",
+    "edit": "Modifier le trajet"
+  },
+  "routes": {
+    "title": "Mes trajets",
+    "empty": "Aucune correspondance trouvée",
+    "remove": "Supprimer le trajet",
+    "removeConfirm": "Voulez-vous vraiment supprimer ce trajet ?",
+    "refresh": "Actualiser"
+  },
+  "connection": {
+    "now": "maint.",
+    "platform": "Voie",
+    "duration": "Durée",
+    "departure": "Départ"
+  },
+  "stations": {
+    "noResults": "Aucune gare trouvée",
+    "searching": "Recherche…"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "about": "À propos de Nexteli",
+    "language": "Langue",
+    "theme": "Apparence",
+    "themeLight": "Thème clair",
+    "themeDark": "Thème sombre",
+    "dangerZone": "Zone dangereuse",
+    "clearAll": "Supprimer toutes les données",
+    "clearAllConfirm": "Tous les trajets et paramètres seront supprimés. Continuer ?",
+    "install": "Installer sur le téléphone",
+    "installButton": "Installer l'app"
+  },
+  "errors": {
+    "apiUnavailable": "Impossible de charger les horaires. Veuillez réessayer plus tard.",
+    "routeNotFound": "Trajet introuvable"
+  },
+  "common": {
+    "cancel": "Annuler",
+    "confirm": "Confirmer",
+    "save": "Enregistrer",
+    "delete": "Supprimer"
+  }
+}

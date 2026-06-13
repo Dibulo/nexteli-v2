@@ -1,0 +1,65 @@
+{
+  "app": {
+    "name": "Nexteli",
+    "tagline": "Dini nächsti Abfahrt im Blick"
+  },
+  "nav": {
+    "routes": "Route",
+    "settings": "Iistellige",
+    "addRoute": "Route dezuetue",
+    "back": "Zrugg zur Übersicht"
+  },
+  "about": {
+    "title": "Willkomme bi Nexteli",
+    "description": "Speicher dini tägliche Pendlerroute und lueg uf ein Blick d nächste Abfahrte vo Züg, Tram und Bus — ohni Konto, ohni Tracking.",
+    "privacy": "Alli Date bliibed lokal uf dim Grät. Kei Analyse, keis Tracking."
+  },
+  "route": {
+    "departure": "Abfahrt",
+    "destination": "Ziil",
+    "submit": "Route speichere",
+    "duplicate": "Die Route gits scho.",
+    "sameStation": "Abfahrt und Ziil dörf nöd s gliiche sii.",
+    "edit": "Route bearbeite"
+  },
+  "routes": {
+    "title": "Mini Route",
+    "empty": "Kei Verbindige gfunde",
+    "remove": "Route lösche",
+    "removeConfirm": "Wotsch die Route würkli lösche?",
+    "refresh": "Aktualisiere"
+  },
+  "connection": {
+    "now": "jetzt",
+    "platform": "Gl.",
+    "duration": "Duur",
+    "departure": "Abfahrt"
+  },
+  "stations": {
+    "noResults": "Kei Haltestelle gfunde",
+    "searching": "Am sueche…"
+  },
+  "settings": {
+    "title": "Iistellige",
+    "about": "Über Nexteli",
+    "language": "Sprach",
+    "theme": "Usseh",
+    "themeLight": "Hells Design",
+    "themeDark": "Dunkels Design",
+    "dangerZone": "Gfahrezone",
+    "clearAll": "Alli Date lösche",
+    "clearAllConfirm": "Alli gspeicherete Route und Iistellige werded glöscht. Witer?",
+    "install": "Ufs Handy installiere",
+    "installButton": "App installiere"
+  },
+  "errors": {
+    "apiUnavailable": "D Verbindigsdate hend nöd chönne glade werde. Probiers spöter nomal.",
+    "routeNotFound": "Route nöd gfunde"
+  },
+  "common": {
+    "cancel": "Abbreche",
+    "confirm": "Bestätige",
+    "save": "Speichere",
+    "delete": "Lösche"
+  }
+}

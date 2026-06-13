@@ -1,0 +1,65 @@
+{
+  "app": {
+    "name": "Nexteli",
+    "tagline": "La tua prossima partenza a colpo d'occhio"
+  },
+  "nav": {
+    "routes": "Percorsi",
+    "settings": "Impostazioni",
+    "addRoute": "Aggiungi percorso",
+    "back": "Torna alla panoramica"
+  },
+  "about": {
+    "title": "Benvenuto su Nexteli",
+    "description": "Salva i tuoi percorsi di pendolare e consulta le prossime partenze di treno, tram e bus — senza account, senza tracciamento.",
+    "privacy": "Tutti i dati restano sul tuo dispositivo. Nessuna analisi, nessun tracciamento."
+  },
+  "route": {
+    "departure": "Partenza",
+    "destination": "Destinazione",
+    "submit": "Salva percorso",
+    "duplicate": "Questo percorso esiste già.",
+    "sameStation": "Partenza e destinazione non possono essere identiche.",
+    "edit": "Modifica percorso"
+  },
+  "routes": {
+    "title": "I miei percorsi",
+    "empty": "Nessun collegamento trovato",
+    "remove": "Rimuovi percorso",
+    "removeConfirm": "Vuoi davvero rimuovere questo percorso?",
+    "refresh": "Aggiorna"
+  },
+  "connection": {
+    "now": "ora",
+    "platform": "Bin.",
+    "duration": "Durata",
+    "departure": "Partenza"
+  },
+  "stations": {
+    "noResults": "Nessuna stazione trovata",
+    "searching": "Ricerca…"
+  },
+  "settings": {
+    "title": "Impostazioni",
+    "about": "Informazioni su Nexteli",
+    "language": "Lingua",
+    "theme": "Aspetto",
+    "themeLight": "Tema chiaro",
+    "themeDark": "Tema scuro",
+    "dangerZone": "Zona pericolosa",
+    "clearAll": "Cancella tutti i dati",
+    "clearAllConfirm": "Tutti i percorsi e le impostazioni verranno cancellati. Continuare?",
+    "install": "Installa sul telefono",
+    "installButton": "Installa app"
+  },
+  "errors": {
+    "apiUnavailable": "Impossibile caricare gli orari. Riprova più tardi.",
+    "routeNotFound": "Percorso non trovato"
+  },
+  "common": {
+    "cancel": "Annulla",
+    "confirm": "Conferma",
+    "save": "Salva",
+    "delete": "Elimina"
+  }
+}
