@@ -110,13 +110,19 @@ function scrollRight() {
       <!-- Loading -->
       <div
         v-if="route.loading && route.connections.length === 0"
-        class="flex gap-3"
+        class="flex items-stretch gap-3"
       >
-        <div
-          v-for="i in 3"
-          :key="i"
-          class="skeleton h-28 min-w-[200px] rounded-xl"
-        />
+        <template v-for="i in 3" :key="i">
+          <div
+            class="skeleton h-28 min-w-[200px] rounded-xl"
+            :class="i === 1 ? 'ring-1 ring-primary/15' : ''"
+          />
+          <div
+            v-if="i === 1"
+            class="w-px shrink-0 self-stretch bg-base-300/60"
+            aria-hidden="true"
+          />
+        </template>
       </div>
 
       <!-- Error -->
@@ -144,14 +150,20 @@ function scrollRight() {
 
         <div
           ref="scrollContainer"
-          class="flex flex-1 gap-3 overflow-x-auto scroll-smooth snap-x snap-mandatory pb-1"
+          class="flex flex-1 items-stretch gap-3 overflow-x-auto scroll-smooth snap-x snap-mandatory pb-1"
         >
-          <ConnectionSlot
-            v-for="(conn, idx) in route.connections"
-            :key="idx"
-            :connection="conn"
-            @expired="handleExpired"
-          />
+          <template v-for="(conn, idx) in route.connections" :key="idx">
+            <ConnectionSlot
+              :connection="conn"
+              :featured="idx === 0"
+              @expired="handleExpired"
+            />
+            <div
+              v-if="idx === 0 && route.connections.length > 1"
+              class="w-px shrink-0 self-stretch bg-base-300/60"
+              aria-hidden="true"
+            />
+          </template>
           <div
             v-if="route.connections.length === 0"
             class="w-full py-6 text-center text-sm opacity-50"

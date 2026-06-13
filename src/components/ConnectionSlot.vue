@@ -7,9 +7,13 @@ import { useCountdown } from '@/composables/useCountdown'
 import { formatTime, formatDurationMinutes } from '@/utils/format'
 import type { FormattedConnection } from '@/types/itinerary'
 
-const props = defineProps<{
-  connection: FormattedConnection
-}>()
+const props = withDefaults(
+  defineProps<{
+    connection: FormattedConnection
+    featured?: boolean
+  }>(),
+  { featured: false },
+)
 
 const emit = defineEmits<{
   expired: []
@@ -34,7 +38,12 @@ const isNow = computed(() => countdownLabel.value === 'now')
 <template>
   <div
     v-motion-fade
-    class="group min-w-[200px] snap-start rounded-xl border border-base-300/50 bg-base-200/60 p-4 transition-all hover:border-base-300 hover:bg-base-200"
+    class="group min-w-[200px] snap-start rounded-xl border p-4 transition-all"
+    :class="
+      featured
+        ? 'border-primary/40 bg-base-100 shadow-sm ring-1 ring-primary/15 hover:border-primary/55'
+        : 'border-base-300/50 bg-base-200/60 hover:border-base-300 hover:bg-base-200'
+    "
   >
     <!-- Countdown badge -->
     <div class="mb-3 flex items-center justify-between gap-2">
