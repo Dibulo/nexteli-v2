@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { computed } from 'vue'
 import { useI18n } from 'vue-i18n'
-import { Plus, Settings, TrainFront } from 'lucide-vue-next'
+import { Plus, Settings } from 'lucide-vue-next'
 import { useItinerariesStore } from '@/stores/itineraries'
 
 const { t } = useI18n()
@@ -22,11 +22,13 @@ const logoTarget = computed(() =>
           :to="logoTarget"
           class="inline-flex items-center gap-2.5 rounded-xl px-1 py-1 transition-colors hover:bg-base-200/60"
         >
-          <span
-            class="flex size-9 items-center justify-center rounded-xl bg-primary/10 text-primary"
-          >
-            <TrainFront class="size-5" />
-          </span>
+          <img
+            src="/icon.webp"
+            alt=""
+            width="36"
+            height="36"
+            class="size-9 rounded-xl"
+          />
           <span class="text-xl font-bold tracking-tight text-base-content">
             Nexteli
           </span>

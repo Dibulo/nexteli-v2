@@ -10,7 +10,7 @@ export default defineConfig({
     tailwindcss(),
     VitePWA({
       registerType: 'autoUpdate',
-      includeAssets: ['apple-touch-icon.png'],
+      includeAssets: ['icon.webp', 'apple-touch-icon.png'],
       manifest: {
         name: 'Nexteli',
         short_name: 'Nexteli',
