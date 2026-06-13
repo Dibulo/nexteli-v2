@@ -42,6 +42,22 @@ export default defineConfig({
             purpose: 'maskable',
           },
         ],
+        screenshots: [
+          {
+            src: 'screenshots/mobile-390x844.png',
+            sizes: '390x844',
+            type: 'image/png',
+            form_factor: 'narrow',
+            label: 'Next departures on your phone',
+          },
+          {
+            src: 'screenshots/desktop-1280x720.png',
+            sizes: '2560x1440',
+            type: 'image/png',
+            form_factor: 'wide',
+            label: 'Next departures on desktop',
+          },
+        ],
       },
       workbox: {
         globPatterns: ['**/*.{js,css,html,ico,png,svg,woff2,webp}'],
