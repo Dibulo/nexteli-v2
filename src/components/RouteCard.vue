@@ -59,7 +59,7 @@ function scrollRight() {
 <template>
   <div
     v-motion-slide-visible-bottom
-    class="surface-card surface-card-interactive overflow-hidden"
+    class="surface-card surface-card-interactive"
   >
     <!-- Header -->
     <div class="flex items-center gap-3 px-5 pt-5 sm:px-6">
@@ -106,7 +106,7 @@ function scrollRight() {
     </div>
 
     <!-- Connections -->
-    <div class="relative px-5 pb-5 pt-4 sm:px-6">
+    <div class="relative px-5 pb-5 pt-5 sm:px-6">
       <!-- Loading -->
       <div
         v-if="route.loading && route.connections.length === 0"
@@ -150,7 +150,7 @@ function scrollRight() {
 
         <div
           ref="scrollContainer"
-          class="flex flex-1 items-stretch gap-3 overflow-x-auto scroll-smooth snap-x snap-mandatory pb-1"
+          class="flex flex-1 items-stretch gap-3 overflow-x-auto scroll-smooth snap-x snap-mandatory pb-1 pt-3"
         >
           <template v-for="(conn, idx) in route.connections" :key="idx">
             <ConnectionSlot

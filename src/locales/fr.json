@@ -31,6 +31,7 @@
   },
   "connection": {
     "now": "maint.",
+    "next": "Prochain",
     "platform": "Voie",
     "duration": "Durée",
     "departure": "Départ"

@@ -36,15 +36,23 @@ const isNow = computed(() => countdownLabel.value === 'now')
 </script>
 
 <template>
-  <div
-    v-motion-fade
-    class="group min-w-[200px] snap-start rounded-xl border p-4 transition-all"
-    :class="
-      featured
-        ? 'border-primary/40 bg-base-100 shadow-sm ring-1 ring-primary/15 hover:border-primary/55'
-        : 'border-base-300/50 bg-base-200/60 hover:border-base-300 hover:bg-base-200'
-    "
-  >
+  <div class="relative min-w-[200px] snap-start">
+    <span
+      v-if="featured"
+      class="absolute left-1/2 top-0 z-10 -translate-x-1/2 -translate-y-1/2 badge badge-xs badge-primary font-bold uppercase tracking-wide"
+    >
+      {{ t('connection.next') }}
+    </span>
+
+    <div
+      v-motion-fade
+      class="group rounded-xl border p-4 transition-all"
+      :class="
+        featured
+          ? 'border-primary/40 bg-base-100 shadow-sm ring-1 ring-primary/15 hover:border-primary/55'
+          : 'border-base-300/50 bg-base-200/60 hover:border-base-300 hover:bg-base-200'
+      "
+    >
     <!-- Countdown badge -->
     <div class="mb-3 flex items-center justify-between gap-2">
       <span
@@ -82,6 +90,7 @@ const isNow = computed(() => countdownLabel.value === 'now')
       <span v-if="connection.departure.platform">
         {{ t('connection.platform') }} {{ connection.departure.platform }}
       </span>
+    </div>
     </div>
   </div>
 </template>
