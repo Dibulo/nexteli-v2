@@ -2,6 +2,7 @@
 import { watch, computed } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { Clock, ArrowRight } from 'lucide-vue-next'
+import { getTransportIcon } from '@/utils/transportIcons'
 import { useCountdown } from '@/composables/useCountdown'
 import { formatTime, formatDurationMinutes } from '@/utils/format'
 import type { FormattedConnection } from '@/types/itinerary'
@@ -26,6 +27,7 @@ watch(expired, (val) => {
 const depTime = formatTime(props.connection.departure.iso)
 const arrTime = formatTime(props.connection.arrival.iso)
 const durationStr = formatDurationMinutes(props.connection.durationSeconds)
+const transportIcon = computed(() => getTransportIcon(props.connection.mode))
 </script>
 
 <template>
@@ -35,7 +37,8 @@ const durationStr = formatDurationMinutes(props.connection.durationSeconds)
   >
     <!-- Countdown badge -->
     <div class="mb-2 flex items-center justify-between">
-      <span class="text-xs font-semibold opacity-70">
+      <span class="flex items-center gap-1.5 text-xs font-semibold opacity-70">
+        <component :is="transportIcon" class="size-3.5 shrink-0" />
         {{ connection.line }}
       </span>
       <span

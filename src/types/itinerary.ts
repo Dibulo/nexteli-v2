@@ -11,10 +11,13 @@ export interface SavedRoute {
   destination: SavedStation
 }
 
+export type TransportMode = 'train' | 'tram' | 'bus'
+
 export interface FormattedConnection {
   durationSeconds: number
   transfers: number
   line: string
+  mode: TransportMode
   departure: {
     iso: string
     timestampMs: number

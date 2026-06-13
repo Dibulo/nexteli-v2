@@ -2,6 +2,7 @@ import { ref } from 'vue'
 import type { Station, Connection, ConnectionsResponse, LocationsResponse } from '@/types/transport'
 import type { FormattedConnection } from '@/types/itinerary'
 import { parseDuration, getCountdownLabel, minutesUntil } from '@/utils/format'
+import { categoryToMode } from '@/utils/transportIcons'
 
 const BASE_URL = 'https://transport.opendata.ch/v1'
 
@@ -18,10 +19,12 @@ function mapConnection(conn: Connection): FormattedConnection {
     : Date.now()
 
   const journeySections = conn.sections.filter((s) => s.journey !== null)
+  const firstJourney = journeySections[0]?.journey
 
   return {
     durationSeconds: parseDuration(conn.duration),
     transfers: Math.max(0, journeySections.length - 1),
+    mode: firstJourney ? categoryToMode(firstJourney.category) : 'train',
     line:
       conn.products.length > 0
         ? conn.products.join(', ')
