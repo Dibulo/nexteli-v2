@@ -4,8 +4,10 @@ import tailwindcss from '@tailwindcss/vite'
 import { VitePWA } from 'vite-plugin-pwa'
 import { fileURLToPath, URL } from 'node:url'
 
+const base = process.env.GITHUB_PAGES ? '/nexteli-v2/' : '/'
+
 export default defineConfig({
-  base: process.env.GITHUB_PAGES ? '/nexteli-v2/' : '/',
+  base,
   plugins: [
     vue(),
     tailwindcss(),
@@ -20,8 +22,8 @@ export default defineConfig({
         background_color: '#ffffff',
         display: 'standalone',
         orientation: 'portrait',
-        scope: '/',
-        start_url: '/?source=pwa',
+        scope: base,
+        start_url: `${base}?source=pwa`,
         icons: [
           {
             src: 'pwa-192x192.png',
