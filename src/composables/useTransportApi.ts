@@ -1,11 +1,15 @@
 import { ref } from 'vue'
 import type { Station, StationboardEntry, StationboardResponse, LocationsResponse } from '@/types/transport'
 import type { FormattedDeparture, JourneyDeparture, JourneyStop } from '@/types/itinerary'
+import { createCache } from '@/utils/cache'
 import { getCountdownLabel, minutesUntil } from '@/utils/format'
 import { categoryToMode } from '@/utils/transportIcons'
 import { lookupLineColor } from '@/utils/lineColors'
 
 const BASE_URL = 'https://transport.opendata.ch/v1'
+const JOURNEY_CACHE_TTL_MS = 3_600_000 // 1 hour
+
+const journeyCache = createCache('journey')
 
 const JOURNEY_FIELDS = [
   'stationboard/stop',
@@ -170,20 +174,27 @@ export function useTransportApi() {
     error.value = null
 
     try {
-      const params = new URLSearchParams({
-        id: stationId,
-        limit: String(limit),
-      })
-      for (const field of JOURNEY_FIELDS) {
-        params.append('fields[]', field)
-      }
+      const cacheKey = `stationboard:${stationId}:${limit}`
 
-      const res = await fetch(`${BASE_URL}/stationboard?${params}`)
-      if (!res.ok) {
-        error.value = 'errors.apiUnavailable'
-        return []
-      }
-      const data: StationboardResponse = await res.json()
+      const data = await journeyCache.getOrFetch<StationboardResponse>(
+        cacheKey,
+        JOURNEY_CACHE_TTL_MS,
+        async () => {
+          const params = new URLSearchParams({
+            id: stationId,
+            limit: String(limit),
+          })
+          for (const field of JOURNEY_FIELDS) {
+            params.append('fields[]', field)
+          }
+
+          const res = await fetch(`${BASE_URL}/stationboard?${params}`)
+          if (!res.ok) {
+            throw new Error('stationboard unavailable')
+          }
+          return (await res.json()) as StationboardResponse
+        }
+      )
 
       const now = Date.now()
       return data.stationboard

@@ -1,5 +1,6 @@
 import type { SavedStationEntry } from '@/types/itinerary'
 import type { AppSettings } from '@/types/itinerary'
+import { createCache } from '@/utils/cache'
 import { getBrowserLocale } from '@/utils/locale'
 
 const STATIONS_KEY = 'nexteli:stations'
@@ -54,4 +55,5 @@ export function saveSettings(settings: AppSettings): void {
 export function clearAllData(): void {
   localStorage.removeItem(STATIONS_KEY)
   localStorage.removeItem(SETTINGS_KEY)
+  createCache('journey').clear()
 }
