@@ -153,17 +153,15 @@ function openDetail() {
 
 .station-col {
   display: flex;
+  flex-direction: column;
   min-width: 0;
-  align-items: baseline;
-  gap: clamp(0.45rem, 1.2vw, 0.85rem);
+  gap: 0.15rem;
 }
 
 .station-name {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
-  flex-shrink: 0;
-  max-width: 45%;
   font-size: clamp(1.35rem, 4.8vw, 3rem);
   font-weight: 400;
   line-height: 1.15;
@@ -173,14 +171,15 @@ function openDetail() {
   display: inline-flex;
   min-width: 0;
   align-items: center;
-  gap: 0.35rem;
+  gap: 0.3rem;
   color: var(--board-fg);
-  font-size: clamp(1.35rem, 4.8vw, 3rem);
+  font-size: clamp(0.85rem, 2.8vw, 1.5rem);
+  opacity: 0.7;
 }
 
 .direction-icon {
-  width: clamp(1rem, 2.2vw, 1.65rem);
-  height: clamp(1rem, 2.2vw, 1.65rem);
+  width: clamp(0.7rem, 1.6vw, 1.1rem);
+  height: clamp(0.7rem, 1.6vw, 1.1rem);
   flex-shrink: 0;
   opacity: 0.55;
 }
