@@ -114,8 +114,7 @@ function openEdit() {
   align-items: center;
   gap: clamp(0.75rem, 2.5vw, 2rem);
   width: 100%;
-  height: 100%;
-  padding: clamp(0.35rem, 1.2vh, 0.85rem) 0;
+  padding: clamp(0.65rem, 1.8vh, 1.1rem) 0;
   text-align: left;
   color: var(--board-fg);
   font-family: var(--font-display);

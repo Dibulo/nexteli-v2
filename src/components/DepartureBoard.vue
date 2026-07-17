@@ -47,20 +47,17 @@ const { t } = useI18n()
 
 .board-list {
   display: flex;
-  flex: 1;
   flex-direction: column;
-  justify-content: space-evenly;
+  justify-content: flex-start;
   list-style: none;
   margin: 0;
   padding: 0;
-  min-height: 0;
 }
 
 .board-item {
   display: flex;
-  flex: 1 1 0;
+  flex: 0 0 auto;
   align-items: center;
-  min-height: 0;
 }
 
 .board-empty {
