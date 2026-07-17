@@ -25,6 +25,11 @@ const router = createRouter({
       component: () => import('@/pages/EditStationPage.vue'),
     },
     {
+      path: '/stations/detail/:id',
+      name: 'station-detail',
+      component: () => import('@/pages/StationDetailPage.vue'),
+    },
+    {
       path: '/settings',
       name: 'settings',
       component: () => import('@/pages/SettingsPage.vue'),

@@ -43,6 +43,12 @@
     "platform": "Andén",
     "to": "Dirección"
   },
+  "journey": {
+    "title": "Viaje",
+    "currentStation": "Estás aquí",
+    "unavailable": "No se encontró esta salida. Puede que ya haya partido.",
+    "empty": "No hay más paradas disponibles"
+  },
   "settings": {
     "title": "Ajustes",
     "about": "Acerca de Nexteli",
@@ -64,6 +70,7 @@
     "cancel": "Cancelar",
     "confirm": "Confirmar",
     "save": "Guardar",
-    "delete": "Eliminar"
+    "delete": "Eliminar",
+    "edit": "Editar"
   }
 }

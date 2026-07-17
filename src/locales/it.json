@@ -43,6 +43,12 @@
     "platform": "Bin.",
     "to": "Direzione"
   },
+  "journey": {
+    "title": "Viaggio",
+    "currentStation": "Sei qui",
+    "unavailable": "Questa partenza non è stata trovata. Potrebbe essere già partita.",
+    "empty": "Nessuna fermata successiva disponibile"
+  },
   "settings": {
     "title": "Impostazioni",
     "about": "Informazioni su Nexteli",
@@ -64,6 +70,7 @@
     "cancel": "Annulla",
     "confirm": "Conferma",
     "save": "Salva",
-    "delete": "Elimina"
+    "delete": "Elimina",
+    "edit": "Modifica"
   }
 }

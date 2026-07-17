@@ -31,6 +31,7 @@ export interface ConnectionCheckpoint {
   arrivalTimestamp: number | null
   departure: string | null
   departureTimestamp: number | null
+  delay?: number | null
   platform: string | null
   prognosis: Prognosis
 }
@@ -70,6 +71,7 @@ export interface StationboardEntry {
   number: string
   operator: string | null
   to: string
+  passList?: ConnectionCheckpoint[]
 }
 
 export interface StationboardResponse {

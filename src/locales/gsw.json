@@ -43,6 +43,12 @@
     "platform": "Gl.",
     "to": "Richtig"
   },
+  "journey": {
+    "title": "Fahrt",
+    "currentStation": "Du bisch da",
+    "unavailable": "Die Abfahrt isch nöd gfunde worde. Si isch villicht scho furt.",
+    "empty": "Kei witere Haltestelle verfüegbar"
+  },
   "settings": {
     "title": "Iistellige",
     "about": "Über Nexteli",
@@ -64,6 +70,7 @@
     "cancel": "Abbreche",
     "confirm": "Bestätige",
     "save": "Speichere",
-    "delete": "Lösche"
+    "delete": "Lösche",
+    "edit": "Bearbeite"
   }
 }

@@ -43,6 +43,12 @@
     "platform": "Plat.",
     "to": "To"
   },
+  "journey": {
+    "title": "Journey",
+    "currentStation": "You are here",
+    "unavailable": "Could not find this departure. It may have already left.",
+    "empty": "No further stops available"
+  },
   "settings": {
     "title": "Settings",
     "about": "About Nexteli",
@@ -64,6 +70,7 @@
     "cancel": "Cancel",
     "confirm": "Confirm",
     "save": "Save",
-    "delete": "Delete"
+    "delete": "Delete",
+    "edit": "Edit"
   }
 }

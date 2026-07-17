@@ -51,8 +51,14 @@ const badgeStyle = computed(() => {
 
 const lineLabel = computed(() => props.row.departure.line)
 
-function openEdit() {
-  router.push(`/stations/edit/${encodeURIComponent(props.row.entry.id)}`)
+function openDetail() {
+  router.push({
+    path: `/stations/detail/${encodeURIComponent(props.row.entry.id)}`,
+    query: {
+      ts: String(props.row.departure.departure.timestampMs),
+      line: props.row.departure.line,
+    },
+  })
 }
 </script>
 
@@ -67,7 +73,7 @@ function openEdit() {
         countdown: isNow ? t('departure.now') : countdownLabel || '—',
       })
     "
-    @click="openEdit"
+    @click="openDetail"
   >
     <span class="line-badge" :class="modeClass" :style="badgeStyle">{{ lineLabel }}</span>
 

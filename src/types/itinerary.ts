@@ -29,6 +29,19 @@ export interface FormattedDeparture {
   countdownLabel: string
 }
 
+export interface JourneyStop {
+  stationId: string
+  name: string
+  arrivalTimestampMs: number | null
+  minutesUntil: number | null
+  isCurrent: boolean
+}
+
+export interface JourneyDeparture extends FormattedDeparture {
+  stationId: string
+  stops: JourneyStop[]
+}
+
 export interface StationEntryWithDepartures extends SavedStationEntry {
   departures: FormattedDeparture[]
   loading: boolean

@@ -43,6 +43,12 @@
     "platform": "Gl.",
     "to": "Richtung"
   },
+  "journey": {
+    "title": "Fahrt",
+    "currentStation": "Du bist hier",
+    "unavailable": "Diese Abfahrt konnte nicht gefunden werden. Sie ist möglicherweise schon weg.",
+    "empty": "Keine weiteren Haltestellen verfügbar"
+  },
   "settings": {
     "title": "Einstellungen",
     "about": "Über Nexteli",
@@ -64,6 +70,7 @@
     "cancel": "Abbrechen",
     "confirm": "Bestätigen",
     "save": "Speichern",
-    "delete": "Löschen"
+    "delete": "Löschen",
+    "edit": "Bearbeiten"
   }
 }

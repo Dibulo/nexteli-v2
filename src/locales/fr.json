@@ -43,6 +43,12 @@
     "platform": "Voie",
     "to": "Direction"
   },
+  "journey": {
+    "title": "Trajet",
+    "currentStation": "Vous êtes ici",
+    "unavailable": "Ce départ est introuvable. Il est peut-être déjà parti.",
+    "empty": "Aucun arrêt supplémentaire disponible"
+  },
   "settings": {
     "title": "Paramètres",
     "about": "À propos de Nexteli",
@@ -64,6 +70,7 @@
     "cancel": "Annuler",
     "confirm": "Confirmer",
     "save": "Enregistrer",
-    "delete": "Supprimer"
+    "delete": "Supprimer",
+    "edit": "Modifier"
   }
 }
