@@ -101,6 +101,35 @@ function handleClearAll() {
       </a>
     </div>
 
+    <div class="mt-6 space-y-2 text-center text-sm opacity-50">
+      <p>
+        Thanks to
+        <a
+          href="https://nose-design.github.io/Nose-Transport/"
+          target="_blank"
+          rel="noopener"
+          class="link link-primary inline-flex items-center gap-1.5 text-sm font-medium"
+        >
+          Nose Transport
+          <ExternalLink class="size-3.5" />
+        </a>
+        for the typeface
+      </p>
+      <p>
+        and
+        <a
+          href="https://github.com/vasile/swiss-transit-colors"
+          target="_blank"
+          rel="noopener"
+          class="link link-primary inline-flex items-center gap-1.5 text-sm font-medium"
+        >
+          swiss-transit-colors
+          <ExternalLink class="size-3.5" />
+        </a>
+        for the transit line colors
+      </p>
+    </div>
+
     <p class="mt-10 text-center text-xs opacity-50">
       Made in Switzerland by
       <a
