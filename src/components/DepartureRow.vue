@@ -18,45 +18,28 @@ const emit = defineEmits<{
 const { t } = useI18n()
 const router = useRouter()
 
-const timestampMs = computed(
-  () =>
-    props.row.departure?.departure.timestampMs ?? Number.MAX_SAFE_INTEGER
-)
+const timestampMs = computed(() => props.row.departure.departure.timestampMs)
 
 const { countdownLabel, expired } = useCountdown(timestampMs)
 
 watch(expired, (val) => {
-  if (val && props.row.departure) {
-    emit('expired', props.row.entry.id)
-  }
+  if (val) emit('expired', props.row.entry.id)
 })
 
-const isNow = computed(
-  () => Boolean(props.row.departure) && countdownLabel.value === 'now'
-)
+const isNow = computed(() => countdownLabel.value === 'now')
 
 const transportIcon = computed(() =>
-  getTransportIcon(props.row.departure?.mode)
+  getTransportIcon(props.row.departure.mode)
 )
 
 const modeClass = computed(() => {
-  const mode = props.row.departure?.mode
+  const mode = props.row.departure.mode
   if (mode === 'tram') return 'line-badge--tram'
   if (mode === 'bus') return 'line-badge--bus'
   return 'line-badge--train'
 })
 
-const lineLabel = computed(() => {
-  if (!props.row.departure) return '—'
-  return props.row.departure.line
-})
-
-const showPlaceholder = computed(
-  () =>
-    !props.row.departure ||
-    props.row.entry.loading ||
-    Boolean(props.row.entry.error)
-)
+const lineLabel = computed(() => props.row.departure.line)
 
 function openEdit() {
   router.push(`/stations/edit/${encodeURIComponent(props.row.entry.id)}`)
@@ -80,20 +63,14 @@ function openEdit() {
 
     <span class="station-col">
       <span class="station-name">{{ row.entry.station.name }}</span>
-      <span v-if="row.entry.direction" class="direction">
+      <span class="direction">
         <ArrowRight class="direction-icon" aria-hidden="true" />
-        <span class="direction-name">{{ row.entry.direction }}</span>
+        <span class="direction-name">{{ row.departure.to }}</span>
       </span>
     </span>
 
     <span class="countdown-col">
-      <template v-if="row.entry.error">
-        <span class="countdown-muted">—</span>
-      </template>
-      <template v-else-if="showPlaceholder && !row.departure">
-        <span class="countdown-muted">···</span>
-      </template>
-      <template v-else-if="isNow">
+      <template v-if="isNow">
         <component
           :is="transportIcon"
           class="now-icon"
@@ -162,37 +139,34 @@ function openEdit() {
   display: flex;
   min-width: 0;
   align-items: baseline;
-  gap: clamp(0.5rem, 1.5vw, 1rem);
+  gap: clamp(0.45rem, 1.2vw, 0.85rem);
 }
 
 .station-name {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
-  font-size: clamp(1.5rem, 5.5vw, 3.5rem);
+  flex-shrink: 0;
+  max-width: 45%;
+  font-size: clamp(1.35rem, 4.8vw, 3rem);
   font-weight: 400;
   line-height: 1.15;
 }
 
 .direction {
-  display: none;
+  display: inline-flex;
   min-width: 0;
   align-items: center;
   gap: 0.35rem;
-  color: var(--board-muted);
-  font-size: clamp(1rem, 2.8vw, 1.75rem);
-}
-
-@media (min-width: 768px) {
-  .direction {
-    display: inline-flex;
-  }
+  color: var(--board-fg);
+  font-size: clamp(1.35rem, 4.8vw, 3rem);
 }
 
 .direction-icon {
-  width: clamp(1rem, 2vw, 1.5rem);
-  height: clamp(1rem, 2vw, 1.5rem);
+  width: clamp(1rem, 2.2vw, 1.65rem);
+  height: clamp(1rem, 2.2vw, 1.65rem);
   flex-shrink: 0;
+  opacity: 0.55;
 }
 
 .direction-name {
@@ -213,13 +187,6 @@ function openEdit() {
   font-weight: 700;
   font-variant-numeric: tabular-nums;
   line-height: 1;
-}
-
-.countdown-muted {
-  color: var(--board-muted);
-  font-size: clamp(1.5rem, 5vw, 3rem);
-  font-weight: 700;
-  letter-spacing: 0.15em;
 }
 
 .now-icon {

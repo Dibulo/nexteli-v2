@@ -8,29 +8,36 @@ import type {
 export const BOARD_DISPLAY_LIMIT = 5
 
 export interface BoardRow {
+  /** Stable unique key for list rendering */
+  id: string
   entry: StationEntryWithDepartures
-  departure: FormattedDeparture | null
+  departure: FormattedDeparture
 }
 
 /**
- * Next departure per saved station, sorted by soonest departure, capped at 5.
- * Entries without a departure are kept (with null) so the board stays stable.
+ * Flatten upcoming departures from all saved stations, sort by soonest,
+ * and take the next 5 overall.
  */
 export function useBoardRows() {
   const { stationEntries, refreshStation, refreshAll } = useStations()
 
   const boardRows = computed<BoardRow[]>(() => {
-    const rows: BoardRow[] = stationEntries.value.map((entry) => ({
-      entry,
-      departure: entry.departures[0] ?? null,
-    }))
+    const rows: BoardRow[] = []
 
-    rows.sort((a, b) => {
-      const aTs = a.departure?.departure.timestampMs ?? Number.POSITIVE_INFINITY
-      const bTs = b.departure?.departure.timestampMs ?? Number.POSITIVE_INFINITY
-      if (aTs !== bTs) return aTs - bTs
-      return a.entry.createdAt - b.entry.createdAt
-    })
+    for (const entry of stationEntries.value) {
+      for (const [index, departure] of entry.departures.entries()) {
+        rows.push({
+          id: `${entry.id}::${departure.departure.timestampMs}::${departure.line}::${index}`,
+          entry,
+          departure,
+        })
+      }
+    }
+
+    rows.sort(
+      (a, b) =>
+        a.departure.departure.timestampMs - b.departure.departure.timestampMs
+    )
 
     return rows.slice(0, BOARD_DISPLAY_LIMIT)
   })

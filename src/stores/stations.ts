@@ -6,7 +6,7 @@ import { loadStations, saveStations } from '@/utils/storage'
 import { useTransportApi } from '@/composables/useTransportApi'
 
 const CACHE_TTL = 30_000
-const DISPLAY_LIMIT = 6
+const DISPLAY_LIMIT = 5
 
 export const useStationsStore = defineStore('stations', () => {
   const stations = ref<SavedStationEntry[]>([])

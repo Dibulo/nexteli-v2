@@ -22,7 +22,7 @@ const { t } = useI18n()
     <ul v-else class="board-list">
       <li
         v-for="row in rows"
-        :key="row.entry.id"
+        :key="row.id"
         class="board-item"
       >
         <DepartureRow :row="row" @expired="emit('expired', $event)" />
