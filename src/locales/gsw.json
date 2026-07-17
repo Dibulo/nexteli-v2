@@ -20,7 +20,8 @@
     "allDirections": "Alli Richtige",
     "submit": "Haltestell speichere",
     "duplicate": "Die Haltestell mit dere Richtig gits scho.",
-    "edit": "Haltestell bearbeite"
+    "edit": "Haltestell bearbeite",
+    "placeholder": "Sueche nach ene Haltestell"
   },
   "stations": {
     "title": "Mini Haltestelle",

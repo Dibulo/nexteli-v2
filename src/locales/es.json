@@ -20,7 +20,8 @@
     "allDirections": "Todas las direcciones",
     "submit": "Guardar estación",
     "duplicate": "Esta estación con esta dirección ya existe.",
-    "edit": "Editar estación"
+    "edit": "Editar estación",
+    "placeholder": "Busca una estación"
   },
   "stations": {
     "title": "Mis estaciones",

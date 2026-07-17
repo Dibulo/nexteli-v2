@@ -20,7 +20,8 @@
     "allDirections": "Toutes les directions",
     "submit": "Enregistrer la gare",
     "duplicate": "Cette gare avec cette direction existe déjà.",
-    "edit": "Modifier la gare"
+    "edit": "Modifier la gare",
+    "placeholder": "Rechercher une gare"
   },
   "stations": {
     "title": "Mes gares",

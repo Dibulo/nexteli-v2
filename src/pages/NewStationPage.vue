@@ -60,15 +60,11 @@ function handleSubmit() {
 
     <div class="surface-card p-6 sm:p-8">
       <h2 class="text-lg font-semibold tracking-tight">{{ t('nav.addStation') }}</h2>
-      <p class="mt-1 text-sm opacity-60">
-        {{ t('station.label') }}
-      </p>
-
-      <div class="mt-6 flex flex-col gap-5">
+      <div class="mt-2 flex flex-col gap-5">
         <StationSearch
           v-model="station"
           :label="t('station.label')"
-          :placeholder="t('station.label')"
+          :placeholder="t('station.placeholder')"
         />
 
         <div v-if="station">

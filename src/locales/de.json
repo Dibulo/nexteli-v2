@@ -20,7 +20,8 @@
     "allDirections": "Alle Richtungen",
     "submit": "Station speichern",
     "duplicate": "Diese Station mit dieser Richtung existiert bereits.",
-    "edit": "Station bearbeiten"
+    "edit": "Station bearbeiten",
+    "placeholder": "Suche nach einer Station"
   },
   "stations": {
     "title": "Meine Stationen",

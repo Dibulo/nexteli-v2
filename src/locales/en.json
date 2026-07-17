@@ -20,7 +20,8 @@
     "allDirections": "All directions",
     "submit": "Save station",
     "duplicate": "This station with this direction already exists.",
-    "edit": "Edit station"
+    "edit": "Edit station",
+    "placeholder": "Search for a station"
   },
   "stations": {
     "title": "My stations",
