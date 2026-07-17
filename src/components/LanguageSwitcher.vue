@@ -26,7 +26,7 @@ function onChange(e: Event) {
 <template>
   <div class="relative">
     <Globe
-      class="pointer-events-none absolute left-3.5 top-1/2 size-4 -translate-y-1/2 text-base-content/35"
+      class="pointer-events-none absolute left-3.5 top-1/2 size-4 -translate-y-1/2 text-base-content/55"
     />
     <select
       class="select select-bordered h-12 w-full max-w-sm rounded-xl pl-10 transition-shadow focus:shadow-sm"

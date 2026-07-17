@@ -82,7 +82,7 @@ function handleClearAll() {
         <h2 class="text-base font-semibold tracking-tight text-error">
           {{ t('settings.dangerZone') }}
         </h2>
-        <p class="mt-1 text-sm opacity-60">{{ t('settings.clearAllConfirm') }}</p>
+        <p class="mt-1 text-sm opacity-75">{{ t('settings.clearAllConfirm') }}</p>
         <button
           class="btn btn-error btn-outline btn-sm mt-4 rounded-xl"
           @click="handleClearAll"
@@ -93,7 +93,7 @@ function handleClearAll() {
       </div>
     </div>
 
-    <div class="mt-4 text-center text-sm opacity-50">
+    <div class="mt-4 text-center text-sm opacity-70">
       Swiss public transportation data provided by:
       <a href="https://transport.opendata.ch" target="_blank" rel="noopener" class="link link-primary inline-flex items-center gap-1.5 text-sm font-medium">
         transport.opendata.ch
@@ -101,7 +101,7 @@ function handleClearAll() {
       </a>
     </div>
 
-    <div class="mt-6 space-y-2 text-center text-sm opacity-50">
+    <div class="mt-6 space-y-2 text-center text-sm opacity-70">
       <p>
         Thanks to
         <a
@@ -130,7 +130,7 @@ function handleClearAll() {
       </p>
     </div>
 
-    <p class="mt-10 text-center text-xs opacity-50">
+    <p class="mt-10 text-center text-xs opacity-70">
       Made in Switzerland by
       <a
         href="https://dibulo.com?ref=nexteli"

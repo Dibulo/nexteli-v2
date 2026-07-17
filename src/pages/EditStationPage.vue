@@ -110,7 +110,7 @@ function handleDelete() {
             </span>
           </label>
 
-          <div v-if="loadingDirections" class="flex items-center gap-2 py-2 text-sm opacity-60">
+          <div v-if="loadingDirections" class="flex items-center gap-2 py-2 text-sm opacity-75">
             <span class="loading loading-spinner loading-sm" />
             {{ t('stations.searching') }}
           </div>

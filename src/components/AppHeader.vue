@@ -132,21 +132,17 @@ const isBoardScreen = computed(() => route.name === 'stations')
   border-radius: 0.35rem;
   color: inherit;
   text-decoration: none;
-  opacity: 0.75;
-  transition:
-    opacity 0.15s ease,
-    background-color 0.15s ease;
+  transition: background-color 0.15s ease;
 }
 
 .app-header__action:hover,
 .app-header__action:focus-visible {
-  opacity: 1;
   background-color: color-mix(in oklch, currentColor 8%, transparent);
   outline: none;
 }
 
 .app-header--board .app-header__action {
-  font-family: var(--font-display);
+  font-family: var(--font-display-solid);
   letter-spacing: 0.04em;
   color: var(--board-fg);
 }

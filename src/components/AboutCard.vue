@@ -15,10 +15,10 @@ const { t } = useI18n()
       </span>
       <div>
         <h2 class="text-base font-semibold tracking-tight">{{ t('about.title') }}</h2>
-        <p class="mt-2 text-sm leading-relaxed opacity-75">
+        <p class="mt-2 text-sm leading-relaxed opacity-85">
           {{ t('about.description') }}
         </p>
-        <p class="mt-2 text-xs opacity-50">{{ t('about.privacy') }}</p>
+        <p class="mt-2 text-xs opacity-70">{{ t('about.privacy') }}</p>
       </div>
     </div>
   </div>

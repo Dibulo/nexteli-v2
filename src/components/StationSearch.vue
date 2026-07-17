@@ -88,7 +88,7 @@ function onBlur() {
     </label>
     <div class="relative">
       <Search
-        class="pointer-events-none absolute left-3.5 top-1/2 z-10 size-4 -translate-y-1/2 text-base-content/35"
+        class="pointer-events-none absolute left-3.5 top-1/2 z-10 size-4 -translate-y-1/2 text-base-content/55"
       />
       <input
         v-model="query"

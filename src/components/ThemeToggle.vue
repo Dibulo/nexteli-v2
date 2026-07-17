@@ -30,7 +30,7 @@ function setDark() {
       :class="
         !isDark
           ? 'bg-base-100 text-warning shadow-sm'
-          : 'text-base-content/50 hover:text-base-content/70'
+          : 'text-base-content/65 hover:text-base-content/85'
       "
       :aria-label="t('settings.themeLight')"
       :aria-pressed="!isDark"
@@ -45,7 +45,7 @@ function setDark() {
       :class="
         isDark
           ? 'bg-base-100 text-primary shadow-sm'
-          : 'text-base-content/50 hover:text-base-content/70'
+          : 'text-base-content/65 hover:text-base-content/85'
       "
       :aria-label="t('settings.themeDark')"
       :aria-pressed="isDark"

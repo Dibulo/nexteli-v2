@@ -131,7 +131,7 @@ onUnmounted(() => {
     </div>
 
     <div class="surface-card p-6 sm:p-8">
-      <div v-if="loading && !journey" class="flex items-center gap-2 py-8 text-sm opacity-60">
+      <div v-if="loading && !journey" class="flex items-center gap-2 py-8 text-sm opacity-75">
         <span class="loading loading-spinner loading-sm" />
         {{ t('stations.searching') }}
       </div>
@@ -166,7 +166,7 @@ onUnmounted(() => {
             <hr v-if="index > 0" :class="stop.isCurrent ? 'bg-primary' : undefined" />
             <div
               class="timeline-middle"
-              :class="stop.isCurrent ? 'text-primary' : 'opacity-50'"
+              :class="stop.isCurrent ? 'text-primary' : 'opacity-70'"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -200,7 +200,7 @@ onUnmounted(() => {
           </li>
         </ul>
 
-        <p v-else class="py-4 text-sm opacity-60">
+        <p v-else class="py-4 text-sm opacity-75">
           {{ t('journey.empty') }}
         </p>
       </template>
