@@ -3,6 +3,7 @@ import type { Station, StationboardEntry, StationboardResponse, LocationsRespons
 import type { FormattedDeparture } from '@/types/itinerary'
 import { getCountdownLabel, minutesUntil } from '@/utils/format'
 import { categoryToMode } from '@/utils/transportIcons'
+import { lookupLineColor } from '@/utils/lineColors'
 
 const BASE_URL = 'https://transport.opendata.ch/v1'
 
@@ -20,10 +21,13 @@ function mapStationboardEntry(entry: StationboardEntry): FormattedDeparture {
       ? `${entry.category}${entry.number}`
       : entry.name || entry.category || ''
 
+  const color = lookupLineColor(entry.operator, entry.category, entry.number)
+
   return {
     line,
     mode: categoryToMode(entry.category),
     to: entry.to,
+    ...(color ? { color } : {}),
     departure: {
       iso: entry.stop.departure ?? '',
       timestampMs: depTimestamp,

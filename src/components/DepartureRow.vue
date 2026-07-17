@@ -33,10 +33,20 @@ const transportIcon = computed(() =>
 )
 
 const modeClass = computed(() => {
+  if (props.row.departure.color) return null
   const mode = props.row.departure.mode
   if (mode === 'tram') return 'line-badge--tram'
   if (mode === 'bus') return 'line-badge--bus'
   return 'line-badge--train'
+})
+
+const badgeStyle = computed(() => {
+  const color = props.row.departure.color
+  if (!color) return undefined
+  return {
+    backgroundColor: color.bg,
+    color: color.fg,
+  }
 })
 
 const lineLabel = computed(() => props.row.departure.line)
@@ -59,7 +69,7 @@ function openEdit() {
     "
     @click="openEdit"
   >
-    <span class="line-badge" :class="modeClass">{{ lineLabel }}</span>
+    <span class="line-badge" :class="modeClass" :style="badgeStyle">{{ lineLabel }}</span>
 
     <span class="station-col">
       <span class="station-name">{{ row.entry.station.name }}</span>

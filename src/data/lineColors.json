@@ -1,0 +1,11190 @@
+{
+  "AAGR|NFB|13": {
+    "bg": "#800000",
+    "fg": "#FFFFFF"
+  },
+  "AAGR|NFB|42": {
+    "bg": "#FFFF00",
+    "fg": "#000000"
+  },
+  "AAGR|NFB|43": {
+    "bg": "#008000",
+    "fg": "#FFFFFF"
+  },
+  "AAGR|NFB|44": {
+    "bg": "#00CCFF",
+    "fg": "#FFFFFF"
+  },
+  "AAGR|NFB|45": {
+    "bg": "#FECA0A",
+    "fg": "#000000"
+  },
+  "AAGR|NFB|50": {
+    "bg": "#969696",
+    "fg": "#FFFFFF"
+  },
+  "AAGR|NFB|51": {
+    "bg": "#CCFF99",
+    "fg": "#000000"
+  },
+  "AAGR|NFB|52": {
+    "bg": "#0066CC",
+    "fg": "#FFFFFF"
+  },
+  "AAGR|NFB|53": {
+    "bg": "#800080",
+    "fg": "#FFFFFF"
+  },
+  "AAGR|NFB|54": {
+    "bg": "#00CC00",
+    "fg": "#FFFFFF"
+  },
+  "ARAG|BUS|66": {
+    "bg": "#F8A624",
+    "fg": "#FFFFFF"
+  },
+  "ARAG|NFB|60": {
+    "bg": "#48BBBA",
+    "fg": "#FFFFFF"
+  },
+  "ARAG|NFB|61": {
+    "bg": "#E5030E",
+    "fg": "#FFFFFF"
+  },
+  "ARAG|NFB|62": {
+    "bg": "#019FE4",
+    "fg": "#FFFFFF"
+  },
+  "ARAG|NFB|63": {
+    "bg": "#009640",
+    "fg": "#FFFFFF"
+  },
+  "ARAG|NFB|64": {
+    "bg": "#302769",
+    "fg": "#FFFFFF"
+  },
+  "ARAG|NFB|65": {
+    "bg": "#C6AAD2",
+    "fg": "#FFFFFF"
+  },
+  "ARAG|NFB|66": {
+    "bg": "#F8A624",
+    "fg": "#FFFFFF"
+  },
+  "BBA|NFB|1": {
+    "bg": "#EE1D23",
+    "fg": "#FFFFFF"
+  },
+  "BBA|NFB|2": {
+    "bg": "#23B24B",
+    "fg": "#FFFFFF"
+  },
+  "BBA|NFB|3": {
+    "bg": "#015AAA",
+    "fg": "#FFFFFF"
+  },
+  "BBA|NFB|4": {
+    "bg": "#802990",
+    "fg": "#FFFFFF"
+  },
+  "BBA|NFB|5": {
+    "bg": "#FECA0A",
+    "fg": "#FFFFFF"
+  },
+  "BBA|NFB|6": {
+    "bg": "#F48232",
+    "fg": "#FFFFFF"
+  },
+  "BBA|NFB|7": {
+    "bg": "#C5168C",
+    "fg": "#FFFFFF"
+  },
+  "BLT|NFB|10": {
+    "bg": "#FECA0A",
+    "fg": "#000000"
+  },
+  "BLT|NFB|11": {
+    "bg": "#EE1D23",
+    "fg": "#FFFFFF"
+  },
+  "BLT|NFT|10": {
+    "bg": "#FECA0A",
+    "fg": "#000000"
+  },
+  "BLT|NFT|11": {
+    "bg": "#EE1D23",
+    "fg": "#FFFFFF"
+  },
+  "BLT|NFT|17": {
+    "bg": "#00AEEF",
+    "fg": "#FFFFFF"
+  },
+  "BLT|NFT|E11": {
+    "bg": "#EE1D23",
+    "fg": "#FFFFFF"
+  },
+  "BLT|T|10": {
+    "bg": "#FECA0A",
+    "fg": "#000000"
+  },
+  "BLT|T|11": {
+    "bg": "#EE1D23",
+    "fg": "#FFFFFF"
+  },
+  "BLT|T|17": {
+    "bg": "#00AEEF",
+    "fg": "#FFFFFF"
+  },
+  "BLT|T|E11": {
+    "bg": "#EE1D23",
+    "fg": "#FFFFFF"
+  },
+  "BOGG|NFB|501": {
+    "bg": "#E2001A",
+    "fg": "#FFFFFF"
+  },
+  "BOGG|NFB|502": {
+    "bg": "#97BF0D",
+    "fg": "#000000"
+  },
+  "BOGG|NFB|503": {
+    "bg": "#DD7602",
+    "fg": "#FFFFFF"
+  },
+  "BOGG|NFB|505": {
+    "bg": "#0E7F26",
+    "fg": "#FFFFFF"
+  },
+  "BOGG|NFB|506": {
+    "bg": "#81197F",
+    "fg": "#FFFFFF"
+  },
+  "BOGG|NFB|511": {
+    "bg": "#FFDD00",
+    "fg": "#FFFFFF"
+  },
+  "BOGG|NFB|512": {
+    "bg": "#004494",
+    "fg": "#FFFFFF"
+  },
+  "BOGG|NFB|513": {
+    "bg": "#E899B2",
+    "fg": "#FFFFFF"
+  },
+  "BOGG|NFB|517": {
+    "bg": "#B18EBC",
+    "fg": "#FFFFFF"
+  },
+  "BOGG|NFB|555": {
+    "bg": "#963F1B",
+    "fg": "#FFFFFF"
+  },
+  "BOGG|NFB|571": {
+    "bg": "#D4007A",
+    "fg": "#FFFFFF"
+  },
+  "BOGG|NFB|572": {
+    "bg": "#009EE0",
+    "fg": "#FFFFFF"
+  },
+  "BSU|KB|16": {
+    "bg": "#B62270",
+    "fg": "#FFFFFF"
+  },
+  "BSU|KB|7": {
+    "bg": "#832018",
+    "fg": "#FFFFFF"
+  },
+  "BSU|NFB|1": {
+    "bg": "#231F20",
+    "fg": "#FFFFFF"
+  },
+  "BSU|NFB|16": {
+    "bg": "#B62270",
+    "fg": "#FFFFFF"
+  },
+  "BSU|NFB|2": {
+    "bg": "#EE1D23",
+    "fg": "#FFFFFF"
+  },
+  "BSU|NFB|3": {
+    "bg": "#26358F",
+    "fg": "#FFFFFF"
+  },
+  "BSU|NFB|4": {
+    "bg": "#F58220",
+    "fg": "#FFFFFF"
+  },
+  "BSU|NFB|5": {
+    "bg": "#0BAE62",
+    "fg": "#FFFFFF"
+  },
+  "BSU|NFB|6": {
+    "bg": "#BED630",
+    "fg": "#000000"
+  },
+  "BSU|NFB|7": {
+    "bg": "#832018",
+    "fg": "#FFFFFF"
+  },
+  "BSU|NFB|9": {
+    "bg": "#D957A0",
+    "fg": "#FFFFFF"
+  },
+  "BVB|NFT|1": {
+    "bg": "#835237",
+    "fg": "#FFFFFF"
+  },
+  "BVB|NFT|14": {
+    "bg": "#F58220",
+    "fg": "#000000"
+  },
+  "BVB|NFT|15": {
+    "bg": "#00A54F",
+    "fg": "#FFFFFF"
+  },
+  "BVB|NFT|16": {
+    "bg": "#A6CE39",
+    "fg": "#000000"
+  },
+  "BVB|NFT|2": {
+    "bg": "#A68351",
+    "fg": "#FFFFFF"
+  },
+  "BVB|NFT|21": {
+    "bg": "#00AE9D",
+    "fg": "#FFFFFF"
+  },
+  "BVB|NFT|3": {
+    "bg": "#324EA1",
+    "fg": "#FFFFFF"
+  },
+  "BVB|NFT|6": {
+    "bg": "#0072BC",
+    "fg": "#FFFFFF"
+  },
+  "BVB|NFT|8": {
+    "bg": "#F171AB",
+    "fg": "#000000"
+  },
+  "BVB|T|21": {
+    "bg": "#00AE9D",
+    "fg": "#FFFFFF"
+  },
+  "FART Aut|BUS|2": {
+    "bg": "#08A850",
+    "fg": "#FFFFFF"
+  },
+  "FART Aut|BUS|312": {
+    "bg": "#95D6F7",
+    "fg": "#000000"
+  },
+  "FART Aut|BUS|314": {
+    "bg": "#90D8F9",
+    "fg": "#000000"
+  },
+  "FART Aut|BUS|316": {
+    "bg": "#8FD8F9",
+    "fg": "#000000"
+  },
+  "FART Aut|NFB|1": {
+    "bg": "#F00023",
+    "fg": "#FFFFFF"
+  },
+  "FART Aut|NFB|2": {
+    "bg": "#08A850",
+    "fg": "#FFFFFF"
+  },
+  "FART Aut|NFB|312": {
+    "bg": "#95D6F7",
+    "fg": "#000000"
+  },
+  "FART Aut|NFB|314": {
+    "bg": "#90D8F9",
+    "fg": "#000000"
+  },
+  "FART Aut|NFB|315": {
+    "bg": "#92D8F7",
+    "fg": "#000000"
+  },
+  "FART Aut|NFB|7": {
+    "bg": "#00ACEF",
+    "fg": "#FFFFFF"
+  },
+  "FART Aut|NFB|8": {
+    "bg": "#A9D238",
+    "fg": "#FFFFFF"
+  },
+  "OBSM|BUS|1": {
+    "bg": "#12AB57",
+    "fg": "#FFFFFF"
+  },
+  "OBSM|BUS|2": {
+    "bg": "#F8C934",
+    "fg": "#000000"
+  },
+  "OBSM|BUS|3": {
+    "bg": "#D92888",
+    "fg": "#FFFFFF"
+  },
+  "OBSM|BUS|4": {
+    "bg": "#70207A",
+    "fg": "#FFFFFF"
+  },
+  "OBSM|BUS|6": {
+    "bg": "#009ACF",
+    "fg": "#FFFFFF"
+  },
+  "OBSM|BUS|7": {
+    "bg": "#8D4A8E",
+    "fg": "#FFFFFF"
+  },
+  "OBSM|BUS|8": {
+    "bg": "#1A1919",
+    "fg": "#FFFFFF"
+  },
+  "OBSM|BUS|9": {
+    "bg": "#B96332",
+    "fg": "#FFFFFF"
+  },
+  "OBSM|NFB|3": {
+    "bg": "#D92888",
+    "fg": "#FFFFFF"
+  },
+  "OBSM|NFB|9": {
+    "bg": "#B96332",
+    "fg": "#FFFFFF"
+  },
+  "RVSH|KB|22": {
+    "bg": "#BEC2C5",
+    "fg": "#000000"
+  },
+  "RVSH|KB|23": {
+    "bg": "#13B27B",
+    "fg": "#FFFFFF"
+  },
+  "RVSH|KB|28": {
+    "bg": "#5D479D",
+    "fg": "#FFFFFF"
+  },
+  "RVSH|NFB|21": {
+    "bg": "#CF1F3B",
+    "fg": "#FFFFFF"
+  },
+  "RVSH|NFB|22": {
+    "bg": "#BEC2C5",
+    "fg": "#000000"
+  },
+  "RVSH|NFB|23": {
+    "bg": "#13B27B",
+    "fg": "#FFFFFF"
+  },
+  "RVSH|NFB|24": {
+    "bg": "#D05DA4",
+    "fg": "#FFFFFF"
+  },
+  "RVSH|NFB|25": {
+    "bg": "#F58220",
+    "fg": "#FFFFFF"
+  },
+  "RVSH|NFB|26": {
+    "bg": "#0089AE",
+    "fg": "#FFFFFF"
+  },
+  "RVSH|NFB|27": {
+    "bg": "#0D673D",
+    "fg": "#FFFFFF"
+  },
+  "RVSH|TX|26": {
+    "bg": "#0089AE",
+    "fg": "#FFFFFF"
+  },
+  "RVSH|TX|28": {
+    "bg": "#5D479D",
+    "fg": "#FFFFFF"
+  },
+  "SBC|BUS|1": {
+    "bg": "#00AB66",
+    "fg": "#FFFFFF"
+  },
+  "SBC|BUS|2": {
+    "bg": "#FFDC01",
+    "fg": "#000000"
+  },
+  "SBC|BUS|3": {
+    "bg": "#D60007",
+    "fg": "#000000"
+  },
+  "SBC|BUS|4": {
+    "bg": "#006BB6",
+    "fg": "#FFFFFF"
+  },
+  "SBC|BUS|6": {
+    "bg": "#10ABCA",
+    "fg": "#FFFFFF"
+  },
+  "SBC|BUS|9": {
+    "bg": "#B07807",
+    "fg": "#FFFFFF"
+  },
+  "SBC|NFB|1": {
+    "bg": "#00AB66",
+    "fg": "#FFFFFF"
+  },
+  "SBC|NFB|2": {
+    "bg": "#FFDC01",
+    "fg": "#000000"
+  },
+  "SBC|NFB|3": {
+    "bg": "#D60007",
+    "fg": "#000000"
+  },
+  "SBC|NFB|4": {
+    "bg": "#006BB6",
+    "fg": "#FFFFFF"
+  },
+  "SBC|NFB|6": {
+    "bg": "#10ABCA",
+    "fg": "#FFFFFF"
+  },
+  "SBC|NFB|9": {
+    "bg": "#B07807",
+    "fg": "#FFFFFF"
+  },
+  "SBW|BUS|1": {
+    "bg": "#231F20",
+    "fg": "#FFFFFF"
+  },
+  "SBW|BUS|10": {
+    "bg": "#1A5692",
+    "fg": "#FFFFFF"
+  },
+  "SBW|BUS|11": {
+    "bg": "#ED3896",
+    "fg": "#FFFFFF"
+  },
+  "SBW|BUS|12": {
+    "bg": "#815732",
+    "fg": "#FFFFFF"
+  },
+  "SBW|BUS|14": {
+    "bg": "#F0E43D",
+    "fg": "#000000"
+  },
+  "SBW|BUS|2": {
+    "bg": "#EE1D23",
+    "fg": "#FFFFFF"
+  },
+  "SBW|BUS|2E": {
+    "bg": "#EE1D23",
+    "fg": "#FFFFFF"
+  },
+  "SBW|BUS|3": {
+    "bg": "#23B24B",
+    "fg": "#FFFFFF"
+  },
+  "SBW|BUS|4": {
+    "bg": "#FCB814",
+    "fg": "#000000"
+  },
+  "SBW|BUS|5": {
+    "bg": "#0072BC",
+    "fg": "#FFFFFF"
+  },
+  "SBW|BUS|610": {
+    "bg": "#AAD5F1",
+    "fg": "#000000"
+  },
+  "SBW|BUS|611": {
+    "bg": "#73BDE9",
+    "fg": "#000000"
+  },
+  "SBW|BUS|660": {
+    "bg": "#73BDE9",
+    "fg": "#000000"
+  },
+  "SBW|BUS|667": {
+    "bg": "#AAD5F1",
+    "fg": "#000000"
+  },
+  "SBW|BUS|674": {
+    "bg": "#AAD5F1",
+    "fg": "#000000"
+  },
+  "SBW|BUS|7": {
+    "bg": "#3F979F",
+    "fg": "#FFFFFF"
+  },
+  "SBW|BUS|9": {
+    "bg": "#EE9B53",
+    "fg": "#FFFFFF"
+  },
+  "SBW|NFB|1": {
+    "bg": "#231F20",
+    "fg": "#FFFFFF"
+  },
+  "SBW|NFB|10": {
+    "bg": "#1A5692",
+    "fg": "#FFFFFF"
+  },
+  "SBW|NFB|11": {
+    "bg": "#ED3896",
+    "fg": "#FFFFFF"
+  },
+  "SBW|NFB|12": {
+    "bg": "#815732",
+    "fg": "#FFFFFF"
+  },
+  "SBW|NFB|14": {
+    "bg": "#F0E43D",
+    "fg": "#000000"
+  },
+  "SBW|NFB|2": {
+    "bg": "#EE1D23",
+    "fg": "#FFFFFF"
+  },
+  "SBW|NFB|2E": {
+    "bg": "#EE1D23",
+    "fg": "#FFFFFF"
+  },
+  "SBW|NFB|3": {
+    "bg": "#23B24B",
+    "fg": "#FFFFFF"
+  },
+  "SBW|NFB|4": {
+    "bg": "#FCB814",
+    "fg": "#000000"
+  },
+  "SBW|NFB|5": {
+    "bg": "#0072BC",
+    "fg": "#FFFFFF"
+  },
+  "SBW|NFB|610": {
+    "bg": "#AAD5F1",
+    "fg": "#000000"
+  },
+  "SBW|NFB|611": {
+    "bg": "#73BDE9",
+    "fg": "#000000"
+  },
+  "SBW|NFB|660": {
+    "bg": "#73BDE9",
+    "fg": "#000000"
+  },
+  "SBW|NFB|667": {
+    "bg": "#AAD5F1",
+    "fg": "#000000"
+  },
+  "SBW|NFB|674": {
+    "bg": "#AAD5F1",
+    "fg": "#000000"
+  },
+  "SBW|NFB|7": {
+    "bg": "#3F979F",
+    "fg": "#FFFFFF"
+  },
+  "SBW|NFB|9": {
+    "bg": "#EE9B53",
+    "fg": "#FFFFFF"
+  },
+  "STI|KB|22": {
+    "bg": "#EEBB82",
+    "fg": "#FFFFFF"
+  },
+  "STI|NFB|1": {
+    "bg": "#C32323",
+    "fg": "#FFFFFF"
+  },
+  "STI|NFB|2": {
+    "bg": "#383174",
+    "fg": "#FFFFFF"
+  },
+  "STI|NFB|21": {
+    "bg": "#64B1DB",
+    "fg": "#FFFFFF"
+  },
+  "STI|NFB|24": {
+    "bg": "#D88DBA",
+    "fg": "#FFFFFF"
+  },
+  "STI|NFB|25": {
+    "bg": "#582522",
+    "fg": "#FFFFFF"
+  },
+  "STI|NFB|3": {
+    "bg": "#8D5E44",
+    "fg": "#FFFFFF"
+  },
+  "STI|NFB|31": {
+    "bg": "#934B94",
+    "fg": "#FFFFFF"
+  },
+  "STI|NFB|32": {
+    "bg": "#B6CA45",
+    "fg": "#FFFFFF"
+  },
+  "STI|NFB|33": {
+    "bg": "#DD9889",
+    "fg": "#FFFFFF"
+  },
+  "STI|NFB|4": {
+    "bg": "#249547",
+    "fg": "#FFFFFF"
+  },
+  "STI|NFB|41": {
+    "bg": "#779FB9",
+    "fg": "#FFFFFF"
+  },
+  "STI|NFB|42": {
+    "bg": "#A29F3F",
+    "fg": "#FFFFFF"
+  },
+  "STI|NFB|43": {
+    "bg": "#F1CB28",
+    "fg": "#FFFFFF"
+  },
+  "STI|NFB|44": {
+    "bg": "#6E0A62",
+    "fg": "#FFFFFF"
+  },
+  "STI|NFB|5": {
+    "bg": "#019891",
+    "fg": "#FFFFFF"
+  },
+  "STI|NFB|50": {
+    "bg": "#A199C8",
+    "fg": "#FFFFFF"
+  },
+  "STI|NFB|51": {
+    "bg": "#DC9016",
+    "fg": "#FFFFFF"
+  },
+  "STI|NFB|53": {
+    "bg": "#85BEAB",
+    "fg": "#FFFFFF"
+  },
+  "STI|NFB|55": {
+    "bg": "#73AD3D",
+    "fg": "#FFFFFF"
+  },
+  "STI|NFB|6": {
+    "bg": "#B50071",
+    "fg": "#FFFFFF"
+  },
+  "STI|NFB|M13": {
+    "bg": "#A1D33F",
+    "fg": "#FFFFFF"
+  },
+  "STI|NFB|M15": {
+    "bg": "#8AB5AE",
+    "fg": "#FFFFFF"
+  },
+  "STI|NFB|M23": {
+    "bg": "#E88838",
+    "fg": "#FFFFFF"
+  },
+  "STI|NFB|M24": {
+    "bg": "#EFE416",
+    "fg": "#000000"
+  },
+  "STI|NFB|M25": {
+    "bg": "#F29DBB",
+    "fg": "#FFFFFF"
+  },
+  "STI|NFB|M27": {
+    "bg": "#1F7C47",
+    "fg": "#FFFFFF"
+  },
+  "STI|NFB|M28": {
+    "bg": "#B18AB7",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|10": {
+    "bg": "#00A54F",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|11": {
+    "bg": "#15C0F2",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|12": {
+    "bg": "#F7931D",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|16": {
+    "bg": "#57B6A0",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|160": {
+    "bg": "#4CB848",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|17": {
+    "bg": "#989A35",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|19": {
+    "bg": "#681338",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|20": {
+    "bg": "#681338",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|21": {
+    "bg": "#E3CB38",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|22": {
+    "bg": "#9AADB2",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|23": {
+    "bg": "#9AADB2",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|25": {
+    "bg": "#9AADB2",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|26": {
+    "bg": "#E89741",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|27": {
+    "bg": "#515123",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|28": {
+    "bg": "#989A35",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|29": {
+    "bg": "#D55959",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|3": {
+    "bg": "#9AADB2",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|30": {
+    "bg": "#9AADB2",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|31": {
+    "bg": "#9EC646",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|32": {
+    "bg": "#57B6A0",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|33": {
+    "bg": "#515123",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|331": {
+    "bg": "#B7282E",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|332": {
+    "bg": "#EE1D23",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|334": {
+    "bg": "#73BDE9",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|34": {
+    "bg": "#391D15",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|36": {
+    "bg": "#57B6A0",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|3B": {
+    "bg": "#9AADB2",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|6": {
+    "bg": "#0089CF",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|6b": {
+    "bg": "#0089CF",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|6B": {
+    "bg": "#0089CF",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|7": {
+    "bg": "#EE1D23",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|7B": {
+    "bg": "#EE1D23",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|8": {
+    "bg": "#F171AB",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|8B": {
+    "bg": "#F171AB",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|9": {
+    "bg": "#F2BC39",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFB|9B": {
+    "bg": "#F2BC39",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFO|11": {
+    "bg": "#15C0F2",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFO|12": {
+    "bg": "#F7931D",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFO|20": {
+    "bg": "#71BF44",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFT|3": {
+    "bg": "#9AADB2",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFT|6": {
+    "bg": "#0089CF",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFT|7": {
+    "bg": "#EE1D23",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFT|8": {
+    "bg": "#F171AB",
+    "fg": "#FFFFFF"
+  },
+  "SVB Auto|NFT|9": {
+    "bg": "#FEC210",
+    "fg": "#FFFFFF"
+  },
+  "TL|BUS|1": {
+    "bg": "#EE1D23",
+    "fg": "#FFFFFF"
+  },
+  "TL|BUS|12": {
+    "bg": "#8C9B7B",
+    "fg": "#FFFFFF"
+  },
+  "TL|BUS|13": {
+    "bg": "#FCB814",
+    "fg": "#000000"
+  },
+  "TL|BUS|16": {
+    "bg": "#BDB202",
+    "fg": "#FFFFFF"
+  },
+  "TL|BUS|17": {
+    "bg": "#ACD589",
+    "fg": "#FFFFFF"
+  },
+  "TL|BUS|18": {
+    "bg": "#6BCFF6",
+    "fg": "#FFFFFF"
+  },
+  "TL|BUS|2": {
+    "bg": "#FFF101",
+    "fg": "#000000"
+  },
+  "TL|BUS|21": {
+    "bg": "#8E52A1",
+    "fg": "#FFFFFF"
+  },
+  "TL|BUS|22": {
+    "bg": "#CB572B",
+    "fg": "#FFFFFF"
+  },
+  "TL|BUS|23": {
+    "bg": "#D0A233",
+    "fg": "#000000"
+  },
+  "TL|BUS|25": {
+    "bg": "#ADC4E5",
+    "fg": "#FFFFFF"
+  },
+  "TL|BUS|3": {
+    "bg": "#939598",
+    "fg": "#000000"
+  },
+  "TL|BUS|31": {
+    "bg": "#C5D9E4",
+    "fg": "#FFFFFF"
+  },
+  "TL|BUS|32": {
+    "bg": "#9C85BD",
+    "fg": "#FFFFFF"
+  },
+  "TL|BUS|33": {
+    "bg": "#4B7520",
+    "fg": "#FFFFFF"
+  },
+  "TL|BUS|36": {
+    "bg": "#9BB4BD",
+    "fg": "#FFFFFF"
+  },
+  "TL|BUS|38": {
+    "bg": "#BA8632",
+    "fg": "#FFFFFF"
+  },
+  "TL|BUS|4": {
+    "bg": "#C5D9E4",
+    "fg": "#FFFFFF"
+  },
+  "TL|BUS|41": {
+    "bg": "#B41E8D",
+    "fg": "#FFFFFF"
+  },
+  "TL|BUS|42": {
+    "bg": "#FFDC01",
+    "fg": "#000000"
+  },
+  "TL|BUS|45": {
+    "bg": "#008C93",
+    "fg": "#FFFFFF"
+  },
+  "TL|BUS|46": {
+    "bg": "#B39C02",
+    "fg": "#FFFFFF"
+  },
+  "TL|BUS|47": {
+    "bg": "#FECE7A",
+    "fg": "#000000"
+  },
+  "TL|BUS|48": {
+    "bg": "#7E9ED2",
+    "fg": "#FFFFFF"
+  },
+  "TL|BUS|49": {
+    "bg": "#C092C2",
+    "fg": "#FFFFFF"
+  },
+  "TL|BUS|54": {
+    "bg": "#B86749",
+    "fg": "#FFFFFF"
+  },
+  "TL|BUS|56": {
+    "bg": "#F8A87E",
+    "fg": "#FFFFFF"
+  },
+  "TL|BUS|6": {
+    "bg": "#00AEEF",
+    "fg": "#FFFFFF"
+  },
+  "TL|BUS|60": {
+    "bg": "#CFE4AE",
+    "fg": "#000000"
+  },
+  "TL|BUS|62": {
+    "bg": "#E670A3",
+    "fg": "#FFFFFF"
+  },
+  "TL|BUS|64": {
+    "bg": "#C0333B",
+    "fg": "#FFFFFF"
+  },
+  "TL|BUS|65": {
+    "bg": "#FCB814",
+    "fg": "#000000"
+  },
+  "TL|BUS|67": {
+    "bg": "#C3B622",
+    "fg": "#FFFFFF"
+  },
+  "TL|BUS|68": {
+    "bg": "#5E5DA9",
+    "fg": "#FFFFFF"
+  },
+  "TL|BUS|69": {
+    "bg": "#5E5DA9",
+    "fg": "#FFFFFF"
+  },
+  "TL|BUS|7": {
+    "bg": "#2E3092",
+    "fg": "#FFFFFF"
+  },
+  "TL|BUS|8": {
+    "bg": "#8E52A1",
+    "fg": "#FFFFFF"
+  },
+  "TL|BUS|9": {
+    "bg": "#ED0277",
+    "fg": "#FFFFFF"
+  },
+  "TL|KB|68": {
+    "bg": "#5E5DA9",
+    "fg": "#FFFFFF"
+  },
+  "TL|KB|69": {
+    "bg": "#5E5DA9",
+    "fg": "#FFFFFF"
+  },
+  "TL|M|1": {
+    "bg": "#BA367D",
+    "fg": "#FFFFFF"
+  },
+  "TL|M|2": {
+    "bg": "#BA367D",
+    "fg": "#FFFFFF"
+  },
+  "TPF Auto|NFB|1": {
+    "bg": "#64982F",
+    "fg": "#FFFFFF"
+  },
+  "TPF Auto|NFB|11": {
+    "bg": "#00B294",
+    "fg": "#FFFFFF"
+  },
+  "TPF Auto|NFB|2": {
+    "bg": "#EF4B44",
+    "fg": "#FFFFFF"
+  },
+  "TPF Auto|NFB|3": {
+    "bg": "#FED702",
+    "fg": "#000000"
+  },
+  "TPF Auto|NFB|4": {
+    "bg": "#F7951F",
+    "fg": "#FFFFFF"
+  },
+  "TPF Auto|NFB|5": {
+    "bg": "#0093D0",
+    "fg": "#FED702"
+  },
+  "TPF Auto|NFB|6": {
+    "bg": "#543695",
+    "fg": "#FFFFFF"
+  },
+  "TPF Auto|NFB|7": {
+    "bg": "#934312",
+    "fg": "#FFFFFF"
+  },
+  "TPF Auto|NFB|8": {
+    "bg": "#EA4498",
+    "fg": "#000000"
+  },
+  "TPF Auto|NFB|9": {
+    "bg": "#A54499",
+    "fg": "#FFFFFF"
+  },
+  "TPF Auto|NFO|1": {
+    "bg": "#64982F",
+    "fg": "#FFFFFF"
+  },
+  "TPF Auto|NFO|2": {
+    "bg": "#EF4B44",
+    "fg": "#FFFFFF"
+  },
+  "TPF Auto|NFO|3": {
+    "bg": "#FED702",
+    "fg": "#000000"
+  },
+  "TPG|BUS|43": {
+    "bg": "#99CCCC",
+    "fg": "#000000"
+  },
+  "TPG|BUS|53": {
+    "bg": "#99CCCC",
+    "fg": "#000000"
+  },
+  "TPG|BUS|B": {
+    "bg": "#FF9999",
+    "fg": "#000000"
+  },
+  "TPG|BUS|D": {
+    "bg": "#FF9999",
+    "fg": "#000000"
+  },
+  "TPG|BUS|W": {
+    "bg": "#003399",
+    "fg": "#FFFFFF"
+  },
+  "TPG|KB|35": {
+    "bg": "#666666",
+    "fg": "#FFFFFF"
+  },
+  "TPG|KB|36": {
+    "bg": "#666666",
+    "fg": "#FFFFFF"
+  },
+  "TPG|KB|47": {
+    "bg": "#009999",
+    "fg": "#FFFFFF"
+  },
+  "TPG|KB|54": {
+    "bg": "#009999",
+    "fg": "#FFFFFF"
+  },
+  "TPG|KB|T": {
+    "bg": "#FF9999",
+    "fg": "#000000"
+  },
+  "TPG|NFB|1": {
+    "bg": "#5A338B",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|11": {
+    "bg": "#9683EC",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|20": {
+    "bg": "#00A24C",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|21": {
+    "bg": "#663333",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|22": {
+    "bg": "#663399",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|23": {
+    "bg": "#CC3399",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|25": {
+    "bg": "#996600",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|28": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "TPG|NFB|31": {
+    "bg": "#009999",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|33": {
+    "bg": "#009999",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|34": {
+    "bg": "#99CCCC",
+    "fg": "#000000"
+  },
+  "TPG|NFB|35": {
+    "bg": "#848286",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|36": {
+    "bg": "#848286",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|41": {
+    "bg": "#009999",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|42": {
+    "bg": "#99CCCC",
+    "fg": "#000000"
+  },
+  "TPG|NFB|43": {
+    "bg": "#99CCCC",
+    "fg": "#000000"
+  },
+  "TPG|NFB|44": {
+    "bg": "#009999",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|45": {
+    "bg": "#99CCCC",
+    "fg": "#000000"
+  },
+  "TPG|NFB|46": {
+    "bg": "#009999",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|47": {
+    "bg": "#009999",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|5": {
+    "bg": "#00A7E3",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|5+": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|51": {
+    "bg": "#009999",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|53": {
+    "bg": "#99CCCC",
+    "fg": "#000000"
+  },
+  "TPG|NFB|54": {
+    "bg": "#009999",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|56": {
+    "bg": "#009999",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|57": {
+    "bg": "#99CCCC",
+    "fg": "#000000"
+  },
+  "TPG|NFB|61": {
+    "bg": "#FF9999",
+    "fg": "#000000"
+  },
+  "TPG|NFB|62": {
+    "bg": "#EB6CA3",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|63": {
+    "bg": "#FF9999",
+    "fg": "#000000"
+  },
+  "TPG|NFB|64": {
+    "bg": "#EB6CA3",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|66": {
+    "bg": "#FF9999",
+    "fg": "#000000"
+  },
+  "TPG|NFB|68": {
+    "bg": "#EB6CA3",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|8": {
+    "bg": "#993333",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|9": {
+    "bg": "#CC0033",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|A": {
+    "bg": "#FF6600",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|B": {
+    "bg": "#FF6600",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|C": {
+    "bg": "#FF6600",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|C+": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|D": {
+    "bg": "#FF9999",
+    "fg": "#000000"
+  },
+  "TPG|NFB|E": {
+    "bg": "#FF6600",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|F": {
+    "bg": "#FF9999",
+    "fg": "#000000"
+  },
+  "TPG|NFB|G": {
+    "bg": "#FF9999",
+    "fg": "#000000"
+  },
+  "TPG|NFB|G+": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|J": {
+    "bg": "#FF6600",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|K": {
+    "bg": "#FF9999",
+    "fg": "#000000"
+  },
+  "TPG|NFB|L": {
+    "bg": "#FF6600",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|M": {
+    "bg": "#FF9BAA",
+    "fg": "#000000"
+  },
+  "TPG|NFB|N": {
+    "bg": "#A45CA4",
+    "fg": "#000000"
+  },
+  "TPG|NFB|NA": {
+    "bg": "#4D2A9B",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|NC": {
+    "bg": "#4D2A9B",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|ND": {
+    "bg": "#774C2D",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|NE": {
+    "bg": "#A13B96",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|NJ": {
+    "bg": "#D6E63A",
+    "fg": "#000000"
+  },
+  "TPG|NFB|NK": {
+    "bg": "#F0A802",
+    "fg": "#000000"
+  },
+  "TPG|NFB|NM": {
+    "bg": "#F0A802",
+    "fg": "#000000"
+  },
+  "TPG|NFB|NO": {
+    "bg": "#B82F89",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|NP": {
+    "bg": "#009999",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|NS": {
+    "bg": "#4392D6",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|NT": {
+    "bg": "#00A7E3",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|NV": {
+    "bg": "#0099FF",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|P": {
+    "bg": "#003399",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|S": {
+    "bg": "#003399",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|T": {
+    "bg": "#FF9BAA",
+    "fg": "#000000"
+  },
+  "TPG|NFB|U": {
+    "bg": "#003399",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|V": {
+    "bg": "#FF6600",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|X": {
+    "bg": "#003399",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|XA": {
+    "bg": "#666666",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFB|Z": {
+    "bg": "#FF9999",
+    "fg": "#000000"
+  },
+  "TPG|NFO|10": {
+    "bg": "#1C753C",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFO|19": {
+    "bg": "#F6ED00",
+    "fg": "#000000"
+  },
+  "TPG|NFO|2": {
+    "bg": "#D6E63A",
+    "fg": "#000000"
+  },
+  "TPG|NFO|3": {
+    "bg": "#A13B96",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFO|6": {
+    "bg": "#4392D6",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFO|7": {
+    "bg": "#3BAA1B",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFT|12": {
+    "bg": "#F0A802",
+    "fg": "#000000"
+  },
+  "TPG|NFT|14": {
+    "bg": "#4D2A9B",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFT|15": {
+    "bg": "#774C2D",
+    "fg": "#FFFFFF"
+  },
+  "TPG|NFT|18": {
+    "bg": "#A84B97",
+    "fg": "#FFFFFF"
+  },
+  "TPL|BUS|11": {
+    "bg": "#0089CF",
+    "fg": "#FFFFFF"
+  },
+  "TPL|BUS|12": {
+    "bg": "#0089CF",
+    "fg": "#FFFFFF"
+  },
+  "TPL|BUS|16": {
+    "bg": "#EE1B2D",
+    "fg": "#FFFFFF"
+  },
+  "TPL|KB|10": {
+    "bg": "#C8DB5C",
+    "fg": "#000000"
+  },
+  "TPL|KB|8": {
+    "bg": "#C8DB5C",
+    "fg": "#000000"
+  },
+  "TPL|KB|9": {
+    "bg": "#C8DB5C",
+    "fg": "#000000"
+  },
+  "TPL|NFB|1": {
+    "bg": "#EF59A1",
+    "fg": "#FFFFFF"
+  },
+  "TPL|NFB|11": {
+    "bg": "#0089CF",
+    "fg": "#FFFFFF"
+  },
+  "TPL|NFB|12": {
+    "bg": "#0089CF",
+    "fg": "#FFFFFF"
+  },
+  "TPL|NFB|16": {
+    "bg": "#EE1B2D",
+    "fg": "#FFFFFF"
+  },
+  "TPL|NFB|2": {
+    "bg": "#A2238E",
+    "fg": "#FFFFFF"
+  },
+  "TPL|NFB|3": {
+    "bg": "#F58220",
+    "fg": "#FFFFFF"
+  },
+  "TPL|NFB|4": {
+    "bg": "#A5755C",
+    "fg": "#FFFFFF"
+  },
+  "TPL|NFB|5": {
+    "bg": "#1768B4",
+    "fg": "#FFFFFF"
+  },
+  "TPL|NFB|6": {
+    "bg": "#756FB3",
+    "fg": "#FFFFFF"
+  },
+  "TPL|NFB|7": {
+    "bg": "#00AB4D",
+    "fg": "#FFFFFF"
+  },
+  "TPL|NFB|8": {
+    "bg": "#C8DB5C",
+    "fg": "#000000"
+  },
+  "TPL|NFB|F": {
+    "bg": "#00B5AC",
+    "fg": "#FFFFFF"
+  },
+  "TPL|NFB|S": {
+    "bg": "#FECA0A",
+    "fg": "#FFFFFF"
+  },
+  "TRN-tn|NFB|102": {
+    "bg": "#00A5D3",
+    "fg": "#FFFFFF"
+  },
+  "TRN-tn|NFB|106": {
+    "bg": "#E2AEA7",
+    "fg": "#FFFFFF"
+  },
+  "TRN-tn|NFB|109": {
+    "bg": "#834A88",
+    "fg": "#FFFFFF"
+  },
+  "TRN-tn|NFB|120": {
+    "bg": "#DE6C45",
+    "fg": "#FFFFFF"
+  },
+  "TRN-tn|NFB|121": {
+    "bg": "#75B042",
+    "fg": "#FFFFFF"
+  },
+  "TRN-tn|NFB|421": {
+    "bg": "#D0A233",
+    "fg": "#FFFFFF"
+  },
+  "TRN-tn|NFB|612": {
+    "bg": "#CC9D80",
+    "fg": "#FFFFFF"
+  },
+  "TRN-tn|NFB|613": {
+    "bg": "#CFBE7D",
+    "fg": "#FFFFFF"
+  },
+  "TRN-tn|NFO|101": {
+    "bg": "#004071",
+    "fg": "#FFFFFF"
+  },
+  "TRN-tn|NFO|102": {
+    "bg": "#00A5D3",
+    "fg": "#FFFFFF"
+  },
+  "TRN-tn|NFO|107": {
+    "bg": "#DA2128",
+    "fg": "#FFFFFF"
+  },
+  "TRN/tc|NFB|301": {
+    "bg": "#3D4798",
+    "fg": "#FFFFFF"
+  },
+  "TRN/tc|NFB|302": {
+    "bg": "#EE1D23",
+    "fg": "#FFFFFF"
+  },
+  "TRN/tc|NFB|303": {
+    "bg": "#FFEF0E",
+    "fg": "#000000"
+  },
+  "TRN/tc|NFB|304": {
+    "bg": "#00AC54",
+    "fg": "#FFFFFF"
+  },
+  "TRN/tc|NFB|305": {
+    "bg": "#79C142",
+    "fg": "#FFFFFF"
+  },
+  "TRN/tc|NFB|310": {
+    "bg": "#CF7FB5",
+    "fg": "#FFFFFF"
+  },
+  "TRN/tc|NFB|311": {
+    "bg": "#F68B1F",
+    "fg": "#FFFFFF"
+  },
+  "TRN/tc|NFB|312": {
+    "bg": "#B1112B",
+    "fg": "#FFFFFF"
+  },
+  "TRN/tc|NFB|341": {
+    "bg": "#3D4798",
+    "fg": "#FFFFFF"
+  },
+  "TRN/tc|NFB|342": {
+    "bg": "#EE1D23",
+    "fg": "#FFFFFF"
+  },
+  "TRN/tc|NFB|352": {
+    "bg": "#29A350",
+    "fg": "#FFFFFF"
+  },
+  "TRN/tc|NFB|353": {
+    "bg": "#FED105",
+    "fg": "#FFFFFF"
+  },
+  "TRN/tc|NFB|354": {
+    "bg": "#E51A23",
+    "fg": "#FFFFFF"
+  },
+  "TRN/tc|NFB|360": {
+    "bg": "#4793CD",
+    "fg": "#FFFFFF"
+  },
+  "TRN/tc|NFB|370": {
+    "bg": "#B4A79B",
+    "fg": "#FFFFFF"
+  },
+  "TRN/tc|NFO|341": {
+    "bg": "#3D4798",
+    "fg": "#FFFFFF"
+  },
+  "VB|BUS|1": {
+    "bg": "#E60005",
+    "fg": "#FFFFFF"
+  },
+  "VB|BUS|11": {
+    "bg": "#A71818",
+    "fg": "#FFFFFF"
+  },
+  "VB|BUS|2": {
+    "bg": "#008FD7",
+    "fg": "#FFFFFF"
+  },
+  "VB|BUS|4": {
+    "bg": "#006F31",
+    "fg": "#FFFFFF"
+  },
+  "VB|BUS|5": {
+    "bg": "#5EAF21",
+    "fg": "#FFFFFF"
+  },
+  "VB|BUS|6": {
+    "bg": "#D70083",
+    "fg": "#FFFFFF"
+  },
+  "VB|BUS|7": {
+    "bg": "#EE7900",
+    "fg": "#FFFFFF"
+  },
+  "VB|BUS|70": {
+    "bg": "#97979B",
+    "fg": "#FFFFFF"
+  },
+  "VB|BUS|71": {
+    "bg": "#97979B",
+    "fg": "#FFFFFF"
+  },
+  "VB|BUS|8": {
+    "bg": "#813B92",
+    "fg": "#FFFFFF"
+  },
+  "VB|NFB|1": {
+    "bg": "#E60005",
+    "fg": "#FFFFFF"
+  },
+  "VB|NFB|11": {
+    "bg": "#A71818",
+    "fg": "#FFFFFF"
+  },
+  "VB|NFB|2": {
+    "bg": "#008FD7",
+    "fg": "#FFFFFF"
+  },
+  "VB|NFB|4": {
+    "bg": "#006F31",
+    "fg": "#FFFFFF"
+  },
+  "VB|NFB|5": {
+    "bg": "#5EAF21",
+    "fg": "#FFFFFF"
+  },
+  "VB|NFB|6": {
+    "bg": "#D70083",
+    "fg": "#FFFFFF"
+  },
+  "VB|NFB|7": {
+    "bg": "#EE7900",
+    "fg": "#FFFFFF"
+  },
+  "VB|NFB|70": {
+    "bg": "#97979B",
+    "fg": "#FFFFFF"
+  },
+  "VB|NFB|71": {
+    "bg": "#97979B",
+    "fg": "#FFFFFF"
+  },
+  "VB|NFB|75": {
+    "bg": "#97979B",
+    "fg": "#FFFFFF"
+  },
+  "VB|NFB|8": {
+    "bg": "#813B92",
+    "fg": "#FFFFFF"
+  },
+  "VB|NFO|1": {
+    "bg": "#E60005",
+    "fg": "#FFFFFF"
+  },
+  "VB|NFO|4": {
+    "bg": "#006F31",
+    "fg": "#FFFFFF"
+  },
+  "VB|TRO|1": {
+    "bg": "#E60005",
+    "fg": "#FFFFFF"
+  },
+  "VB|TRO|4": {
+    "bg": "#006F31",
+    "fg": "#FFFFFF"
+  },
+  "VBD|BUS|1": {
+    "bg": "#802275",
+    "fg": "#FFFFFF"
+  },
+  "VBD|BUS|10": {
+    "bg": "#1A1919",
+    "fg": "#FFFFFF"
+  },
+  "VBD|BUS|12": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBD|BUS|13": {
+    "bg": "#31AF6F",
+    "fg": "#FFFFFF"
+  },
+  "VBD|BUS|3": {
+    "bg": "#CE2F2B",
+    "fg": "#FFFFFF"
+  },
+  "VBD|BUS|4": {
+    "bg": "#EB8E33",
+    "fg": "#000000"
+  },
+  "VBD|BUS|8": {
+    "bg": "#E88CB2",
+    "fg": "#000000"
+  },
+  "VBD|NFB|1": {
+    "bg": "#802275",
+    "fg": "#FFFFFF"
+  },
+  "VBD|NFB|10": {
+    "bg": "#1A1919",
+    "fg": "#FFFFFF"
+  },
+  "VBD|NFB|12": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBD|NFB|13": {
+    "bg": "#31AF6F",
+    "fg": "#FFFFFF"
+  },
+  "VBD|NFB|3": {
+    "bg": "#CE2F2B",
+    "fg": "#FFFFFF"
+  },
+  "VBD|NFB|4": {
+    "bg": "#EB8E33",
+    "fg": "#000000"
+  },
+  "VBD|NFB|7": {
+    "bg": "#3A7FB7",
+    "fg": "#FFFFFF"
+  },
+  "VBD|NFB|8": {
+    "bg": "#E88CB2",
+    "fg": "#000000"
+  },
+  "VBL|NFB|1": {
+    "bg": "#00A54F",
+    "fg": "#FFFFFF"
+  },
+  "VBL|NFB|10": {
+    "bg": "#CB572B",
+    "fg": "#FFFFFF"
+  },
+  "VBL|NFB|11": {
+    "bg": "#FECA0A",
+    "fg": "#000000"
+  },
+  "VBL|NFB|12": {
+    "bg": "#00A54F",
+    "fg": "#FFFFFF"
+  },
+  "VBL|NFB|14": {
+    "bg": "#00A54F",
+    "fg": "#FFFFFF"
+  },
+  "VBL|NFB|15": {
+    "bg": "#802990",
+    "fg": "#FFFFFF"
+  },
+  "VBL|NFB|16": {
+    "bg": "#CB572B",
+    "fg": "#FFFFFF"
+  },
+  "VBL|NFB|18": {
+    "bg": "#EE1D23",
+    "fg": "#FFFFFF"
+  },
+  "VBL|NFB|19": {
+    "bg": "#802990",
+    "fg": "#FFFFFF"
+  },
+  "VBL|NFB|2": {
+    "bg": "#F7931D",
+    "fg": "#FFFFFF"
+  },
+  "VBL|NFB|20": {
+    "bg": "#802990",
+    "fg": "#FFFFFF"
+  },
+  "VBL|NFB|21": {
+    "bg": "#7B9540",
+    "fg": "#FFFFFF"
+  },
+  "VBL|NFB|22": {
+    "bg": "#6B9DD2",
+    "fg": "#FFFFFF"
+  },
+  "VBL|NFB|23": {
+    "bg": "#EE1D23",
+    "fg": "#FFFFFF"
+  },
+  "VBL|NFB|24": {
+    "bg": "#A153A1",
+    "fg": "#FFFFFF"
+  },
+  "VBL|NFB|25": {
+    "bg": "#EE1D23",
+    "fg": "#FFFFFF"
+  },
+  "VBL|NFB|26": {
+    "bg": "#A153A1",
+    "fg": "#FFFFFF"
+  },
+  "VBL|NFB|6": {
+    "bg": "#CB572B",
+    "fg": "#FFFFFF"
+  },
+  "VBL|NFB|7": {
+    "bg": "#EE1D23",
+    "fg": "#FFFFFF"
+  },
+  "VBL|NFB|8": {
+    "bg": "#FECA0A",
+    "fg": "#000000"
+  },
+  "VBL|NFB|9": {
+    "bg": "#00A54F",
+    "fg": "#FFFFFF"
+  },
+  "VBL|NFO|1": {
+    "bg": "#00A54F",
+    "fg": "#FFFFFF"
+  },
+  "VBL|NFO|2": {
+    "bg": "#F7931D",
+    "fg": "#FFFFFF"
+  },
+  "VBL|NFO|4": {
+    "bg": "#A153A1",
+    "fg": "#FFFFFF"
+  },
+  "VBL|NFO|6": {
+    "bg": "#CB572B",
+    "fg": "#FFFFFF"
+  },
+  "VBL|NFO|7": {
+    "bg": "#EE1D23",
+    "fg": "#FFFFFF"
+  },
+  "VBL|NFO|8": {
+    "bg": "#FECA0A",
+    "fg": "#000000"
+  },
+  "VBSG|NFB|10": {
+    "bg": "#00A789",
+    "fg": "#FFFFFF"
+  },
+  "VBSG|NFB|11": {
+    "bg": "#B19FCD",
+    "fg": "#FFFFFF"
+  },
+  "VBSG|NFB|2": {
+    "bg": "#D19360",
+    "fg": "#FFFFFF"
+  },
+  "VBSG|NFB|4": {
+    "bg": "#EC6EA7",
+    "fg": "#FFFFFF"
+  },
+  "VBSG|NFB|6": {
+    "bg": "#A74B97",
+    "fg": "#FFFFFF"
+  },
+  "VBSG|NFB|7": {
+    "bg": "#94C11F",
+    "fg": "#FFFFFF"
+  },
+  "VBSG|NFB|8": {
+    "bg": "#708FA6",
+    "fg": "#FFFFFF"
+  },
+  "VBSG|NFB|9": {
+    "bg": "#EF7D25",
+    "fg": "#FFFFFF"
+  },
+  "VBSG|NFO|1": {
+    "bg": "#FFDD05",
+    "fg": "#000000"
+  },
+  "VBSG|NFO|3": {
+    "bg": "#D00F13",
+    "fg": "#FFFFFF"
+  },
+  "VBSG|NFO|4": {
+    "bg": "#EC6EA7",
+    "fg": "#FFFFFF"
+  },
+  "VBSG|NFO|5": {
+    "bg": "#0E92D1",
+    "fg": "#FFFFFF"
+  },
+  "VBSH|NFB|3": {
+    "bg": "#D9531C",
+    "fg": "#FFFFFF"
+  },
+  "VBSH|NFB|4": {
+    "bg": "#231F20",
+    "fg": "#FFFFFF"
+  },
+  "VBSH|NFB|5": {
+    "bg": "#008BB0",
+    "fg": "#FFFFFF"
+  },
+  "VBSH|NFB|6": {
+    "bg": "#FEC221",
+    "fg": "#000000"
+  },
+  "VBSH|NFB|8": {
+    "bg": "#593E99",
+    "fg": "#FFFFFF"
+  },
+  "VBSH|NFO|1": {
+    "bg": "#006F3C",
+    "fg": "#FFFFFF"
+  },
+  "VBSH|TX|8": {
+    "bg": "#593E99",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|B|1": {
+    "bg": "#8AB51F",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|10": {
+    "bg": "#1C4A87",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|B|12": {
+    "bg": "#835F38",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|B|121": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|122": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|123": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|125": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|126": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|127": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|128": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|129": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|131": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|132": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|133": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|134": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|136": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|137": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|140": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|142": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|145": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|150": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|151": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|152": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|153": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|155": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|156": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|160": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|161": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|162": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|163": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|165": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|170": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|184": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|185": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|2": {
+    "bg": "#E30513",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|B|200": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|201": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|205": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|210": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|212": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|214": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|215": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|22": {
+    "bg": "#E30513",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|B|220": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|221": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|223": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|225": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|227": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|228": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|229": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|230": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|232": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|235": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|236": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|240": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|245": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|280": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|3": {
+    "bg": "#12A537",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|B|301": {
+    "bg": "#8AB51F",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|302": {
+    "bg": "#00892F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|B|305": {
+    "bg": "#734522",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|B|306": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|309": {
+    "bg": "#008DC5",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|B|31": {
+    "bg": "#A5A2C6",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|B|314": {
+    "bg": "#FF5D55",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|315": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|317": {
+    "bg": "#11296F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|B|32": {
+    "bg": "#CCB2D1",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|325": {
+    "bg": "#E12472",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|B|33": {
+    "bg": "#DAD69C",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|37": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|38": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|39": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|4": {
+    "bg": "#FBB900",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|40": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|42": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|44": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|449": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|45": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|450": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|451": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|452": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|453": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|454": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|455": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|456": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|46": {
+    "bg": "#C1D59F",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|485": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|491": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|492": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|5": {
+    "bg": "#0069B4",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|B|501": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|504": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|510": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|515": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|520": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|521": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|522": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|524": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|525": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|529": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|530": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|531": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|533": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|534": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|535": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|540": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|542": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|543": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|545": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|546": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|555": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|593": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|605": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|61": {
+    "bg": "#A9A39B",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|B|610": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|611": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|612": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|615": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|62": {
+    "bg": "#CAC0B6",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|620": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|621": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|623": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|630": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|632": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|634": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|64": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|640": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|650": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|652": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|655": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|656": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|657": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|658": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|659": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|66": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|660": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|662": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|67": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|670": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|671": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|674": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|675": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|676": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|677": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|679": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|680": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|681": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|682": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|69": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|7": {
+    "bg": "#E73089",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|B|70": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|701": {
+    "bg": "#008DC5",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|B|703": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|704": {
+    "bg": "#8E224D",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|B|705": {
+    "bg": "#00892F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|B|706": {
+    "bg": "#E12472",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|B|72": {
+    "bg": "#C6A693",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|720": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|721": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|725": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|726": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|727": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|73": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|731": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|732": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|733": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|734": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|735": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|736": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|742": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|743": {
+    "bg": "#E20A16",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|B|745": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|748": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|749": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|75": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|751": {
+    "bg": "#11296F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|B|752": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|754": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|756": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|759": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|76": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|760": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|761": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|762": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|765": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|766": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|768": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|769": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|77": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|771": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|772": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|774": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|78": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|781": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|787": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|795": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|796": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|797": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|80": {
+    "bg": "#CBCFB3",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|806": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|807": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|809": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|811": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|812": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|813": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|816": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|817": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|818": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|825": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|826": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|827": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|830": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|831": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|832": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|833": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|835": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|837": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|842": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|845": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|846": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|850": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|851": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|852": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|854": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|856": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|857": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|858": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|859": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|862": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|867": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|869": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|870": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|871": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|875": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|879": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|880": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|882": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|883": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|884": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|885": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|888": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|89": {
+    "bg": "#CAC0B6",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|893": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|9": {
+    "bg": "#E77B05",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|91": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|910": {
+    "bg": "#11296F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|B|912": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|916": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|918": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|919": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|921": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|922": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|923": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|925": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|931": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|932": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|940": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|950": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|951": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|952": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|955": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|961": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|962": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|970": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|972": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|973": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|974": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|99": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|991": {
+    "bg": "#E30052",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|B|992": {
+    "bg": "#E30052",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|B|993": {
+    "bg": "#E30052",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|B|994": {
+    "bg": "#E30052",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|B|996": {
+    "bg": "#E30052",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|B|E": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|EV": {
+    "bg": "#FF6300",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|EV1": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|EV2": {
+    "bg": "#FF6300",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|EV3": {
+    "bg": "#FF6300",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|EV4": {
+    "bg": "#FF6300",
+    "fg": "#000000"
+  },
+  "VBZ    F|B|N1": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N10": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N12": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N13": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N14": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N15": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N16": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N17": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N18": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N2": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N22": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N23": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N24": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N25": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N26": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N28": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N29": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N3": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N30": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N33": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N34": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N36": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N4": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N45": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N46": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N5": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N50": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N51": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N52": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N53": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N54": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N58": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N59": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N6": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N60": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N61": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N62": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N64": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N65": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N68": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N69": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N7": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N70": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N71": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N72": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N74": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N75": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N76": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N77": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N78": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N79": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N8": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N81": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N82": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N84": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N86": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N87": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N88": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N9": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N91": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N92": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|B|N95": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|1": {
+    "bg": "#8AB51F",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|10": {
+    "bg": "#1C4A87",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|BUS|12": {
+    "bg": "#835F38",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|BUS|121": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|122": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|123": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|125": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|126": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|127": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|128": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|129": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|131": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|132": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|133": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|134": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|136": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|137": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|14": {
+    "bg": "#61AADB",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|BUS|140": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|142": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|145": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|150": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|151": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|152": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|153": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|155": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|156": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|160": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|161": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|162": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|163": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|165": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|17": {
+    "bg": "#872563",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|BUS|170": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|184": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|185": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|2": {
+    "bg": "#E30513",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|BUS|200": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|201": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|205": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|210": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|212": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|214": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|215": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|22": {
+    "bg": "#E30513",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|BUS|220": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|221": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|223": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|225": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|227": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|228": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|229": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|230": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|232": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|235": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|236": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|240": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|245": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|280": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|3": {
+    "bg": "#12A537",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|BUS|301": {
+    "bg": "#8AB51F",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|302": {
+    "bg": "#00892F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|BUS|305": {
+    "bg": "#734522",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|BUS|306": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|309": {
+    "bg": "#008DC5",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|BUS|31": {
+    "bg": "#A5A2C6",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|BUS|314": {
+    "bg": "#FF5D55",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|315": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|317": {
+    "bg": "#11296F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|BUS|32": {
+    "bg": "#CCB2D1",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|325": {
+    "bg": "#E12472",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|BUS|33": {
+    "bg": "#DAD69C",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|37": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|38": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|39": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|4": {
+    "bg": "#FBB900",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|40": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|42": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|44": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|449": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|45": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|450": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|451": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|452": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|453": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|454": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|455": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|456": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|46": {
+    "bg": "#C1D59F",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|485": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|491": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|492": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|5": {
+    "bg": "#0069B4",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|BUS|501": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|504": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|510": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|515": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|520": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|521": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|522": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|524": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|525": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|529": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|530": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|531": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|533": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|534": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|535": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|540": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|542": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|543": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|545": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|546": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|555": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|593": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|6": {
+    "bg": "#CAA84F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|BUS|605": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|61": {
+    "bg": "#A9A39B",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|BUS|610": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|611": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|612": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|615": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|62": {
+    "bg": "#CAC0B6",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|620": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|621": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|623": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|630": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|632": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|634": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|64": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|640": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|650": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|652": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|655": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|656": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|657": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|658": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|659": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|66": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|660": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|662": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|67": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|670": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|671": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|674": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|675": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|676": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|677": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|679": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|680": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|681": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|682": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|69": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|7": {
+    "bg": "#E73089",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|BUS|70": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|701": {
+    "bg": "#008DC5",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|BUS|703": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|704": {
+    "bg": "#8E224D",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|BUS|705": {
+    "bg": "#00892F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|BUS|706": {
+    "bg": "#E12472",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|BUS|72": {
+    "bg": "#C6A693",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|720": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|721": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|725": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|726": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|727": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|73": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|731": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|732": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|733": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|734": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|735": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|736": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|742": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|743": {
+    "bg": "#E20A16",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|BUS|745": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|748": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|749": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|75": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|751": {
+    "bg": "#11296F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|BUS|752": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|754": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|756": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|759": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|76": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|760": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|761": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|762": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|765": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|766": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|768": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|769": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|77": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|771": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|772": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|774": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|78": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|781": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|787": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|795": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|796": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|797": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|80": {
+    "bg": "#CBCFB3",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|806": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|807": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|809": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|811": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|812": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|813": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|816": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|817": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|818": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|825": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|826": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|827": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|830": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|831": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|832": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|833": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|835": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|837": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|842": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|845": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|846": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|850": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|851": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|852": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|854": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|856": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|857": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|858": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|859": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|862": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|867": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|869": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|870": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|871": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|875": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|879": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|880": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|882": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|883": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|884": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|885": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|888": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|89": {
+    "bg": "#CAC0B6",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|893": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|9": {
+    "bg": "#E77B05",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|91": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|910": {
+    "bg": "#11296F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|BUS|912": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|916": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|918": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|919": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|921": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|922": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|923": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|925": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|931": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|932": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|940": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|950": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|951": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|952": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|955": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|961": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|962": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|970": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|972": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|973": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|974": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|99": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|991": {
+    "bg": "#E30052",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|BUS|992": {
+    "bg": "#E30052",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|BUS|993": {
+    "bg": "#E30052",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|BUS|994": {
+    "bg": "#E30052",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|BUS|996": {
+    "bg": "#E30052",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|BUS|E": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|EV": {
+    "bg": "#FF6300",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|EV1": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|EV2": {
+    "bg": "#FF6300",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|EV3": {
+    "bg": "#FF6300",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|EV4": {
+    "bg": "#FF6300",
+    "fg": "#000000"
+  },
+  "VBZ    F|BUS|N1": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N10": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N12": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N13": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N14": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N15": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N16": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N17": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N18": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N2": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N22": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N23": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N24": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N25": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N26": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N28": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N29": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N3": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N30": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N33": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N34": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N36": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N4": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N45": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N46": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N5": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N50": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N51": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N52": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N53": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N54": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N58": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N59": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N6": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N60": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N61": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N62": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N64": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N65": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N68": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N69": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N7": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N70": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N71": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N72": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N74": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N75": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N76": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N77": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N78": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N79": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N8": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N81": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N82": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N84": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N86": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N87": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N88": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N9": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N91": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N92": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|BUS|N95": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|EC|S18": {
+    "bg": "#EB3C2E",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|EC|SN18": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|IC|S18": {
+    "bg": "#EB3C2E",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|IC|SN18": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|IR|S18": {
+    "bg": "#EB3C2E",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|IR|SN18": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|NFB|14": {
+    "bg": "#61AADB",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|NFB|17": {
+    "bg": "#872563",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|NFB|2": {
+    "bg": "#C0322A",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|NFB|6": {
+    "bg": "#CAA84F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|NFB|7": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|NFB|9": {
+    "bg": "#4B3889",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|NFT|10": {
+    "bg": "#C74486",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|NFT|11": {
+    "bg": "#5CA040",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|NFT|12": {
+    "bg": "#B6D6E5",
+    "fg": "#000000"
+  },
+  "VBZ    F|NFT|13": {
+    "bg": "#EFDB2C",
+    "fg": "#000000"
+  },
+  "VBZ    F|NFT|14": {
+    "bg": "#61AADB",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|NFT|17": {
+    "bg": "#872563",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|NFT|2": {
+    "bg": "#C0322A",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|NFT|3": {
+    "bg": "#5CA040",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|NFT|4": {
+    "bg": "#4B3889",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|NFT|5": {
+    "bg": "#826231",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|NFT|6": {
+    "bg": "#CAA84F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|NFT|7": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|NFT|9": {
+    "bg": "#4B3889",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|PB|23": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|PB|24": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|PB|26": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|R|S18": {
+    "bg": "#EB3C2E",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|R|SN18": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|RE|S18": {
+    "bg": "#EB3C2E",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|RE|SN18": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|S|S18": {
+    "bg": "#EB3C2E",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|S|SN18": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ    F|T|10": {
+    "bg": "#E12472",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|T|11": {
+    "bg": "#00892F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|T|12": {
+    "bg": "#92D6E3",
+    "fg": "#000000"
+  },
+  "VBZ    F|T|13": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|T|14": {
+    "bg": "#008DC5",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|T|15": {
+    "bg": "#E20A16",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|T|16": {
+    "bg": "#103752",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|T|17": {
+    "bg": "#8E224D",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|T|19": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|T|2": {
+    "bg": "#E20A16",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|T|3": {
+    "bg": "#00892F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|T|4": {
+    "bg": "#11296F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|T|5": {
+    "bg": "#734522",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|T|50": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|T|51": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|T|6": {
+    "bg": "#CA7D3C",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|T|7": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|T|8": {
+    "bg": "#8AB51F",
+    "fg": "#000000"
+  },
+  "VBZ    F|T|9": {
+    "bg": "#11296F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|T|E": {
+    "bg": "#E20A16",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|TRAM|10": {
+    "bg": "#E12472",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|TRAM|11": {
+    "bg": "#00892F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|TRAM|12": {
+    "bg": "#92D6E3",
+    "fg": "#000000"
+  },
+  "VBZ    F|TRAM|13": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ    F|TRAM|14": {
+    "bg": "#008DC5",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|TRAM|15": {
+    "bg": "#E20A16",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|TRAM|16": {
+    "bg": "#103752",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|TRAM|17": {
+    "bg": "#8E224D",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|TRAM|19": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ    F|TRAM|2": {
+    "bg": "#E20A16",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|TRAM|3": {
+    "bg": "#00892F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|TRAM|4": {
+    "bg": "#11296F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|TRAM|5": {
+    "bg": "#734522",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|TRAM|50": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|TRAM|51": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|TRAM|6": {
+    "bg": "#CA7D3C",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|TRAM|7": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|TRAM|8": {
+    "bg": "#8AB51F",
+    "fg": "#000000"
+  },
+  "VBZ    F|TRAM|9": {
+    "bg": "#11296F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ    F|TRAM|E": {
+    "bg": "#E20A16",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|B|1": {
+    "bg": "#8AB51F",
+    "fg": "#000000"
+  },
+  "VBZ F|B|10": {
+    "bg": "#1C4A87",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|B|12": {
+    "bg": "#835F38",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|B|121": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|122": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|123": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|125": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|126": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|127": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|128": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|129": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|131": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|132": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|133": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|134": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|136": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|137": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|140": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|142": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|145": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|150": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|151": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|152": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|153": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|155": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|156": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|160": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|161": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|162": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|163": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|165": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|170": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|184": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|185": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|2": {
+    "bg": "#E30513",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|B|200": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|201": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|205": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|210": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|212": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|214": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|215": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|22": {
+    "bg": "#E30513",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|B|220": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|221": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|223": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|225": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|227": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|228": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|229": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|230": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|232": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|235": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|236": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|240": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|245": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|280": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|3": {
+    "bg": "#12A537",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|B|301": {
+    "bg": "#8AB51F",
+    "fg": "#000000"
+  },
+  "VBZ F|B|302": {
+    "bg": "#00892F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|B|305": {
+    "bg": "#734522",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|B|306": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|309": {
+    "bg": "#008DC5",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|B|31": {
+    "bg": "#A5A2C6",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|B|314": {
+    "bg": "#FF5D55",
+    "fg": "#000000"
+  },
+  "VBZ F|B|315": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|317": {
+    "bg": "#11296F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|B|32": {
+    "bg": "#CCB2D1",
+    "fg": "#000000"
+  },
+  "VBZ F|B|325": {
+    "bg": "#E12472",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|B|33": {
+    "bg": "#DAD69C",
+    "fg": "#000000"
+  },
+  "VBZ F|B|37": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|38": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|39": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|4": {
+    "bg": "#FBB900",
+    "fg": "#000000"
+  },
+  "VBZ F|B|40": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|42": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|44": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|449": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|45": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|450": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|451": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|452": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|453": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|454": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|455": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|456": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|46": {
+    "bg": "#C1D59F",
+    "fg": "#000000"
+  },
+  "VBZ F|B|485": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|491": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|492": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|5": {
+    "bg": "#0069B4",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|B|501": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|504": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|510": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|515": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|520": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|521": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|522": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|524": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|525": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|529": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|530": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|531": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|533": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|534": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|535": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|540": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|542": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|543": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|545": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|546": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|555": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|593": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|605": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|61": {
+    "bg": "#A9A39B",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|B|610": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|611": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|612": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|615": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|62": {
+    "bg": "#CAC0B6",
+    "fg": "#000000"
+  },
+  "VBZ F|B|620": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|621": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|623": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|630": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|632": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|634": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|64": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|640": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|650": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|652": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|655": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|656": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|657": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|658": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|659": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|66": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|660": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|662": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|67": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|670": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|671": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|674": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|675": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|676": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|677": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|679": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|680": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|681": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|682": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|69": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|7": {
+    "bg": "#E73089",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|B|70": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|701": {
+    "bg": "#008DC5",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|B|703": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|704": {
+    "bg": "#8E224D",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|B|705": {
+    "bg": "#00892F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|B|706": {
+    "bg": "#E12472",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|B|72": {
+    "bg": "#C6A693",
+    "fg": "#000000"
+  },
+  "VBZ F|B|720": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|721": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|725": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|726": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|727": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|73": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|731": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|732": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|733": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|734": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|735": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|736": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|742": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|743": {
+    "bg": "#E20A16",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|B|745": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|748": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|749": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|75": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|751": {
+    "bg": "#11296F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|B|752": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|754": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|756": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|759": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|76": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|760": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|761": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|762": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|765": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|766": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|768": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|769": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|77": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|771": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|772": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|774": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|78": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|781": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|787": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|795": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|796": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|797": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|80": {
+    "bg": "#CBCFB3",
+    "fg": "#000000"
+  },
+  "VBZ F|B|806": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|807": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|809": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|811": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|812": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|813": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|816": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|817": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|818": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|825": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|826": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|827": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|830": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|831": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|832": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|833": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|835": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|837": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|842": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|845": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|846": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|850": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|851": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|852": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|854": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|856": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|857": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|858": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|859": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|862": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|867": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|869": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|870": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|871": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|875": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|879": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|880": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|882": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|883": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|884": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|885": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|888": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|89": {
+    "bg": "#CAC0B6",
+    "fg": "#000000"
+  },
+  "VBZ F|B|893": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|9": {
+    "bg": "#E77B05",
+    "fg": "#000000"
+  },
+  "VBZ F|B|91": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|910": {
+    "bg": "#11296F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|B|912": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|916": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|918": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|919": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|921": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|922": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|923": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|925": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|931": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|932": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|940": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|950": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|951": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|952": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|955": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|961": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|962": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|970": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|972": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|973": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|974": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|99": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|B|991": {
+    "bg": "#E30052",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|B|992": {
+    "bg": "#E30052",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|B|993": {
+    "bg": "#E30052",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|B|994": {
+    "bg": "#E30052",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|B|996": {
+    "bg": "#E30052",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|B|E": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|EV": {
+    "bg": "#FF6300",
+    "fg": "#000000"
+  },
+  "VBZ F|B|EV1": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|B|EV2": {
+    "bg": "#FF6300",
+    "fg": "#000000"
+  },
+  "VBZ F|B|EV3": {
+    "bg": "#FF6300",
+    "fg": "#000000"
+  },
+  "VBZ F|B|EV4": {
+    "bg": "#FF6300",
+    "fg": "#000000"
+  },
+  "VBZ F|B|N1": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N10": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N12": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N13": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N14": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N15": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N16": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N17": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N18": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N2": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N22": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N23": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N24": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N25": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N26": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N28": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N29": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N3": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N30": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N33": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N34": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N36": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N4": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N45": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N46": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N5": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N50": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N51": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N52": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N53": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N54": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N58": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N59": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N6": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N60": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N61": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N62": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N64": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N65": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N68": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N69": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N7": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N70": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N71": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N72": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N74": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N75": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N76": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N77": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N78": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N79": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N8": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N81": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N82": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N84": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N86": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N87": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N88": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N9": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N91": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N92": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|B|N95": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|1": {
+    "bg": "#8AB51F",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|10": {
+    "bg": "#1C4A87",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|BUS|12": {
+    "bg": "#835F38",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|BUS|121": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|122": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|123": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|125": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|126": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|127": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|128": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|129": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|131": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|132": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|133": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|134": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|136": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|137": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|14": {
+    "bg": "#61AADB",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|BUS|140": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|142": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|145": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|150": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|151": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|152": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|153": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|155": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|156": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|160": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|161": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|162": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|163": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|165": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|17": {
+    "bg": "#872563",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|BUS|170": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|184": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|185": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|2": {
+    "bg": "#E30513",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|BUS|200": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|201": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|205": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|210": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|212": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|214": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|215": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|22": {
+    "bg": "#E30513",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|BUS|220": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|221": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|223": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|225": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|227": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|228": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|229": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|230": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|232": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|235": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|236": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|240": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|245": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|280": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|3": {
+    "bg": "#12A537",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|BUS|301": {
+    "bg": "#8AB51F",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|302": {
+    "bg": "#00892F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|BUS|305": {
+    "bg": "#734522",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|BUS|306": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|309": {
+    "bg": "#008DC5",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|BUS|31": {
+    "bg": "#A5A2C6",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|BUS|314": {
+    "bg": "#FF5D55",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|315": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|317": {
+    "bg": "#11296F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|BUS|32": {
+    "bg": "#CCB2D1",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|325": {
+    "bg": "#E12472",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|BUS|33": {
+    "bg": "#DAD69C",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|37": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|38": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|39": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|4": {
+    "bg": "#FBB900",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|40": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|42": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|44": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|449": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|45": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|450": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|451": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|452": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|453": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|454": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|455": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|456": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|46": {
+    "bg": "#C1D59F",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|485": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|491": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|492": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|5": {
+    "bg": "#0069B4",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|BUS|501": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|504": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|510": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|515": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|520": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|521": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|522": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|524": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|525": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|529": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|530": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|531": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|533": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|534": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|535": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|540": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|542": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|543": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|545": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|546": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|555": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|593": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|6": {
+    "bg": "#CAA84F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|BUS|605": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|61": {
+    "bg": "#A9A39B",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|BUS|610": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|611": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|612": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|615": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|62": {
+    "bg": "#CAC0B6",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|620": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|621": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|623": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|630": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|632": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|634": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|64": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|640": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|650": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|652": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|655": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|656": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|657": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|658": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|659": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|66": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|660": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|662": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|67": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|670": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|671": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|674": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|675": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|676": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|677": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|679": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|680": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|681": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|682": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|69": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|7": {
+    "bg": "#E73089",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|BUS|70": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|701": {
+    "bg": "#008DC5",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|BUS|703": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|704": {
+    "bg": "#8E224D",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|BUS|705": {
+    "bg": "#00892F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|BUS|706": {
+    "bg": "#E12472",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|BUS|72": {
+    "bg": "#C6A693",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|720": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|721": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|725": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|726": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|727": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|73": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|731": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|732": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|733": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|734": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|735": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|736": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|742": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|743": {
+    "bg": "#E20A16",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|BUS|745": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|748": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|749": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|75": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|751": {
+    "bg": "#11296F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|BUS|752": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|754": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|756": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|759": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|76": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|760": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|761": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|762": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|765": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|766": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|768": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|769": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|77": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|771": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|772": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|774": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|78": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|781": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|787": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|795": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|796": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|797": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|80": {
+    "bg": "#CBCFB3",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|806": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|807": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|809": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|811": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|812": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|813": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|816": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|817": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|818": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|825": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|826": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|827": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|830": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|831": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|832": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|833": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|835": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|837": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|842": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|845": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|846": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|850": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|851": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|852": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|854": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|856": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|857": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|858": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|859": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|862": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|867": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|869": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|870": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|871": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|875": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|879": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|880": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|882": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|883": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|884": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|885": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|888": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|89": {
+    "bg": "#CAC0B6",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|893": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|9": {
+    "bg": "#E77B05",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|91": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|910": {
+    "bg": "#11296F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|BUS|912": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|916": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|918": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|919": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|921": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|922": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|923": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|925": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|931": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|932": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|940": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|950": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|951": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|952": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|955": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|961": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|962": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|970": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|972": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|973": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|974": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|99": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|991": {
+    "bg": "#E30052",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|BUS|992": {
+    "bg": "#E30052",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|BUS|993": {
+    "bg": "#E30052",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|BUS|994": {
+    "bg": "#E30052",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|BUS|996": {
+    "bg": "#E30052",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|BUS|E": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|EV": {
+    "bg": "#FF6300",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|EV1": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|EV2": {
+    "bg": "#FF6300",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|EV3": {
+    "bg": "#FF6300",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|EV4": {
+    "bg": "#FF6300",
+    "fg": "#000000"
+  },
+  "VBZ F|BUS|N1": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N10": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N12": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N13": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N14": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N15": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N16": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N17": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N18": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N2": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N22": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N23": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N24": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N25": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N26": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N28": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N29": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N3": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N30": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N33": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N34": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N36": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N4": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N45": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N46": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N5": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N50": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N51": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N52": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N53": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N54": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N58": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N59": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N6": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N60": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N61": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N62": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N64": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N65": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N68": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N69": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N7": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N70": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N71": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N72": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N74": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N75": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N76": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N77": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N78": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N79": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N8": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N81": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N82": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N84": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N86": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N87": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N88": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N9": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N91": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N92": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|BUS|N95": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|EC|S18": {
+    "bg": "#EB3C2E",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|EC|SN18": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|IC|S18": {
+    "bg": "#EB3C2E",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|IC|SN18": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|IR|S18": {
+    "bg": "#EB3C2E",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|IR|SN18": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|NFB|14": {
+    "bg": "#61AADB",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|NFB|17": {
+    "bg": "#872563",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|NFB|2": {
+    "bg": "#C0322A",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|NFB|6": {
+    "bg": "#CAA84F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|NFB|7": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|NFB|9": {
+    "bg": "#4B3889",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|NFT|10": {
+    "bg": "#C74486",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|NFT|11": {
+    "bg": "#5CA040",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|NFT|12": {
+    "bg": "#B6D6E5",
+    "fg": "#000000"
+  },
+  "VBZ F|NFT|13": {
+    "bg": "#EFDB2C",
+    "fg": "#000000"
+  },
+  "VBZ F|NFT|14": {
+    "bg": "#61AADB",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|NFT|17": {
+    "bg": "#872563",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|NFT|2": {
+    "bg": "#C0322A",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|NFT|3": {
+    "bg": "#5CA040",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|NFT|4": {
+    "bg": "#4B3889",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|NFT|5": {
+    "bg": "#826231",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|NFT|6": {
+    "bg": "#CAA84F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|NFT|7": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|NFT|9": {
+    "bg": "#4B3889",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|PB|23": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|PB|24": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|PB|26": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|R|S18": {
+    "bg": "#EB3C2E",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|R|SN18": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|RE|S18": {
+    "bg": "#EB3C2E",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|RE|SN18": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|S|S18": {
+    "bg": "#EB3C2E",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|S|SN18": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ F|T|10": {
+    "bg": "#E12472",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|T|11": {
+    "bg": "#00892F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|T|12": {
+    "bg": "#92D6E3",
+    "fg": "#000000"
+  },
+  "VBZ F|T|13": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|T|14": {
+    "bg": "#008DC5",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|T|15": {
+    "bg": "#E20A16",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|T|16": {
+    "bg": "#103752",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|T|17": {
+    "bg": "#8E224D",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|T|19": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|T|2": {
+    "bg": "#E20A16",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|T|3": {
+    "bg": "#00892F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|T|4": {
+    "bg": "#11296F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|T|5": {
+    "bg": "#734522",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|T|50": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|T|51": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|T|6": {
+    "bg": "#CA7D3C",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|T|7": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|T|8": {
+    "bg": "#8AB51F",
+    "fg": "#000000"
+  },
+  "VBZ F|T|9": {
+    "bg": "#11296F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|T|E": {
+    "bg": "#E20A16",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|TRAM|10": {
+    "bg": "#E12472",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|TRAM|11": {
+    "bg": "#00892F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|TRAM|12": {
+    "bg": "#92D6E3",
+    "fg": "#000000"
+  },
+  "VBZ F|TRAM|13": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ F|TRAM|14": {
+    "bg": "#008DC5",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|TRAM|15": {
+    "bg": "#E20A16",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|TRAM|16": {
+    "bg": "#103752",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|TRAM|17": {
+    "bg": "#8E224D",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|TRAM|19": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ F|TRAM|2": {
+    "bg": "#E20A16",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|TRAM|3": {
+    "bg": "#00892F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|TRAM|4": {
+    "bg": "#11296F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|TRAM|5": {
+    "bg": "#734522",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|TRAM|50": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|TRAM|51": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|TRAM|6": {
+    "bg": "#CA7D3C",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|TRAM|7": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|TRAM|8": {
+    "bg": "#8AB51F",
+    "fg": "#000000"
+  },
+  "VBZ F|TRAM|9": {
+    "bg": "#11296F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ F|TRAM|E": {
+    "bg": "#E20A16",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|B|1": {
+    "bg": "#8AB51F",
+    "fg": "#000000"
+  },
+  "VBZ|B|10": {
+    "bg": "#1C4A87",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|B|12": {
+    "bg": "#835F38",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|B|121": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|122": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|123": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|125": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|126": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|127": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|128": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|129": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|131": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|132": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|133": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|134": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|136": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|137": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|140": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|142": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|145": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|150": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|151": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|152": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|153": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|155": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|156": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|160": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|161": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|162": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|163": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|165": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|170": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|184": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|185": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|2": {
+    "bg": "#E30513",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|B|200": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|201": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|205": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|210": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|212": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|214": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|215": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|22": {
+    "bg": "#E30513",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|B|220": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|221": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|223": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|225": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|227": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|228": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|229": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|230": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|232": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|235": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|236": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|240": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|245": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|280": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|3": {
+    "bg": "#12A537",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|B|301": {
+    "bg": "#8AB51F",
+    "fg": "#000000"
+  },
+  "VBZ|B|302": {
+    "bg": "#00892F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|B|305": {
+    "bg": "#734522",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|B|306": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|309": {
+    "bg": "#008DC5",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|B|31": {
+    "bg": "#A5A2C6",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|B|314": {
+    "bg": "#FF5D55",
+    "fg": "#000000"
+  },
+  "VBZ|B|315": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|317": {
+    "bg": "#11296F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|B|32": {
+    "bg": "#CCB2D1",
+    "fg": "#000000"
+  },
+  "VBZ|B|325": {
+    "bg": "#E12472",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|B|33": {
+    "bg": "#DAD69C",
+    "fg": "#000000"
+  },
+  "VBZ|B|37": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|38": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|39": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|4": {
+    "bg": "#FBB900",
+    "fg": "#000000"
+  },
+  "VBZ|B|40": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|42": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|44": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|449": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|45": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|450": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|451": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|452": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|453": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|454": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|455": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|456": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|46": {
+    "bg": "#C1D59F",
+    "fg": "#000000"
+  },
+  "VBZ|B|485": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|491": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|492": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|5": {
+    "bg": "#0069B4",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|B|501": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|504": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|510": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|515": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|520": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|521": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|522": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|524": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|525": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|529": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|530": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|531": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|533": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|534": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|535": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|540": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|542": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|543": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|545": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|546": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|555": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|593": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|605": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|61": {
+    "bg": "#A9A39B",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|B|610": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|611": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|612": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|615": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|62": {
+    "bg": "#CAC0B6",
+    "fg": "#000000"
+  },
+  "VBZ|B|620": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|621": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|623": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|630": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|632": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|634": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|64": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|640": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|650": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|652": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|655": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|656": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|657": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|658": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|659": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|66": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|660": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|662": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|67": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|670": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|671": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|674": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|675": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|676": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|677": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|679": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|680": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|681": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|682": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|69": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|7": {
+    "bg": "#E73089",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|B|70": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|701": {
+    "bg": "#008DC5",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|B|703": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|704": {
+    "bg": "#8E224D",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|B|705": {
+    "bg": "#00892F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|B|706": {
+    "bg": "#E12472",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|B|72": {
+    "bg": "#C6A693",
+    "fg": "#000000"
+  },
+  "VBZ|B|720": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|721": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|725": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|726": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|727": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|73": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|731": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|732": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|733": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|734": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|735": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|736": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|742": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|743": {
+    "bg": "#E20A16",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|B|745": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|748": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|749": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|75": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|751": {
+    "bg": "#11296F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|B|752": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|754": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|756": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|759": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|76": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|760": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|761": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|762": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|765": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|766": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|768": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|769": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|77": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|771": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|772": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|774": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|78": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|781": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|787": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|795": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|796": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|797": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|80": {
+    "bg": "#CBCFB3",
+    "fg": "#000000"
+  },
+  "VBZ|B|806": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|807": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|809": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|811": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|812": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|813": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|816": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|817": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|818": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|825": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|826": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|827": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|830": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|831": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|832": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|833": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|835": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|837": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|842": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|845": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|846": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|850": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|851": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|852": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|854": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|856": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|857": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|858": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|859": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|862": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|867": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|869": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|870": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|871": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|875": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|879": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|880": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|882": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|883": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|884": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|885": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|888": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|89": {
+    "bg": "#CAC0B6",
+    "fg": "#000000"
+  },
+  "VBZ|B|893": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|9": {
+    "bg": "#E77B05",
+    "fg": "#000000"
+  },
+  "VBZ|B|91": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|910": {
+    "bg": "#11296F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|B|912": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|916": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|918": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|919": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|921": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|922": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|923": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|925": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|931": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|932": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|940": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|950": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|951": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|952": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|955": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|961": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|962": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|970": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|972": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|973": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|974": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|99": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|B|991": {
+    "bg": "#E30052",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|B|992": {
+    "bg": "#E30052",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|B|993": {
+    "bg": "#E30052",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|B|994": {
+    "bg": "#E30052",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|B|996": {
+    "bg": "#E30052",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|B|E": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|EV": {
+    "bg": "#FF6300",
+    "fg": "#000000"
+  },
+  "VBZ|B|EV1": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|B|EV2": {
+    "bg": "#FF6300",
+    "fg": "#000000"
+  },
+  "VBZ|B|EV3": {
+    "bg": "#FF6300",
+    "fg": "#000000"
+  },
+  "VBZ|B|EV4": {
+    "bg": "#FF6300",
+    "fg": "#000000"
+  },
+  "VBZ|B|N1": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N10": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N12": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N13": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N14": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N15": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N16": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N17": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N18": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N2": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N22": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N23": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N24": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N25": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N26": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N28": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N29": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N3": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N30": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N33": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N34": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N36": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N4": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N45": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N46": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N5": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N50": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N51": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N52": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N53": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N54": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N58": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N59": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N6": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N60": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N61": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N62": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N64": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N65": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N68": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N69": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N7": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N70": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N71": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N72": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N74": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N75": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N76": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N77": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N78": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N79": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N8": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N81": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N82": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N84": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N86": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N87": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N88": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N9": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N91": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N92": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|B|N95": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|1": {
+    "bg": "#8AB51F",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|10": {
+    "bg": "#1C4A87",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|BUS|12": {
+    "bg": "#835F38",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|BUS|121": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|122": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|123": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|125": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|126": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|127": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|128": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|129": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|131": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|132": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|133": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|134": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|136": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|137": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|140": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|142": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|145": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|150": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|151": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|152": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|153": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|155": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|156": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|160": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|161": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|162": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|163": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|165": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|170": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|184": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|185": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|2": {
+    "bg": "#E30513",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|BUS|200": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|201": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|205": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|210": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|212": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|214": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|215": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|22": {
+    "bg": "#E30513",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|BUS|220": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|221": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|223": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|225": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|227": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|228": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|229": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|230": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|232": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|235": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|236": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|240": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|245": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|280": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|3": {
+    "bg": "#12A537",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|BUS|301": {
+    "bg": "#8AB51F",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|302": {
+    "bg": "#00892F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|BUS|305": {
+    "bg": "#734522",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|BUS|306": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|309": {
+    "bg": "#008DC5",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|BUS|31": {
+    "bg": "#A5A2C6",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|BUS|314": {
+    "bg": "#FF5D55",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|315": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|317": {
+    "bg": "#11296F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|BUS|32": {
+    "bg": "#CCB2D1",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|325": {
+    "bg": "#E12472",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|BUS|33": {
+    "bg": "#DAD69C",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|37": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|38": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|39": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|4": {
+    "bg": "#FBB900",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|40": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|42": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|44": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|449": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|45": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|450": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|451": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|452": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|453": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|454": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|455": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|456": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|46": {
+    "bg": "#C1D59F",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|485": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|491": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|492": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|5": {
+    "bg": "#0069B4",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|BUS|501": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|504": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|510": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|515": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|520": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|521": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|522": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|524": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|525": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|529": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|530": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|531": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|533": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|534": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|535": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|540": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|542": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|543": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|545": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|546": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|555": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|593": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|605": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|61": {
+    "bg": "#A9A39B",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|BUS|610": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|611": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|612": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|615": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|62": {
+    "bg": "#CAC0B6",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|620": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|621": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|623": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|630": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|632": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|634": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|64": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|640": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|650": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|652": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|655": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|656": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|657": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|658": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|659": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|66": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|660": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|662": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|67": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|670": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|671": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|674": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|675": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|676": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|677": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|679": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|680": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|681": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|682": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|69": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|7": {
+    "bg": "#E73089",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|BUS|70": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|701": {
+    "bg": "#008DC5",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|BUS|703": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|704": {
+    "bg": "#8E224D",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|BUS|705": {
+    "bg": "#00892F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|BUS|706": {
+    "bg": "#E12472",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|BUS|72": {
+    "bg": "#C6A693",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|720": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|721": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|725": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|726": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|727": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|73": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|731": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|732": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|733": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|734": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|735": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|736": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|742": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|743": {
+    "bg": "#E20A16",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|BUS|745": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|748": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|749": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|75": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|751": {
+    "bg": "#11296F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|BUS|752": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|754": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|756": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|759": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|76": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|760": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|761": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|762": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|765": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|766": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|768": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|769": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|77": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|771": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|772": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|774": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|78": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|781": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|787": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|795": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|796": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|797": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|80": {
+    "bg": "#CBCFB3",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|806": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|807": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|809": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|811": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|812": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|813": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|816": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|817": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|818": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|825": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|826": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|827": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|830": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|831": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|832": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|833": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|835": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|837": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|842": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|845": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|846": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|850": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|851": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|852": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|854": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|856": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|857": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|858": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|859": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|862": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|867": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|869": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|870": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|871": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|875": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|879": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|880": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|882": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|883": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|884": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|885": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|888": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|89": {
+    "bg": "#CAC0B6",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|893": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|9": {
+    "bg": "#E77B05",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|91": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|910": {
+    "bg": "#11296F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|BUS|912": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|916": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|918": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|919": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|921": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|922": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|923": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|925": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|931": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|932": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|940": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|950": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|951": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|952": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|955": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|961": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|962": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|970": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|972": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|973": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|974": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|99": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|991": {
+    "bg": "#E30052",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|BUS|992": {
+    "bg": "#E30052",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|BUS|993": {
+    "bg": "#E30052",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|BUS|994": {
+    "bg": "#E30052",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|BUS|996": {
+    "bg": "#E30052",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|BUS|E": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|EV": {
+    "bg": "#FF6300",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|EV1": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|EV2": {
+    "bg": "#FF6300",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|EV3": {
+    "bg": "#FF6300",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|EV4": {
+    "bg": "#FF6300",
+    "fg": "#000000"
+  },
+  "VBZ|BUS|N1": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N10": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N12": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N13": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N14": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N15": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N16": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N17": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N18": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N2": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N22": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N23": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N24": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N25": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N26": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N28": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N29": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N3": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N30": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N33": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N34": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N36": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N4": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N45": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N46": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N5": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N50": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N51": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N52": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N53": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N54": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N58": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N59": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N6": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N60": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N61": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N62": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N64": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N65": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N68": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N69": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N7": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N70": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N71": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N72": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N74": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N75": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N76": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N77": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N78": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N79": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N8": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N81": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N82": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N84": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N86": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N87": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N88": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N9": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N91": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N92": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|BUS|N95": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|EC|S18": {
+    "bg": "#EB3C2E",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|EC|SN18": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|IC|S18": {
+    "bg": "#EB3C2E",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|IC|SN18": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|IR|S18": {
+    "bg": "#EB3C2E",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|IR|SN18": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|NFB|31": {
+    "bg": "#A5A4CB",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|NFB|32": {
+    "bg": "#D3B6CE",
+    "fg": "#000000"
+  },
+  "VBZ|NFB|33": {
+    "bg": "#E9E8AD",
+    "fg": "#000000"
+  },
+  "VBZ|NFB|46": {
+    "bg": "#CFDFAD",
+    "fg": "#000000"
+  },
+  "VBZ|NFB|62": {
+    "bg": "#D4CCBB",
+    "fg": "#000000"
+  },
+  "VBZ|NFB|72": {
+    "bg": "#CEAF99",
+    "fg": "#000000"
+  },
+  "VBZ|NFB|751": {
+    "bg": "#4B3889",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|NFB|80": {
+    "bg": "#D8DCC1",
+    "fg": "#000000"
+  },
+  "VBZ|NFB|94": {
+    "bg": "#9D958B",
+    "fg": "#000000"
+  },
+  "VBZ|PB|23": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|PB|24": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|PB|26": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|R|S18": {
+    "bg": "#EB3C2E",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|R|SN18": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|RE|S18": {
+    "bg": "#EB3C2E",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|RE|SN18": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|S|S18": {
+    "bg": "#EB3C2E",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|S|SN18": {
+    "bg": "#000000",
+    "fg": "#FFF200"
+  },
+  "VBZ|T|10": {
+    "bg": "#E12472",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|T|11": {
+    "bg": "#00892F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|T|12": {
+    "bg": "#92D6E3",
+    "fg": "#000000"
+  },
+  "VBZ|T|13": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|T|14": {
+    "bg": "#008DC5",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|T|15": {
+    "bg": "#E20A16",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|T|16": {
+    "bg": "#103752",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|T|17": {
+    "bg": "#8E224D",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|T|19": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|T|2": {
+    "bg": "#E20A16",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|T|3": {
+    "bg": "#00892F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|T|4": {
+    "bg": "#11296F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|T|5": {
+    "bg": "#734522",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|T|50": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|T|51": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|T|6": {
+    "bg": "#CA7D3C",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|T|7": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|T|8": {
+    "bg": "#8AB51F",
+    "fg": "#000000"
+  },
+  "VBZ|T|9": {
+    "bg": "#11296F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|T|E": {
+    "bg": "#E20A16",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|TRAM|10": {
+    "bg": "#E12472",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|TRAM|11": {
+    "bg": "#00892F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|TRAM|12": {
+    "bg": "#92D6E3",
+    "fg": "#000000"
+  },
+  "VBZ|TRAM|13": {
+    "bg": "#FFCC00",
+    "fg": "#000000"
+  },
+  "VBZ|TRAM|14": {
+    "bg": "#008DC5",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|TRAM|15": {
+    "bg": "#E20A16",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|TRAM|16": {
+    "bg": "#103752",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|TRAM|17": {
+    "bg": "#8E224D",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|TRAM|19": {
+    "bg": "#FFFFFF",
+    "fg": "#000000"
+  },
+  "VBZ|TRAM|2": {
+    "bg": "#E20A16",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|TRAM|3": {
+    "bg": "#00892F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|TRAM|4": {
+    "bg": "#11296F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|TRAM|5": {
+    "bg": "#734522",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|TRAM|50": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|TRAM|51": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|TRAM|6": {
+    "bg": "#CA7D3C",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|TRAM|7": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|TRAM|8": {
+    "bg": "#8AB51F",
+    "fg": "#000000"
+  },
+  "VBZ|TRAM|9": {
+    "bg": "#11296F",
+    "fg": "#FFFFFF"
+  },
+  "VBZ|TRAM|E": {
+    "bg": "#E20A16",
+    "fg": "#FFFFFF"
+  },
+  "ZVB|KB|12": {
+    "bg": "#30A68E",
+    "fg": "#FFFFFF"
+  },
+  "ZVB|KB|2": {
+    "bg": "#40B1DA",
+    "fg": "#000000"
+  },
+  "ZVB|KB|22": {
+    "bg": "#CD0A20",
+    "fg": "#FFFFFF"
+  },
+  "ZVB|NFB|1": {
+    "bg": "#8DC047",
+    "fg": "#000000"
+  },
+  "ZVB|NFB|10": {
+    "bg": "#AE6F9F",
+    "fg": "#000000"
+  },
+  "ZVB|NFB|11": {
+    "bg": "#632A69",
+    "fg": "#FFFFFF"
+  },
+  "ZVB|NFB|12": {
+    "bg": "#30A68E",
+    "fg": "#FFFFFF"
+  },
+  "ZVB|NFB|13": {
+    "bg": "#0067A6",
+    "fg": "#FFFFFF"
+  },
+  "ZVB|NFB|14": {
+    "bg": "#7F0B39",
+    "fg": "#FFFFFF"
+  },
+  "ZVB|NFB|16": {
+    "bg": "#DA5335",
+    "fg": "#FFFFFF"
+  },
+  "ZVB|NFB|2": {
+    "bg": "#40B1DA",
+    "fg": "#000000"
+  },
+  "ZVB|NFB|21": {
+    "bg": "#745042",
+    "fg": "#FFFFFF"
+  },
+  "ZVB|NFB|22": {
+    "bg": "#CD0A20",
+    "fg": "#FFFFFF"
+  },
+  "ZVB|NFB|23": {
+    "bg": "#00855D",
+    "fg": "#FFFFFF"
+  },
+  "ZVB|NFB|3": {
+    "bg": "#B50E20",
+    "fg": "#FFFFFF"
+  },
+  "ZVB|NFB|31": {
+    "bg": "#D22D7A",
+    "fg": "#FFFFFF"
+  },
+  "ZVB|NFB|32": {
+    "bg": "#004362",
+    "fg": "#FFFFFF"
+  },
+  "ZVB|NFB|34": {
+    "bg": "#004B22",
+    "fg": "#FFFFFF"
+  },
+  "ZVB|NFB|347": {
+    "bg": "#0073AA",
+    "fg": "#FFFFFF"
+  },
+  "ZVB|NFB|348": {
+    "bg": "#730D1A",
+    "fg": "#FFFFFF"
+  },
+  "ZVB|NFB|4": {
+    "bg": "#E47823",
+    "fg": "#000000"
+  },
+  "ZVB|NFB|41": {
+    "bg": "#0088BC",
+    "fg": "#FFFFFF"
+  },
+  "ZVB|NFB|42": {
+    "bg": "#3E1350",
+    "fg": "#FFFFFF"
+  },
+  "ZVB|NFB|43": {
+    "bg": "#A08252",
+    "fg": "#FFFFFF"
+  },
+  "ZVB|NFB|5": {
+    "bg": "#007133",
+    "fg": "#FFFFFF"
+  },
+  "ZVB|NFB|51": {
+    "bg": "#FED417",
+    "fg": "#000000"
+  },
+  "ZVB|NFB|52": {
+    "bg": "#6E7C39",
+    "fg": "#FFFFFF"
+  },
+  "ZVB|NFB|53": {
+    "bg": "#6D909E",
+    "fg": "#FFFFFF"
+  },
+  "ZVB|NFB|6": {
+    "bg": "#1B2462",
+    "fg": "#FFFFFF"
+  },
+  "ZVB|NFB|7": {
+    "bg": "#497747",
+    "fg": "#FFFFFF"
+  },
+  "ZVB|NFB|8": {
+    "bg": "#00855D",
+    "fg": "#FFFFFF"
+  },
+  "ZVB|NFB|9": {
+    "bg": "#50191B",
+    "fg": "#FFFFFF"
+  }
+}

@@ -18,6 +18,8 @@ export interface FormattedDeparture {
   line: string
   mode: TransportMode
   to: string
+  /** Official/curated line badge colors when known */
+  color?: { bg: string; fg: string }
   departure: {
     iso: string
     timestampMs: number
