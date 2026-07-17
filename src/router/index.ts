@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import { useItinerariesStore } from '@/stores/itineraries'
+import { useStationsStore } from '@/stores/stations'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -7,22 +7,22 @@ const router = createRouter({
     {
       path: '/',
       name: 'home',
-      redirect: '/routes',
+      redirect: '/stations',
     },
     {
-      path: '/routes',
-      name: 'routes',
-      component: () => import('@/pages/RoutesPage.vue'),
+      path: '/stations',
+      name: 'stations',
+      component: () => import('@/pages/StationsPage.vue'),
     },
     {
-      path: '/route/new',
-      name: 'route-new',
-      component: () => import('@/pages/NewRoutePage.vue'),
+      path: '/station/new',
+      name: 'station-new',
+      component: () => import('@/pages/NewStationPage.vue'),
     },
     {
-      path: '/routes/edit/:id',
-      name: 'route-edit',
-      component: () => import('@/pages/EditRoutePage.vue'),
+      path: '/stations/edit/:id',
+      name: 'station-edit',
+      component: () => import('@/pages/EditStationPage.vue'),
     },
     {
       path: '/settings',
@@ -33,14 +33,14 @@ const router = createRouter({
 })
 
 router.beforeEach((to) => {
-  const store = useItinerariesStore()
+  const store = useStationsStore()
 
   if (to.path === '/' || to.name === 'home') {
-    return store.hasRoutes ? '/routes' : '/route/new'
+    return store.hasStations ? '/stations' : '/station/new'
   }
 
-  if (to.name === 'routes' && !store.hasRoutes) {
-    return '/route/new'
+  if (to.name === 'stations' && !store.hasStations) {
+    return '/station/new'
   }
 })
 

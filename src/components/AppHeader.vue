@@ -2,13 +2,13 @@
 import { computed } from 'vue'
 import { useI18n } from 'vue-i18n'
 import { Plus, Settings } from 'lucide-vue-next'
-import { useItinerariesStore } from '@/stores/itineraries'
+import { useStationsStore } from '@/stores/stations'
 
 const { t } = useI18n()
-const store = useItinerariesStore()
+const store = useStationsStore()
 
 const logoTarget = computed(() =>
-  store.hasRoutes ? '/routes' : '/route/new'
+  store.hasStations ? '/stations' : '/station/new'
 )
 </script>
 
@@ -37,12 +37,12 @@ const logoTarget = computed(() =>
 
       <div class="flex items-center gap-2">
         <router-link
-          v-if="store.hasRoutes"
-          to="/route/new"
+          v-if="store.hasStations"
+          to="/station/new"
           class="btn btn-primary btn-sm gap-1.5 rounded-full px-4"
         >
           <Plus class="size-4" />
-          <span class="hidden sm:inline">{{ t('nav.addRoute') }}</span>
+          <span class="hidden sm:inline">{{ t('nav.addStation') }}</span>
         </router-link>
 
         <router-link

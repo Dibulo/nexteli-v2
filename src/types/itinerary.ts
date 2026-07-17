@@ -4,26 +4,21 @@ export interface SavedStation {
   icon?: string
 }
 
-export interface SavedRoute {
+export interface SavedStationEntry {
   id: string
   createdAt: number
-  departure: SavedStation
-  destination: SavedStation
+  station: SavedStation
+  /** Final destination / direction filter, or null = all directions */
+  direction: string | null
 }
 
 export type TransportMode = 'train' | 'tram' | 'bus'
 
-export interface FormattedConnection {
-  durationSeconds: number
-  transfers: number
+export interface FormattedDeparture {
   line: string
   mode: TransportMode
+  to: string
   departure: {
-    iso: string
-    timestampMs: number
-    platform: string | null
-  }
-  arrival: {
     iso: string
     timestampMs: number
     platform: string | null
@@ -32,8 +27,8 @@ export interface FormattedConnection {
   countdownLabel: string
 }
 
-export interface RouteWithConnections extends SavedRoute {
-  connections: FormattedConnection[]
+export interface StationEntryWithDepartures extends SavedStationEntry {
+  departures: FormattedDeparture[]
   loading: boolean
   error: string | null
   lastFetchedAt: number | null

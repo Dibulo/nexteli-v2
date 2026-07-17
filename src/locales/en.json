@@ -4,43 +4,39 @@
     "tagline": "Your next departure at a glance"
   },
   "nav": {
-    "routes": "Routes",
+    "stations": "Stations",
     "settings": "Settings",
-    "addRoute": "Add route",
+    "addStation": "Add station",
     "back": "Back to overview"
   },
   "about": {
     "title": "Welcome to Nexteli",
-    "description": "Save your daily commute routes on the Swiss public transportation system and see upcoming train, tram, and bus departures at a glance — no account, no tracking.",
+    "description": "Save your stations on the Swiss public transportation system and see upcoming train, tram, and bus departures at a glance — no account, no tracking.",
     "privacy": "All data stays on your device. No analytics, no tracking."
   },
-  "route": {
-    "departure": "Departure",
-    "destination": "Destination",
-    "submit": "Save route",
-    "duplicate": "This route already exists.",
-    "sameStation": "Departure and destination cannot be the same.",
-    "edit": "Edit route"
+  "station": {
+    "label": "Station",
+    "direction": "Direction",
+    "allDirections": "All directions",
+    "submit": "Save station",
+    "duplicate": "This station with this direction already exists.",
+    "edit": "Edit station"
   },
-  "routes": {
-    "title": "My routes",
-    "empty": "No connections found",
-    "remove": "Remove route",
-    "removeConfirm": "Do you really want to remove this route?",
+  "stations": {
+    "title": "My stations",
+    "empty": "No departures found",
+    "remove": "Remove station",
+    "removeConfirm": "Do you really want to remove this station?",
     "refresh": "Refresh",
-    "addReverse": "Add reverse route",
-    "reorder": "Reorder route"
+    "reorder": "Reorder station",
+    "noResults": "No stations found",
+    "searching": "Searching…"
   },
-  "connection": {
+  "departure": {
     "now": "now",
     "next": "Next",
     "platform": "Plat.",
-    "duration": "Duration",
-    "departure": "Departure"
-  },
-  "stations": {
-    "noResults": "No stations found",
-    "searching": "Searching…"
+    "to": "To"
   },
   "settings": {
     "title": "Settings",
@@ -51,13 +47,13 @@
     "themeDark": "Dark theme",
     "dangerZone": "Danger zone",
     "clearAll": "Delete all data",
-    "clearAllConfirm": "All saved routes and settings will be deleted. Continue?",
+    "clearAllConfirm": "All saved stations and settings will be deleted. Continue?",
     "install": "Install on your phone",
     "installButton": "Install app"
   },
   "errors": {
-    "apiUnavailable": "Could not load connection data. Please try again later.",
-    "routeNotFound": "Route not found"
+    "apiUnavailable": "Could not load departure data. Please try again later.",
+    "stationNotFound": "Station not found"
   },
   "common": {
     "cancel": "Cancel",

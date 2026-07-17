@@ -4,43 +4,39 @@
     "tagline": "Deine nächste Abfahrt im Blick"
   },
   "nav": {
-    "routes": "Routen",
+    "stations": "Stationen",
     "settings": "Einstellungen",
-    "addRoute": "Route hinzufügen",
+    "addStation": "Station hinzufügen",
     "back": "Zurück zur Übersicht"
   },
   "about": {
     "title": "Willkommen bei Nexteli",
-    "description": "Speichere deine täglichen Pendlerrouten im Schweizer öffentlichen Verkehr und sieh auf einen Blick die nächsten Abfahrten von Zug, Tram und Bus — ohne Konto, ohne Tracking.",
+    "description": "Speichere deine Haltestellen im Schweizer öffentlichen Verkehr und sieh auf einen Blick die nächsten Abfahrten von Zug, Tram und Bus — ohne Konto, ohne Tracking.",
     "privacy": "Alle Daten bleiben lokal auf deinem Gerät. Keine Analyse, kein Tracking."
   },
-  "route": {
-    "departure": "Abfahrt",
-    "destination": "Ziel",
-    "submit": "Route speichern",
-    "duplicate": "Diese Route existiert bereits.",
-    "sameStation": "Abfahrt und Ziel dürfen nicht identisch sein.",
-    "edit": "Route bearbeiten"
+  "station": {
+    "label": "Station",
+    "direction": "Richtung",
+    "allDirections": "Alle Richtungen",
+    "submit": "Station speichern",
+    "duplicate": "Diese Station mit dieser Richtung existiert bereits.",
+    "edit": "Station bearbeiten"
   },
-  "routes": {
-    "title": "Meine Routen",
-    "empty": "Keine Verbindungen gefunden",
-    "remove": "Route entfernen",
-    "removeConfirm": "Möchtest du diese Route wirklich entfernen?",
+  "stations": {
+    "title": "Meine Stationen",
+    "empty": "Keine Abfahrten gefunden",
+    "remove": "Station entfernen",
+    "removeConfirm": "Möchtest du diese Station wirklich entfernen?",
     "refresh": "Aktualisieren",
-    "addReverse": "Gegenroute hinzufügen",
-    "reorder": "Route verschieben"
+    "reorder": "Station verschieben",
+    "noResults": "Keine Stationen gefunden",
+    "searching": "Suche…"
   },
-  "connection": {
+  "departure": {
     "now": "jetzt",
     "next": "Nächste",
     "platform": "Gl.",
-    "duration": "Dauer",
-    "departure": "Abfahrt"
-  },
-  "stations": {
-    "noResults": "Keine Stationen gefunden",
-    "searching": "Suche…"
+    "to": "Richtung"
   },
   "settings": {
     "title": "Einstellungen",
@@ -51,13 +47,13 @@
     "themeDark": "Dunkles Design",
     "dangerZone": "Gefahrenzone",
     "clearAll": "Alle Daten löschen",
-    "clearAllConfirm": "Alle gespeicherten Routen und Einstellungen werden gelöscht. Fortfahren?",
+    "clearAllConfirm": "Alle gespeicherten Stationen und Einstellungen werden gelöscht. Fortfahren?",
     "install": "Auf dem Handy installieren",
     "installButton": "App installieren"
   },
   "errors": {
-    "apiUnavailable": "Verbindungsdaten konnten nicht geladen werden. Bitte versuche es später erneut.",
-    "routeNotFound": "Route nicht gefunden"
+    "apiUnavailable": "Abfahrtsdaten konnten nicht geladen werden. Bitte versuche es später erneut.",
+    "stationNotFound": "Station nicht gefunden"
   },
   "common": {
     "cancel": "Abbrechen",

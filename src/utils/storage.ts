@@ -1,8 +1,8 @@
-import type { SavedRoute } from '@/types/itinerary'
+import type { SavedStationEntry } from '@/types/itinerary'
 import type { AppSettings } from '@/types/itinerary'
 import { getBrowserLocale } from '@/utils/locale'
 
-const ROUTES_KEY = 'nexteli:routes'
+const STATIONS_KEY = 'nexteli:stations'
 const SETTINGS_KEY = 'nexteli:settings'
 
 const DEFAULT_SETTINGS: AppSettings = {
@@ -10,9 +10,9 @@ const DEFAULT_SETTINGS: AppSettings = {
   theme: 'nexteli',
 }
 
-export function loadRoutes(): SavedRoute[] {
+export function loadStations(): SavedStationEntry[] {
   try {
-    const raw = localStorage.getItem(ROUTES_KEY)
+    const raw = localStorage.getItem(STATIONS_KEY)
     if (!raw) return []
     const parsed = JSON.parse(raw)
     if (!Array.isArray(parsed)) return []
@@ -21,16 +21,16 @@ export function loadRoutes(): SavedRoute[] {
         typeof r === 'object' &&
         r !== null &&
         'id' in r &&
-        'departure' in r &&
-        'destination' in r
-    ) as SavedRoute[]
+        'station' in r &&
+        'direction' in r
+    ) as SavedStationEntry[]
   } catch {
     return []
   }
 }
 
-export function saveRoutes(routes: SavedRoute[]): void {
-  localStorage.setItem(ROUTES_KEY, JSON.stringify(routes))
+export function saveStations(stations: SavedStationEntry[]): void {
+  localStorage.setItem(STATIONS_KEY, JSON.stringify(stations))
 }
 
 export function loadSettings(): AppSettings {
@@ -52,6 +52,6 @@ export function saveSettings(settings: AppSettings): void {
 }
 
 export function clearAllData(): void {
-  localStorage.removeItem(ROUTES_KEY)
+  localStorage.removeItem(STATIONS_KEY)
   localStorage.removeItem(SETTINGS_KEY)
 }

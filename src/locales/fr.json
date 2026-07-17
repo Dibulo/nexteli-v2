@@ -4,43 +4,39 @@
     "tagline": "Votre prochain départ en un coup d'œil"
   },
   "nav": {
-    "routes": "Trajets",
+    "stations": "Gares",
     "settings": "Paramètres",
-    "addRoute": "Ajouter un trajet",
+    "addStation": "Ajouter une gare",
     "back": "Retour au tableau de bord"
   },
   "about": {
     "title": "Bienvenue sur Nexteli",
-    "description": "Enregistrez vos trajets quotidiens sur le réseau de transports publics suisses et consultez les prochains départs de train, tram et bus — sans compte, sans tracking.",
+    "description": "Enregistrez vos gares sur le réseau de transports publics suisses et consultez les prochains départs de train, tram et bus — sans compte, sans tracking.",
     "privacy": "Toutes les données restent sur votre appareil. Aucune analyse, aucun tracking."
   },
-  "route": {
-    "departure": "Départ",
-    "destination": "Destination",
-    "submit": "Enregistrer le trajet",
-    "duplicate": "Ce trajet existe déjà.",
-    "sameStation": "Le départ et la destination ne peuvent pas être identiques.",
-    "edit": "Modifier le trajet"
+  "station": {
+    "label": "Gare",
+    "direction": "Direction",
+    "allDirections": "Toutes les directions",
+    "submit": "Enregistrer la gare",
+    "duplicate": "Cette gare avec cette direction existe déjà.",
+    "edit": "Modifier la gare"
   },
-  "routes": {
-    "title": "Mes trajets",
-    "empty": "Aucune correspondance trouvée",
-    "remove": "Supprimer le trajet",
-    "removeConfirm": "Voulez-vous vraiment supprimer ce trajet ?",
+  "stations": {
+    "title": "Mes gares",
+    "empty": "Aucun départ trouvé",
+    "remove": "Supprimer la gare",
+    "removeConfirm": "Voulez-vous vraiment supprimer cette gare ?",
     "refresh": "Actualiser",
-    "addReverse": "Ajouter le trajet retour",
-    "reorder": "Réorganiser le trajet"
+    "reorder": "Réorganiser la gare",
+    "noResults": "Aucune gare trouvée",
+    "searching": "Recherche…"
   },
-  "connection": {
+  "departure": {
     "now": "maint.",
     "next": "Prochain",
     "platform": "Voie",
-    "duration": "Durée",
-    "departure": "Départ"
-  },
-  "stations": {
-    "noResults": "Aucune gare trouvée",
-    "searching": "Recherche…"
+    "to": "Direction"
   },
   "settings": {
     "title": "Paramètres",
@@ -51,13 +47,13 @@
     "themeDark": "Thème sombre",
     "dangerZone": "Zone dangereuse",
     "clearAll": "Supprimer toutes les données",
-    "clearAllConfirm": "Tous les trajets et paramètres seront supprimés. Continuer ?",
+    "clearAllConfirm": "Toutes les gares et paramètres seront supprimés. Continuer ?",
     "install": "Installer sur le téléphone",
     "installButton": "Installer l'app"
   },
   "errors": {
     "apiUnavailable": "Impossible de charger les horaires. Veuillez réessayer plus tard.",
-    "routeNotFound": "Trajet introuvable"
+    "stationNotFound": "Gare introuvable"
   },
   "common": {
     "cancel": "Annuler",

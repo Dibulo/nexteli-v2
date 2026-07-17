@@ -4,43 +4,39 @@
     "tagline": "Tu próxima salida de un vistazo"
   },
   "nav": {
-    "routes": "Rutas",
+    "stations": "Estaciones",
     "settings": "Ajustes",
-    "addRoute": "Añadir ruta",
+    "addStation": "Añadir estación",
     "back": "Volver al resumen"
   },
   "about": {
     "title": "Bienvenido a Nexteli",
-    "description": "Guarda tus rutas diarias en el transporte público suizo y consulta las próximas salidas de tren, tranvía y autobús — sin cuenta, sin seguimiento.",
+    "description": "Guarda tus estaciones en el transporte público suizo y consulta las próximas salidas de tren, tranvía y autobús — sin cuenta, sin seguimiento.",
     "privacy": "Todos los datos permanecen en tu dispositivo. Sin analíticas, sin seguimiento."
   },
-  "route": {
-    "departure": "Salida",
-    "destination": "Destino",
-    "submit": "Guardar ruta",
-    "duplicate": "Esta ruta ya existe.",
-    "sameStation": "La salida y el destino no pueden ser iguales.",
-    "edit": "Editar ruta"
+  "station": {
+    "label": "Estación",
+    "direction": "Dirección",
+    "allDirections": "Todas las direcciones",
+    "submit": "Guardar estación",
+    "duplicate": "Esta estación con esta dirección ya existe.",
+    "edit": "Editar estación"
   },
-  "routes": {
-    "title": "Mis rutas",
-    "empty": "No se encontraron conexiones",
-    "remove": "Eliminar ruta",
-    "removeConfirm": "¿Seguro que quieres eliminar esta ruta?",
+  "stations": {
+    "title": "Mis estaciones",
+    "empty": "No se encontraron salidas",
+    "remove": "Eliminar estación",
+    "removeConfirm": "¿Seguro que quieres eliminar esta estación?",
     "refresh": "Actualizar",
-    "addReverse": "Añadir ruta inversa",
-    "reorder": "Reordenar ruta"
+    "reorder": "Reordenar estación",
+    "noResults": "No se encontraron estaciones",
+    "searching": "Buscando…"
   },
-  "connection": {
+  "departure": {
     "now": "ahora",
     "next": "Siguiente",
     "platform": "Andén",
-    "duration": "Duración",
-    "departure": "Salida"
-  },
-  "stations": {
-    "noResults": "No se encontraron estaciones",
-    "searching": "Buscando…"
+    "to": "Dirección"
   },
   "settings": {
     "title": "Ajustes",
@@ -51,13 +47,13 @@
     "themeDark": "Tema oscuro",
     "dangerZone": "Zona de peligro",
     "clearAll": "Eliminar todos los datos",
-    "clearAllConfirm": "Se eliminarán todas las rutas y ajustes guardados. ¿Continuar?",
+    "clearAllConfirm": "Se eliminarán todas las estaciones y ajustes guardados. ¿Continuar?",
     "install": "Instalar en el teléfono",
     "installButton": "Instalar app"
   },
   "errors": {
     "apiUnavailable": "No se pudieron cargar los horarios. Inténtalo de nuevo más tarde.",
-    "routeNotFound": "Ruta no encontrada"
+    "stationNotFound": "Estación no encontrada"
   },
   "common": {
     "cancel": "Cancelar",

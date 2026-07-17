@@ -35,7 +35,7 @@ async function installPwa() {
 function handleClearAll() {
   if (!confirm(t('settings.clearAllConfirm'))) return
   settings.clearAllData()
-  router.push('/route/new')
+  router.push('/station/new')
 }
 </script>
 

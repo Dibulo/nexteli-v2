@@ -4,43 +4,39 @@
     "tagline": "La tua prossima partenza a colpo d'occhio"
   },
   "nav": {
-    "routes": "Percorsi",
+    "stations": "Stazioni",
     "settings": "Impostazioni",
-    "addRoute": "Aggiungi percorso",
+    "addStation": "Aggiungi stazione",
     "back": "Torna alla panoramica"
   },
   "about": {
     "title": "Benvenuto su Nexteli",
-    "description": "Salva i tuoi percorsi di pendolare sulla rete dei trasporti pubblici svizzeri e consulta le prossime partenze di treno, tram e bus — senza account, senza tracciamento.",
+    "description": "Salva le tue stazioni sulla rete dei trasporti pubblici svizzeri e consulta le prossime partenze di treno, tram e bus — senza account, senza tracciamento.",
     "privacy": "Tutti i dati restano sul tuo dispositivo. Nessuna analisi, nessun tracciamento."
   },
-  "route": {
-    "departure": "Partenza",
-    "destination": "Destinazione",
-    "submit": "Salva percorso",
-    "duplicate": "Questo percorso esiste già.",
-    "sameStation": "Partenza e destinazione non possono essere identiche.",
-    "edit": "Modifica percorso"
+  "station": {
+    "label": "Stazione",
+    "direction": "Direzione",
+    "allDirections": "Tutte le direzioni",
+    "submit": "Salva stazione",
+    "duplicate": "Questa stazione con questa direzione esiste già.",
+    "edit": "Modifica stazione"
   },
-  "routes": {
-    "title": "I miei percorsi",
-    "empty": "Nessun collegamento trovato",
-    "remove": "Rimuovi percorso",
-    "removeConfirm": "Vuoi davvero rimuovere questo percorso?",
+  "stations": {
+    "title": "Le mie stazioni",
+    "empty": "Nessuna partenza trovata",
+    "remove": "Rimuovi stazione",
+    "removeConfirm": "Vuoi davvero rimuovere questa stazione?",
     "refresh": "Aggiorna",
-    "addReverse": "Aggiungi percorso di ritorno",
-    "reorder": "Riordina percorso"
+    "reorder": "Riordina stazione",
+    "noResults": "Nessuna stazione trovata",
+    "searching": "Ricerca…"
   },
-  "connection": {
+  "departure": {
     "now": "ora",
     "next": "Prossima",
     "platform": "Bin.",
-    "duration": "Durata",
-    "departure": "Partenza"
-  },
-  "stations": {
-    "noResults": "Nessuna stazione trovata",
-    "searching": "Ricerca…"
+    "to": "Direzione"
   },
   "settings": {
     "title": "Impostazioni",
@@ -51,13 +47,13 @@
     "themeDark": "Tema scuro",
     "dangerZone": "Zona pericolosa",
     "clearAll": "Cancella tutti i dati",
-    "clearAllConfirm": "Tutti i percorsi e le impostazioni verranno cancellati. Continuare?",
+    "clearAllConfirm": "Tutte le stazioni e le impostazioni verranno cancellate. Continuare?",
     "install": "Installa sul telefono",
     "installButton": "Installa app"
   },
   "errors": {
     "apiUnavailable": "Impossibile caricare gli orari. Riprova più tardi.",
-    "routeNotFound": "Percorso non trovato"
+    "stationNotFound": "Stazione non trovata"
   },
   "common": {
     "cancel": "Annulla",

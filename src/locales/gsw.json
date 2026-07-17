@@ -4,43 +4,39 @@
     "tagline": "Dini nächsti Abfahrt im Blick"
   },
   "nav": {
-    "routes": "Route",
+    "stations": "Haltestelle",
     "settings": "Iistellige",
-    "addRoute": "Route dezuetue",
+    "addStation": "Haltestell dezuetue",
     "back": "Zrugg zur Übersicht"
   },
   "about": {
     "title": "Willkomme bi Nexteli",
-    "description": "Speicher dini tägliche Pendlerroute im Schwiizer ÖV und lueg uf ein Blick d nächste Abfahrte vo Züg, Tram und Bus — ohni Konto, ohni Tracking.",
+    "description": "Speicher dini Haltestelle im Schwiizer ÖV und lueg uf ein Blick d nächste Abfahrte vo Züg, Tram und Bus — ohni Konto, ohni Tracking.",
     "privacy": "Alli Date bliibed lokal uf dim Grät. Kei Analyse, keis Tracking."
   },
-  "route": {
-    "departure": "Abfahrt",
-    "destination": "Ziil",
-    "submit": "Route speichere",
-    "duplicate": "Die Route gits scho.",
-    "sameStation": "Abfahrt und Ziil dörf nöd s gliiche sii.",
-    "edit": "Route bearbeite"
+  "station": {
+    "label": "Haltestell",
+    "direction": "Richtig",
+    "allDirections": "Alli Richtige",
+    "submit": "Haltestell speichere",
+    "duplicate": "Die Haltestell mit dere Richtig gits scho.",
+    "edit": "Haltestell bearbeite"
   },
-  "routes": {
-    "title": "Mini Route",
-    "empty": "Kei Verbindige gfunde",
-    "remove": "Route lösche",
-    "removeConfirm": "Wotsch die Route würkli lösche?",
+  "stations": {
+    "title": "Mini Haltestelle",
+    "empty": "Kei Abfahrte gfunde",
+    "remove": "Haltestell lösche",
+    "removeConfirm": "Wotsch die Haltestell würkli lösche?",
     "refresh": "Aktualisiere",
-    "addReverse": "Gegereoute dezuetue",
-    "reorder": "Route verschiebe"
+    "reorder": "Haltestell verschiebe",
+    "noResults": "Kei Haltestelle gfunde",
+    "searching": "Am sueche…"
   },
-  "connection": {
+  "departure": {
     "now": "jetzt",
     "next": "Nöchschti",
     "platform": "Gl.",
-    "duration": "Duur",
-    "departure": "Abfahrt"
-  },
-  "stations": {
-    "noResults": "Kei Haltestelle gfunde",
-    "searching": "Am sueche…"
+    "to": "Richtig"
   },
   "settings": {
     "title": "Iistellige",
@@ -51,13 +47,13 @@
     "themeDark": "Dunkels Design",
     "dangerZone": "Gfahrezone",
     "clearAll": "Alli Date lösche",
-    "clearAllConfirm": "Alli gspeicherete Route und Iistellige werded glöscht. Witer?",
+    "clearAllConfirm": "Alli gspeicherete Haltestelle und Iistellige werded glöscht. Witer?",
     "install": "Ufs Handy installiere",
     "installButton": "App installiere"
   },
   "errors": {
-    "apiUnavailable": "D Verbindigsdate hend nöd chönne glade werde. Probiers spöter nomal.",
-    "routeNotFound": "Route nöd gfunde"
+    "apiUnavailable": "D Abfahrtsdate hend nöd chönne glade werde. Probiers spöter nomal.",
+    "stationNotFound": "Haltestell nöd gfunde"
   },
   "common": {
     "cancel": "Abbreche",

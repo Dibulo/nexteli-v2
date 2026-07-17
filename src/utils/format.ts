@@ -1,28 +1,10 @@
 /**
- * Parse transport API duration string "00dHH:MM:SS" to total seconds.
- */
-export function parseDuration(duration: string): number {
-  const match = duration.match(/(\d+)d(\d+):(\d+):(\d+)/)
-  if (!match) return 0
-  const [, days, hours, minutes, seconds] = match.map(Number)
-  return days * 86400 + hours * 3600 + minutes * 60 + seconds
-}
-
-/**
  * Format a date string or timestamp to "HH:mm".
  */
 export function formatTime(iso: string | null): string {
   if (!iso) return '--:--'
   const d = new Date(iso)
   return d.toLocaleTimeString('de-CH', { hour: '2-digit', minute: '2-digit' })
-}
-
-/**
- * Duration in seconds to human-readable minutes.
- */
-export function formatDurationMinutes(seconds: number): string {
-  const mins = Math.round(seconds / 60)
-  return `${mins}'`
 }
 
 /**

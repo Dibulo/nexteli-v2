@@ -1,7 +1,7 @@
 import { ref } from 'vue'
-import type { Station, Connection, ConnectionsResponse, LocationsResponse } from '@/types/transport'
-import type { FormattedConnection } from '@/types/itinerary'
-import { parseDuration, getCountdownLabel, minutesUntil } from '@/utils/format'
+import type { Station, StationboardEntry, StationboardResponse, LocationsResponse } from '@/types/transport'
+import type { FormattedDeparture } from '@/types/itinerary'
+import { getCountdownLabel, minutesUntil } from '@/utils/format'
 import { categoryToMode } from '@/utils/transportIcons'
 
 const BASE_URL = 'https://transport.opendata.ch/v1'
@@ -10,37 +10,25 @@ function correctStationName(name: string): string {
   return name.replace(/\bzurich\b/gi, 'zürich')
 }
 
-function mapConnection(conn: Connection): FormattedConnection {
-  const depTimestamp = conn.from.departureTimestamp
-    ? conn.from.departureTimestamp * 1000
-    : Date.now()
-  const arrTimestamp = conn.to.arrivalTimestamp
-    ? conn.to.arrivalTimestamp * 1000
+function mapStationboardEntry(entry: StationboardEntry): FormattedDeparture {
+  const depTimestamp = entry.stop.departureTimestamp
+    ? entry.stop.departureTimestamp * 1000
     : Date.now()
 
-  const journeySections = conn.sections.filter((s) => s.journey !== null)
-  const firstJourney = journeySections[0]?.journey
+  const line =
+    entry.category && entry.number
+      ? `${entry.category}${entry.number}`
+      : entry.name || entry.category || ''
 
   return {
-    durationSeconds: parseDuration(conn.duration),
-    transfers: Math.max(0, journeySections.length - 1),
-    mode: firstJourney ? categoryToMode(firstJourney.category) : 'train',
-    line:
-      conn.products.length > 0
-        ? conn.products.join(', ')
-        : journeySections[0]?.journey
-          ? `${journeySections[0].journey.category}${journeySections[0].journey.number}`
-          : '',
+    line,
+    mode: categoryToMode(entry.category),
+    to: entry.to,
     departure: {
-      iso: conn.from.departure ?? '',
+      iso: entry.stop.departure ?? '',
       timestampMs: depTimestamp,
       platform:
-        conn.from.prognosis?.platform ?? conn.from.platform ?? null,
-    },
-    arrival: {
-      iso: conn.to.arrival ?? '',
-      timestampMs: arrTimestamp,
-      platform: conn.to.prognosis?.platform ?? conn.to.platform ?? null,
+        entry.stop.prognosis?.platform ?? entry.stop.platform ?? null,
     },
     minutesUntilDeparture: minutesUntil(depTimestamp),
     countdownLabel: getCountdownLabel(depTimestamp),
@@ -78,30 +66,29 @@ export function useTransportApi() {
     }
   }
 
-  async function getConnections(
-    fromId: string,
-    toId: string
-  ): Promise<FormattedConnection[]> {
+  async function getStationboard(
+    stationId: string,
+    limit = 30
+  ): Promise<FormattedDeparture[]> {
     loading.value = true
     error.value = null
 
     try {
       const params = new URLSearchParams({
-        from: fromId,
-        to: toId,
-        limit: '6',
+        id: stationId,
+        limit: String(limit),
       })
-      const res = await fetch(`${BASE_URL}/connections?${params}`)
+      const res = await fetch(`${BASE_URL}/stationboard?${params}`)
       if (!res.ok) {
         error.value = 'errors.apiUnavailable'
         return []
       }
-      const data: ConnectionsResponse = await res.json()
+      const data: StationboardResponse = await res.json()
 
       const now = Date.now()
-      return data.connections
-        .map(mapConnection)
-        .filter((c) => c.departure.timestampMs > now - 60_000)
+      return data.stationboard
+        .map(mapStationboardEntry)
+        .filter((d) => d.departure.timestampMs > now - 60_000)
         .sort((a, b) => a.departure.timestampMs - b.departure.timestampMs)
     } catch {
       error.value = 'errors.apiUnavailable'
@@ -111,5 +98,5 @@ export function useTransportApi() {
     }
   }
 
-  return { searchStations, getConnections, loading, error }
+  return { searchStations, getStationboard, loading, error }
 }

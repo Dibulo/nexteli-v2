@@ -3,6 +3,7 @@ import { ref } from 'vue'
 import type { LocaleId, ThemeId } from '@/types/itinerary'
 import { loadSettings, saveSettings, clearAllData } from '@/utils/storage'
 import { getBrowserLocale } from '@/utils/locale'
+import { useStationsStore } from '@/stores/stations'
 
 export const useSettingsStore = defineStore('settings', () => {
   const locale = ref<LocaleId>(getBrowserLocale())
@@ -31,6 +32,8 @@ export const useSettingsStore = defineStore('settings', () => {
   }
 
   function clearAllData_() {
+    const stationsStore = useStationsStore()
+    stationsStore.clearAll()
     clearAllData()
     const browserLocale = getBrowserLocale()
     locale.value = browserLocale

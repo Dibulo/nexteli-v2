@@ -6,7 +6,7 @@ import { MotionPlugin } from '@vueuse/motion'
 import App from './App.vue'
 import router from './router'
 import { useSettingsStore } from './stores/settings'
-import { useItinerariesStore } from './stores/itineraries'
+import { useStationsStore } from './stores/stations'
 
 import de from './locales/de.json'
 import en from './locales/en.json'
@@ -41,7 +41,7 @@ document.documentElement.setAttribute('data-theme', settings.theme)
 document.documentElement.lang = settings.locale
 i18n.global.locale.value = settings.locale
 
-const itineraries = useItinerariesStore()
-itineraries.hydrate()
+const stations = useStationsStore()
+stations.hydrate()
 
 app.mount('#app')
