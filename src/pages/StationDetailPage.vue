@@ -115,11 +115,19 @@ onUnmounted(() => {
 
 <template>
   <div class="page-container">
-    <div class="mb-8">
-      <h1 class="page-title">{{ t('journey.title') }}</h1>
-      <p v-if="entry" class="page-subtitle">
-        {{ entry.station.name }}
-      </p>
+    <div class="mb-8 flex items-start justify-between gap-4">
+      <div class="min-w-0">
+        <h1 class="page-title">{{ t('journey.title') }}</h1>
+        <p v-if="entry" class="page-subtitle">
+          {{ entry.station.name }}
+        </p>
+      </div>
+      <router-link
+        :to="editPath"
+        class="btn btn-outline btn-sm shrink-0 rounded-xl"
+      >
+        {{ t('common.edit') }}
+      </router-link>
     </div>
 
     <div class="surface-card p-6 sm:p-8">
@@ -198,13 +206,7 @@ onUnmounted(() => {
       </template>
     </div>
 
-    <div class="mt-6 flex flex-col items-center gap-3">
-      <router-link
-        :to="editPath"
-        class="btn btn-outline btn-sm rounded-xl"
-      >
-        {{ t('common.edit') }}
-      </router-link>
+    <div class="mt-6 text-center">
       <router-link
         to="/stations"
         class="link link-primary text-sm font-medium opacity-80 hover:opacity-100"
