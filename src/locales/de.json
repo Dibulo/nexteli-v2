@@ -32,6 +32,11 @@
     "noResults": "Keine Stationen gefunden",
     "searching": "Suche…"
   },
+  "board": {
+    "title": "Abfahrtstafel",
+    "empty": "Noch keine Stationen",
+    "rowAria": "Linie {line} ab {station}, {countdown}"
+  },
   "departure": {
     "now": "jetzt",
     "next": "Nächste",

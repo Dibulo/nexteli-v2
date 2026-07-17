@@ -1,21 +1,9 @@
 <script setup lang="ts">
 import { onMounted, onUnmounted } from 'vue'
-import { useRouter } from 'vue-router'
-import { useI18n } from 'vue-i18n'
-import { VueDraggable } from 'vue-draggable-plus'
-import StationCard from '@/components/StationCard.vue'
-import { useStations } from '@/composables/useStations'
+import DepartureBoard from '@/components/DepartureBoard.vue'
+import { useBoardRows } from '@/composables/useBoardRows'
 
-const { t } = useI18n()
-const router = useRouter()
-const {
-  stationEntries,
-  savedStations,
-  hasStations,
-  removeStation,
-  refreshAll,
-  setStationOrder,
-} = useStations()
+const { boardRows, refreshStation, refreshAll } = useBoardRows()
 
 let refreshInterval: ReturnType<typeof setInterval> | undefined
 
@@ -28,32 +16,24 @@ onUnmounted(() => {
   clearInterval(refreshInterval)
 })
 
-function handleRemove(id: string) {
-  removeStation(id)
-  if (!hasStations.value) {
-    router.push('/station/new')
-  }
+function handleExpired(entryId: string) {
+  refreshStation(entryId)
 }
 </script>
 
 <template>
-  <div class="page-container">
-    <div class="mb-8">
-      <h1 class="page-title">{{ t('stations.title') }}</h1>
-    </div>
-    <VueDraggable
-      :model-value="savedStations"
-      item-key="id"
-      handle=".station-drag-handle"
-      :animation="200"
-      direction="vertical"
-      ghost-class="route-card-ghost"
-      class="flex flex-col gap-5"
-      @update:model-value="setStationOrder"
-    >
-      <div v-for="entry in stationEntries" :key="entry.id">
-        <StationCard :entry="entry" @remove="handleRemove" />
-      </div>
-    </VueDraggable>
+  <div class="board-screen">
+    <DepartureBoard :rows="boardRows" @expired="handleExpired" />
   </div>
 </template>
+
+<style scoped>
+.board-screen {
+  display: flex;
+  flex: 1;
+  min-height: 0;
+  width: 100%;
+  background-color: var(--board-bg);
+  color: var(--board-fg);
+}
+</style>

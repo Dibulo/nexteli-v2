@@ -32,6 +32,11 @@
     "noResults": "No se encontraron estaciones",
     "searching": "Buscando…"
   },
+  "board": {
+    "title": "Panel de salidas",
+    "empty": "Aún no hay estaciones",
+    "rowAria": "Línea {line} desde {station}, {countdown}"
+  },
   "departure": {
     "now": "ahora",
     "next": "Siguiente",

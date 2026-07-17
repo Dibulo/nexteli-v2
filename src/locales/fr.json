@@ -32,6 +32,11 @@
     "noResults": "Aucune gare trouvée",
     "searching": "Recherche…"
   },
+  "board": {
+    "title": "Tableau des départs",
+    "empty": "Aucune gare pour l'instant",
+    "rowAria": "Ligne {line} depuis {station}, {countdown}"
+  },
   "departure": {
     "now": "maint.",
     "next": "Prochain",

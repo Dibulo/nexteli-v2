@@ -32,6 +32,11 @@
     "noResults": "Nessuna stazione trovata",
     "searching": "Ricerca…"
   },
+  "board": {
+    "title": "Tabellone partenze",
+    "empty": "Nessuna stazione ancora",
+    "rowAria": "Linea {line} da {station}, {countdown}"
+  },
   "departure": {
     "now": "ora",
     "next": "Prossima",

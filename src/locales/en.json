@@ -32,6 +32,11 @@
     "noResults": "No stations found",
     "searching": "Searching…"
   },
+  "board": {
+    "title": "Departure board",
+    "empty": "No stations yet",
+    "rowAria": "Line {line} from {station}, {countdown}"
+  },
   "departure": {
     "now": "now",
     "next": "Next",

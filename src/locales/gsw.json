@@ -32,6 +32,11 @@
     "noResults": "Kei Haltestelle gfunde",
     "searching": "Am sueche…"
   },
+  "board": {
+    "title": "Abfahrtstafle",
+    "empty": "No kei Haltestelle",
+    "rowAria": "Linie {line} ab {station}, {countdown}"
+  },
   "departure": {
     "now": "jetzt",
     "next": "Nöchschti",
